@@ -1,0 +1,719 @@
+[
+  {
+    "name": "GTA:Vice City",
+    "embed": "https://selenite.cc/resources/semag/gtavc/index.html",
+    "slug": "gtavc",
+    "image": "/assets/semag-images/gtavc.png"
+  },
+  {
+    "name": "Bad Parenting",
+    "embed": "https://selenite.cc/resources/semag/badparenting/index.html",
+    "slug": "badparenting",
+    "image": "/assets/semag-images/badparenting.webp"
+  },
+  {
+    "name": "Escape Road City 2",
+    "embed": "https://selenite.cc/resources/semag/escaperoadcity2/index.html",
+    "slug": "escaperoadcity2",
+    "image": "/assets/semag-images/escaperoadcity2.webp"
+  },
+  {
+    "name": "ULTRAKILL",
+    "embed": "https://selenite.cc/resources/semag/ultrakill/index.html",
+    "slug": "ultrakill",
+    "image": "/assets/semag-images/ultrakill.png"
+  },
+  {
+    "name": "1 on 1 Soccer",
+    "embed": "https://bull.nirbika.com.np/resources/semag/1on1soccer/index.html",
+    "slug": "1on1soccer",
+    "image": "/assets/semag-images/1on1soccer.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/d2/ee/e4/d2eee437b843fb7657cd101dd4ab036b.jpg"
+  },
+  {
+    "name": "1v1.LOL",
+    "embed": "https://bull.nirbika.com.np/resources/semag/1v1.lol/index.html",
+    "slug": "1v1.lol",
+    "image": "/assets/semag-images/1v1.lol.jpg",
+    "sourceImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/366e90ac-c18e-4794-95c4-890c9230d1c9/dfypbb2-e3928daa-ade3-48bc-bdd3-726a6d973585.jpg/v1/fill/w_583,h_350,q_70,strp/1v1_lol_unblocked_multiplayer_shooting_game_by_sanjeevzestful_dfypbb2-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mLzM2NmU5MGFjLWMxOGUtNDc5NC05NWM0LTg5MGM5MjMwZDFjOS9kZnlwYmIyLWUzOTI4ZGFhLWFkZTMtNDhiYy1iZGQzLTcyNmE2ZDk3MzU4NS5qcGciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.75LX0vfNvUsdLZuafnPeF-nVNjnHWMHgrlK6gGKUii0"
+  },
+  {
+    "name": "2048",
+    "embed": "https://bull.nirbika.com.np/resources/semag/2048/index.html",
+    "slug": "2048",
+    "image": "/assets/semag-images/2048.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/5d/55/34/5d5534812c5b2376c2e0434797390f78.jpg"
+  },
+  {
+    "name": "2D Rocket League",
+    "embed": "https://bull.nirbika.com.np/resources/semag/2drocketleague/index.html",
+    "slug": "2drocketleague",
+    "image": "/assets/semag-images/2drocketleague.jpg",
+    "sourceImage": "https://i5.walmartimages.com/seo/UNFRAMED-Rocket-League-Game-Cover-Art-Poster-for-Gaming-Room-Decor_8b2e283d-719c-4686-8133-b7e3016f67d6.d94eaebfde7dbbaa6bc64b3f816db13d.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF"
+  },
+  {
+    "name": "60s Burger Run",
+    "embed": "https://bull.nirbika.com.np/resources/semag/60sburgerrun/index.html",
+    "slug": "60sburgerrun",
+    "image": "/assets/semag-images/60sburgerrun.jpg",
+    "sourceImage": "https://i.etsystatic.com/11340718/r/il/dae6f5/6001131659/il_300x300.6001131659_34zr.jpg"
+  },
+  {
+    "name": "Achievement Unlocked",
+    "embed": "https://bull.nirbika.com.np/resources/semag/achievementunlocked/index.html",
+    "slug": "achievementunlocked",
+    "image": "/assets/semag-images/achievementunlocked.jpg",
+    "sourceImage": "https://e.snmc.io/lk/lv/x/669f377574a491506adf56457bb6ffe7/10178846"
+  },
+  {
+    "name": "Achievement Unlocked 2",
+    "embed": "https://bull.nirbika.com.np/resources/semag/achievementunlocked2/index.html",
+    "slug": "achievementunlocked2",
+    "image": "/assets/semag-images/achievementunlocked2.jpg",
+    "sourceImage": "https://e.snmc.io/lk/lv/x/669f377574a491506adf56457bb6ffe7/10178846"
+  },
+  {
+    "name": "A Dark Room",
+    "embed": "https://bull.nirbika.com.np/resources/semag/adarkroom/index.html",
+    "slug": "adarkroom",
+    "image": "/assets/semag-images/adarkroom.jpg",
+    "sourceImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ae47d78-95ad-4187-bb8e-4447a4c9eb0d/denm1yn-7ec23861-9221-44e9-acf0-620a088a9ead.jpg/v1/fill/w_444,h_250,q_70,strp/cover_art_1_by_darkroom_games_denm1yn-250t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiIvZi8wYWU0N2Q3OC05NWFkLTQxODctYmI4ZS00NDQ3YTRjOWViMGQvZGVubTF5bi03ZWMyMzg2MS05MjIxLTQ0ZTktYWNmMC02MjBhMDg4YTllYWQuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ._J7BHwt3cP4MCErWxWR7kji-1Zp7fr3Ue2_EtlWwyvs"
+  },
+  {
+    "name": "A Dance of Fire and Ice",
+    "embed": "https://bull.nirbika.com.np/resources/semag/adanceoffireandice/index.html",
+    "slug": "adanceoffireandice",
+    "image": "/assets/semag-images/adanceoffireandice.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/5a/e6/4c/5ae64ccf5e3f725973550a2700630e28.jpg"
+  },
+  {
+    "name": "AdVenture Capitalist",
+    "embed": "https://bull.nirbika.com.np/resources/semag/adventurecapitalist/index.html",
+    "slug": "adventurecapitalist",
+    "image": "/assets/semag-images/adventurecapitalist.jpg",
+    "sourceImage": "https://e.snmc.io/lk/lv/x/76961bab12b74ebc9a212fd73c624387/5275415"
+  },
+  {
+    "name": "Age of War",
+    "embed": "https://bull.nirbika.com.np/resources/semag/ageofwar/index.html",
+    "slug": "ageofwar",
+    "image": "/assets/semag-images/ageofwar.jpg",
+    "sourceImage": "https://i.ebayimg.com/images/g/ATsAAOSwL0xjaS4x/s-l500.jpg"
+  },
+  {
+    "name": "Amazing Rope Police",
+    "embed": "https://bull.nirbika.com.np/resources/semag/amazingropepolice/index.html",
+    "slug": "amazingropepolice",
+    "image": "/assets/semag-images/amazingropepolice.jpg",
+    "sourceImage": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnN0YWdlIiwia2V5IjoiYmxvZ1wvYzhlNWI5YTctMmY1Ny00ZmMzLWE1NmUtMmZjNzAwMjVmMDBiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4MH19fQ=="
+  },
+  {
+    "name": "Among Us",
+    "embed": "https://bull.nirbika.com.np/resources/semag/amongus/index.html",
+    "slug": "amongus",
+    "image": "/assets/semag-images/amongus.jpg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Among_Us_cover_art.jpg/250px-Among_Us_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  {
+    "name": "Avalanche",
+    "embed": "https://bull.nirbika.com.np/resources/semag/avalanche/index.html",
+    "slug": "avalanche",
+    "image": "/assets/semag-images/avalanche.jpg",
+    "sourceImage": "https://foxyprinting.co.uk/cdn/shop/products/Kirby_s_20Avalanche_800x.png?v=1492225952"
+  },
+  {
+    "name": "Awesome Tanks",
+    "embed": "https://bull.nirbika.com.np/resources/semag/awesometanks/index.html",
+    "slug": "awesometanks",
+    "image": "/assets/semag-images/awesometanks.jpg",
+    "sourceImage": "https://imagesyoulike.com/images/v/120x90/v2449.jpg"
+  },
+  {
+    "name": "Ayun",
+    "embed": "https://bull.nirbika.com.np/resources/semag/ayun/index.html",
+    "slug": "ayun",
+    "image": "/assets/semag-images/ayun.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/8b/0a/0e/8b0a0e0a3a7f6caa86646f34d92a0450.jpg"
+  },
+  {
+    "name": "Bad Ice Cream",
+    "embed": "https://bull.nirbika.com.np/resources/semag/badicecream/index.html",
+    "slug": "badicecream",
+    "image": "/assets/semag-images/badicecream.jpg",
+    "sourceImage": "https://imgr2.ant.games/220x220/games/bad-ice-cream/s500x500-1726461546.png"
+  },
+  {
+    "name": "Bad Ice Cream 2",
+    "embed": "https://bull.nirbika.com.np/resources/semag/badicecream2/index.html",
+    "slug": "badicecream2",
+    "image": "/assets/semag-images/badicecream2.jpg",
+    "sourceImage": "https://s3.crackedcdn.com/phpimages/article/0/1/0/330010.jpg?v=1"
+  },
+  {
+    "name": "Bad Ice Cream 3",
+    "embed": "https://bull.nirbika.com.np/resources/semag/badicecream3/index.html",
+    "slug": "badicecream3",
+    "image": "/assets/semag-images/badicecream3.jpg",
+    "sourceImage": "https://s3.crackedcdn.com/phpimages/article/0/1/0/330010.jpg?v=1"
+  },
+  {
+    "name": "Bad Piggies",
+    "embed": "https://bull.nirbika.com.np/resources/semag/badpiggies/index.html",
+    "slug": "badpiggies",
+    "image": "/assets/semag-images/badpiggies.jpg",
+    "sourceImage": "https://i.ebayimg.com/images/g/-wcAAOSwsZ9hWGZp/s-l500.jpg"
+  },
+  {
+    "name": "Bad Time Simulator",
+    "embed": "https://bull.nirbika.com.np/resources/semag/badtimesimulator/index.html",
+    "slug": "badtimesimulator",
+    "image": "/assets/semag-images/badtimesimulator.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/79/bf/d4/79bfd410a66cd97ab8a5215ba21a467f.jpg"
+  },
+  {
+    "name": "Baldi's Basics",
+    "embed": "https://bull.nirbika.com.np/resources/semag/baldisbasics/index.html",
+    "slug": "baldisbasics",
+    "image": "/assets/semag-images/baldisbasics.jpg",
+    "sourceImage": "https://media.rawg.io/media/resize/200/-/screenshots/3ac/3acc4d7f4f23e678944208083515513b.jpg"
+  },
+  {
+    "name": "Ballistic Chickens",
+    "embed": "https://bull.nirbika.com.np/resources/semag/ballisticchickens/index.html",
+    "slug": "ballisticchickens",
+    "image": "/assets/semag-images/ballisticchickens.jpg",
+    "sourceImage": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/02/mobile-light-force-2-cover-art-and-a-screenshot-of-the-game.jpg?q=50&fit=crop&w=825&dpr=1.5"
+  },
+  {
+    "name": "Basketball Stars",
+    "embed": "https://bull.nirbika.com.np/resources/semag/basketballstars/index.html",
+    "slug": "basketballstars",
+    "image": "/assets/semag-images/basketballstars.jpg",
+    "sourceImage": "https://render.fineartamerica.com/images/rendered/medium/print/10.5/14/break/images/artworkimages/medium/2/history-still-in-the-making-april-18-2016-sports-illustrated-cover.jpg"
+  },
+  {
+    "name": "BasketBros",
+    "embed": "https://bull.nirbika.com.np/resources/semag/basketbros/index.html",
+    "slug": "basketbros",
+    "image": "/assets/semag-images/basketbros.jpg",
+    "sourceImage": "https://b.thumbs.redditmedia.com/zune5VHr1Z_WbxHfTVDqx9emzEN5B_C24nm2OV3llDA.jpg"
+  },
+  {
+    "name": "Basket Random",
+    "embed": "https://bull.nirbika.com.np/resources/semag/basketrandom/index.html",
+    "slug": "basketrandom",
+    "image": "/assets/semag-images/basketrandom.jpg",
+    "sourceImage": "https://b.thumbs.redditmedia.com/zune5VHr1Z_WbxHfTVDqx9emzEN5B_C24nm2OV3llDA.jpg"
+  },
+  {
+    "name": "Bit Planes",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bitplanes/index.html",
+    "slug": "bitplanes",
+    "image": "/assets/semag-images/bitplanes.jpg",
+    "sourceImage": "https://assets.promptbase.com/DALLE_IMAGES/R2HpAolnIWu7MAXPYquc/resized/1712248213040_1000x1000.webp?alt=media&token=dc99fd39-8e5d-46bb-959b-6409e4442905"
+  },
+  {
+    "name": "BitLife",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bitlife/index.html",
+    "slug": "bitlife",
+    "image": "/assets/semag-images/bitlife.jpg",
+    "sourceImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/mixcollage-14-dec-2024-05-35-am-3216.jpg?q=50&fit=crop&w=480&h=600&dpr=1.5"
+  },
+  {
+    "name": "Blood Tournament",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bloodtournament/index.html",
+    "slug": "bloodtournament",
+    "image": "/assets/semag-images/bloodtournament.jpg",
+    "sourceImage": "https://gameinformer.com/sites/default/files/styles/body_default/public/2026/06/05/f6dc92ab/blood-of-the-dawnwalker-sale-cover-003.jpg.webp"
+  },
+  {
+    "name": "Bob the Robber 2",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bobtherobber2/index.html",
+    "slug": "bobtherobber2",
+    "image": "/assets/semag-images/bobtherobber2.jpg",
+    "sourceImage": "https://amostagreeablepastime.com/wp-content/uploads/2020/08/77495-wizkid.jpg?w=800"
+  },
+  {
+    "name": "Boxing Physics 2",
+    "embed": "https://bull.nirbika.com.np/resources/semag/boxingphysics2/index.html",
+    "slug": "boxingphysics2",
+    "image": "/assets/semag-images/boxingphysics2.jpg",
+    "sourceImage": "https://imagerenderer.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/muhammad-ali-heavyweight-boxing-may-24-1965-sports-illustrated-cover.jpg"
+  },
+  {
+    "name": "Boxing Random",
+    "embed": "https://bull.nirbika.com.np/resources/semag/boxingrandom/index.html",
+    "slug": "boxingrandom",
+    "image": "/assets/semag-images/boxingrandom.jpg",
+    "sourceImage": "https://i.redd.it/7h1i0wt0chsc1.jpeg"
+  },
+  {
+    "name": "Breaking the Bank",
+    "embed": "https://bull.nirbika.com.np/resources/semag/breakingthebank/index.html",
+    "slug": "breakingthebank",
+    "image": "/assets/semag-images/breakingthebank.jpg",
+    "sourceImage": "https://i.ytimg.com/vi/ev8zF5SSOcE/mqdefault.jpg"
+  },
+  {
+    "name": "Bloons TD",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bloonstd/index.html",
+    "slug": "bloonstd",
+    "image": "/assets/semag-images/bloonstd.jpg",
+    "sourceImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/mixcollage-22-nov-2024-12-12-am-4602.jpg?q=50&fit=crop&w=480&h=600&dpr=1.5"
+  },
+  {
+    "name": "Bloons TD 2",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bloonstd2/index.html",
+    "slug": "bloonstd2",
+    "image": "/assets/semag-images/bloonstd2.jpg",
+    "sourceImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/03/plants-vs-zombies-3-welcome-to-zomburbia-video-game-cover-art-tag.jpg?q=50&fit=contain&w=383&h=566&dpr=1.5"
+  },
+  {
+    "name": "Bloons TD 3",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bloonstd3/index.html",
+    "slug": "bloonstd3",
+    "image": "/assets/semag-images/bloonstd3.jpg",
+    "sourceImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/03/plants-vs-zombies-3-welcome-to-zomburbia-video-game-cover-art-tag.jpg?q=50&fit=contain&w=383&h=566&dpr=1.5"
+  },
+  {
+    "name": "Bloons TD 4",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bloonstd4/index.html",
+    "slug": "bloonstd4",
+    "image": "/assets/semag-images/bloonstd4.jpg",
+    "sourceImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/03/plants-vs-zombies-3-welcome-to-zomburbia-video-game-cover-art-tag.jpg?q=50&fit=contain&w=383&h=566&dpr=1.5"
+  },
+  {
+    "name": "Bloons TD 5",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bloonstd5/index.html",
+    "slug": "bloonstd5",
+    "image": "/assets/semag-images/bloonstd5.jpg",
+    "sourceImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/03/plants-vs-zombies-3-welcome-to-zomburbia-video-game-cover-art-tag.jpg?q=50&fit=contain&w=383&h=566&dpr=1.5"
+  },
+  {
+    "name": "Bloons TD 6",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bloonstd6/index.html",
+    "slug": "bloonstd6",
+    "image": "/assets/semag-images/bloonstd6.jpg",
+    "sourceImage": "https://interfaceingame.com/wp-content/uploads/bloons-td-6/bloons-td-6-expert-500x281.jpg"
+  },
+  {
+    "name": "Bubble Shooter",
+    "embed": "https://bull.nirbika.com.np/resources/semag/bubbleshooter/index.html",
+    "slug": "bubbleshooter",
+    "image": "/assets/semag-images/bubbleshooter.jpg",
+    "sourceImage": "https://market-resized.envatousercontent.com/previews/files/368212353/Cover.jpg?w=590&h=590&cf_fit=crop&crop=top&format=auto&q=85&s=919360eda5dfbbd4d3ccd12f619fd45fa280a9accc78e2bd152886fc0f5d2af0"
+  },
+  {
+    "name": "Burger and Frights",
+    "embed": "https://bull.nirbika.com.np/resources/semag/burgerandfrights/index.html",
+    "slug": "burgerandfrights",
+    "image": "/assets/semag-images/burgerandfrights.jpg",
+    "sourceImage": "https://s3.crackedcdn.com/phpimages/article/5/8/9/260589.jpg?v=1"
+  },
+  {
+    "name": "Burrito Bison",
+    "embed": "https://bull.nirbika.com.np/resources/semag/burritobison/index.html",
+    "slug": "burritobison",
+    "image": "/assets/semag-images/burritobison.jpg",
+    "sourceImage": "https://www.najox.com/files/screens/burrito_bison_1.webp"
+  },
+  {
+    "name": "Celeste",
+    "embed": "https://bull.nirbika.com.np/resources/semag/celeste/index.html",
+    "slug": "celeste",
+    "image": "/assets/semag-images/celeste.jpg",
+    "sourceImage": "https://preview.redd.it/anyone-have-the-original-cover-art-without-the-shitting-v0-n79oo181zj7d1.jpeg?width=640&crop=smart&auto=webp&s=55d35e3904b16a20d8ec8ff7e7e1aa6b3c842362"
+  },
+  {
+    "name": "Cell Machine",
+    "embed": "https://bull.nirbika.com.np/resources/semag/cellmachine/index.html",
+    "slug": "cellmachine",
+    "image": "/assets/semag-images/cellmachine.jpg",
+    "sourceImage": "https://preview.redd.it/is-this-the-original-cover-art-for-splinter-cell-v0-tbfg7mp2g29e1.jpeg?format=pjpg&auto=webp&s=160f6ce255a6ea3391f6d481e4f0b5691695651b"
+  },
+  {
+    "name": "Champion Island",
+    "embed": "https://bull.nirbika.com.np/resources/semag/championisland/index.html",
+    "slug": "championisland",
+    "image": "/assets/semag-images/championisland.jpg",
+    "sourceImage": "https://cdn.mobygames.com/covers/10281906-doodle-champion-island-games-browser-front-cover.png"
+  },
+  {
+    "name": "Chess",
+    "embed": "https://bull.nirbika.com.np/resources/semag/chess/index.html",
+    "slug": "chess",
+    "image": "/assets/semag-images/chess.jpg",
+    "sourceImage": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/chess-rap-mixtape-cover-art-design-template-9795778501ebe0483d5e68d4a6649998.jpg?ts=1649736405"
+  },
+  {
+    "name": "Chibi Knight",
+    "embed": "https://bull.nirbika.com.np/resources/semag/chibiknight/index.html",
+    "slug": "chibiknight",
+    "image": "/assets/semag-images/chibiknight.jpg",
+    "sourceImage": "https://i.etsystatic.com/54395898/r/il/a25f76/8017344768/il_300x300.8017344768_9cvi.jpg"
+  },
+  {
+    "name": "Circloo",
+    "embed": "https://bull.nirbika.com.np/resources/semag/circloo/index.html",
+    "slug": "circloo",
+    "image": "/assets/semag-images/circloo.jpg",
+    "sourceImage": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5rn5.jpg"
+  },
+  {
+    "name": "Clicker Heroes",
+    "embed": "https://bull.nirbika.com.np/resources/semag/clickerheroes/index.html",
+    "slug": "clickerheroes",
+    "image": "/assets/semag-images/clickerheroes.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/84/18/a4/8418a4fc6a65a43f733997b54362d7fc.jpg"
+  },
+  {
+    "name": "Cluster Rush",
+    "embed": "https://bull.nirbika.com.np/resources/semag/clusterrush/index.html",
+    "slug": "clusterrush",
+    "image": "/assets/semag-images/clusterrush.jpg",
+    "sourceImage": "https://images.nightcafe.studio/galleries/Y7afBtgm1fYrL263MHLV/scifi_video_game_cover_art--1--rhd8r.jpg?tr=w-1600,c-at_max"
+  },
+  {
+    "name": "Color Switch",
+    "embed": "https://bull.nirbika.com.np/resources/semag/colorswitch/index.html",
+    "slug": "colorswitch",
+    "image": "/assets/semag-images/colorswitch.jpg",
+    "sourceImage": "https://i.etsystatic.com/44708041/r/il/909aba/5750367180/il_300x300.5750367180_8jx5.jpg"
+  },
+  {
+    "name": "Commodore Clicker",
+    "embed": "https://bull.nirbika.com.np/resources/semag/commodoreclicker/index.html",
+    "slug": "commodoreclicker",
+    "image": "/assets/semag-images/commodoreclicker.jpg",
+    "sourceImage": "https://imgix.bustle.com/uploads/image/2021/8/27/bf7a6b73-44e6-4eb7-a3ba-258fe1025cd2-crazy-kong.jpeg?w=350&h=444&fit=crop&crop=faces&duotone=d538f7,2bc1ee&dpr=2"
+  },
+  {
+    "name": "Cookie Clicker",
+    "embed": "https://bull.nirbika.com.np/resources/semag/cookieclicker/index.html",
+    "slug": "cookieclicker",
+    "image": "/assets/semag-images/cookieclicker.jpg",
+    "sourceImage": "https://e.snmc.io/lk/l/x/ff9a4e8ddcac74a14e55bb3e73acefde/9227001"
+  },
+  {
+    "name": "Crossy Road",
+    "embed": "https://bull.nirbika.com.np/resources/semag/crossyroad/index.html",
+    "slug": "crossyroad",
+    "image": "/assets/semag-images/crossyroad.jpg",
+    "sourceImage": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/02/tetris-cover-art-and-screenshot.jpg?q=50&fit=crop&w=825&dpr=1.5"
+  },
+  {
+    "name": "CS:GO Clicker",
+    "embed": "https://bull.nirbika.com.np/resources/semag/csgoclicker/index.html",
+    "slug": "csgoclicker",
+    "image": "/assets/semag-images/csgoclicker.jpg",
+    "sourceImage": "https://i.etsystatic.com/55883016/r/il/4652d9/6462729089/il_300x300.6462729089_j231.jpg"
+  },
+  {
+    "name": "Cubefield",
+    "embed": "https://bull.nirbika.com.np/resources/semag/cubefield/index.html",
+    "slug": "cubefield",
+    "image": "/assets/semag-images/cubefield.jpg",
+    "sourceImage": "https://i.etsystatic.com/32802135/r/il/92ee4e/6643038761/il_340x270.6643038761_bssh.jpg"
+  },
+  {
+    "name": "Cut the Rope",
+    "embed": "https://bull.nirbika.com.np/resources/semag/cuttherope/index.html",
+    "slug": "cuttherope",
+    "image": "/assets/semag-images/cuttherope.jpg",
+    "sourceImage": "https://s3.crackedcdn.com/phpimages/article/9/8/4/329984.jpg?v=1"
+  },
+  {
+    "name": "Cut the Rope: Holiday",
+    "embed": "https://bull.nirbika.com.np/resources/semag/cuttheropeholiday/index.html",
+    "slug": "cuttheropeholiday",
+    "image": "/assets/semag-images/cuttheropeholiday.jpg",
+    "sourceImage": "https://s3.crackedcdn.com/phpimages/article/5/8/9/260589.jpg?v=1"
+  },
+  {
+    "name": "Dadish",
+    "embed": "https://bull.nirbika.com.np/resources/semag/dadish/index.html",
+    "slug": "dadish",
+    "image": "/assets/semag-images/dadish.jpg",
+    "sourceImage": "https://amostagreeablepastime.com/wp-content/uploads/2020/08/77495-wizkid.jpg?w=800"
+  },
+  {
+    "name": "Dadish 2",
+    "embed": "https://bull.nirbika.com.np/resources/semag/dadish2/index.html",
+    "slug": "dadish2",
+    "image": "/assets/semag-images/dadish2.jpg",
+    "sourceImage": "https://i.etsystatic.com/59217651/r/il/322be7/7531175870/il_300x300.7531175870_o0sw.jpg"
+  },
+  {
+    "name": "Dadish 3",
+    "embed": "https://bull.nirbika.com.np/resources/semag/dadish3/index.html",
+    "slug": "dadish3",
+    "image": "/assets/semag-images/dadish3.jpg",
+    "sourceImage": "https://i.etsystatic.com/11719466/r/il/7f3988/8177549279/il_300x300.8177549279_dfr9.jpg"
+  },
+  {
+    "name": "Dante",
+    "embed": "https://bull.nirbika.com.np/resources/semag/dante/index.html",
+    "slug": "dante",
+    "image": "/assets/semag-images/dante.jpg",
+    "sourceImage": "https://i.etsystatic.com/37309760/r/il/9ea7ca/6276627603/il_300x300.6276627603_smqh.jpg"
+  },
+  {
+    "name": "Deal",
+    "embed": "https://bull.nirbika.com.np/resources/semag/deal/index.html",
+    "slug": "deal",
+    "image": "/assets/semag-images/deal.jpg",
+    "sourceImage": "https://www.gamedesigning.org/wp-content/uploads/2020/06/Video-Game-Cover-Design.jpg"
+  },
+  {
+    "name": "Death Run 3D",
+    "embed": "https://bull.nirbika.com.np/resources/semag/deathrun3d/index.html",
+    "slug": "deathrun3d",
+    "image": "/assets/semag-images/deathrun3d.jpg",
+    "sourceImage": "https://www.gamedesigning.org/wp-content/uploads/2020/03/The-Anatomy-of-Great-Video-Game-Box-Art.jpg"
+  },
+  {
+    "name": "Dino Game",
+    "embed": "https://bull.nirbika.com.np/resources/semag/dinogame/index.html",
+    "slug": "dinogame",
+    "image": "/assets/semag-images/dinogame.jpg",
+    "sourceImage": "https://b.thumbs.redditmedia.com/zune5VHr1Z_WbxHfTVDqx9emzEN5B_C24nm2OV3llDA.jpg"
+  },
+  {
+    "name": "Doge Miner",
+    "embed": "https://bull.nirbika.com.np/resources/semag/dogeminer/index.html",
+    "slug": "dogeminer",
+    "image": "/assets/semag-images/dogeminer.jpg",
+    "sourceImage": "https://www.gamedesigning.org/wp-content/uploads/2020/03/The-Anatomy-of-Great-Video-Game-Box-Art.jpg"
+  },
+  {
+    "name": "Doodle Jump",
+    "embed": "https://bull.nirbika.com.np/resources/semag/doodlejump/index.html",
+    "slug": "doodlejump",
+    "image": "/assets/semag-images/doodlejump.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/c4/10/41/c410410ecfcb133bf286a47996d8dc57.jpg"
+  },
+  {
+    "name": "Doom",
+    "embed": "https://bull.nirbika.com.np/resources/semag/doom/index.html",
+    "slug": "doom",
+    "image": "/assets/semag-images/doom.jpg",
+    "sourceImage": "https://i.etsystatic.com/45872045/r/il/2a8679/7950118726/il_300x300.7950118726_jf31.jpg"
+  },
+  {
+    "name": "Drag",
+    "embed": "https://bull.nirbika.com.np/resources/semag/drag/index.html",
+    "slug": "drag",
+    "image": "/assets/semag-images/drag.jpg",
+    "sourceImage": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/02/dragon-s-lair-cover-art-and-a-screenshot-of-the-game.jpg?q=50&fit=crop&w=825&dpr=1.5"
+  },
+  {
+    "name": "Dragon Ball Devolution",
+    "embed": "https://bull.nirbika.com.np/resources/semag/dragonballdevolution/index.html",
+    "slug": "dragonballdevolution",
+    "image": "/assets/semag-images/dragonballdevolution.jpg",
+    "sourceImage": "https://4kwallpapers.com/images/walls/thumbs_2t/17419.jpg"
+  },
+  {
+    "name": "Drift Boss",
+    "embed": "https://bull.nirbika.com.np/resources/semag/driftboss/index.html",
+    "slug": "driftboss",
+    "image": "/assets/semag-images/driftboss.jpg",
+    "sourceImage": "https://preview.redd.it/what-video-game-cover-art-would-make-for-a-good-album-cover-v0-585to8bohxug1.jpeg?width=256&format=pjpg&auto=webp&s=f1219aa1b2903115a90fed6608c5fcf4081caf21"
+  },
+  {
+    "name": "Drift Hunters",
+    "embed": "https://bull.nirbika.com.np/resources/semag/drifthunters/index.html",
+    "slug": "drifthunters",
+    "image": "/assets/semag-images/drifthunters.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/8b/0a/0e/8b0a0e0a3a7f6caa86646f34d92a0450.jpg"
+  },
+  {
+    "name": "Drive Mad",
+    "embed": "https://bull.nirbika.com.np/resources/semag/drivemad/index.html",
+    "slug": "drivemad",
+    "image": "/assets/semag-images/drivemad.jpg",
+    "sourceImage": "https://s3.crackedcdn.com/phpimages/article/0/1/0/330010.jpg?v=1"
+  },
+  {
+    "name": "Duck Life",
+    "embed": "https://bull.nirbika.com.np/resources/semag/ducklife/index.html",
+    "slug": "ducklife",
+    "image": "/assets/semag-images/ducklife.jpg",
+    "sourceImage": "https://www.speedrun.com/static/game/nd2enk5d/cover.png?v=73d4391"
+  },
+  {
+    "name": "Duck Life 2",
+    "embed": "https://bull.nirbika.com.np/resources/semag/ducklife2/index.html",
+    "slug": "ducklife2",
+    "image": "/assets/semag-images/ducklife2.jpg",
+    "sourceImage": "https://e.snmc.io/lk/lv/x/470f50ac0a0c023af9e0cedbf49e622d/10171480"
+  },
+  {
+    "name": "Duck Life 3",
+    "embed": "https://bull.nirbika.com.np/resources/semag/ducklife3/index.html",
+    "slug": "ducklife3",
+    "image": "/assets/semag-images/ducklife3.jpg",
+    "sourceImage": "https://cdn-bgp.bluestacks.com/BGP/us/app_page_com.mad.ducklife3.jpg"
+  },
+  {
+    "name": "Duck Life 4",
+    "embed": "https://bull.nirbika.com.np/resources/semag/ducklife4/index.html",
+    "slug": "ducklife4",
+    "image": "/assets/semag-images/ducklife4.jpg",
+    "sourceImage": "https://www.speedrun.com/static/game/nd2enk5d/cover.png?v=73d4391"
+  },
+  {
+    "name": "Duck Life 5",
+    "embed": "https://bull.nirbika.com.np/resources/semag/ducklife5/index.html",
+    "slug": "ducklife5",
+    "image": "/assets/semag-images/ducklife5.jpg",
+    "sourceImage": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/12/3e/c0123e5c-d78e-d2b1-5d50-886eaa563835/6f7b135d-45fb-45d7-b8be-d140d5de3989_DLTH_2688x1242_screenshot__U00281_U0029.png/471x1024.jpeg"
+  },
+  {
+    "name": "Duck Life 6",
+    "embed": "https://bull.nirbika.com.np/resources/semag/ducklife6/index.html",
+    "slug": "ducklife6",
+    "image": "/assets/semag-images/ducklife6.jpg",
+    "sourceImage": "https://playtracker.net/cdn-cgi/image/format=auto/https://playtracker-apollo.fra1.cdn.digitaloceanspaces.com/covers/api/game_cover_16568.jpg"
+  },
+  {
+    "name": "Escaping the Prison",
+    "embed": "https://bull.nirbika.com.np/resources/semag/escapingtheprison/index.html",
+    "slug": "escapingtheprison",
+    "image": "/assets/semag-images/escapingtheprison.jpg",
+    "sourceImage": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/02/the-chronicles-of-riddick-thumbnail.jpg?q=50&fit=crop&w=825&dpr=1.5"
+  },
+  {
+    "name": "Factory Balls",
+    "embed": "https://bull.nirbika.com.np/resources/semag/factoryballs/index.html",
+    "slug": "factoryballs",
+    "image": "/assets/semag-images/factoryballs.jpg",
+    "sourceImage": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/02/tetris-cover-art-and-screenshot.jpg?q=50&fit=crop&w=825&dpr=1.5"
+  },
+  {
+    "name": "Factory Balls Forever",
+    "embed": "https://bull.nirbika.com.np/resources/semag/factoryballsforever/index.html",
+    "slug": "factoryballsforever",
+    "image": "/assets/semag-images/factoryballsforever.jpg",
+    "sourceImage": "https://mechanicsofmagic.com/wp-content/uploads/2025/05/Screenshot-2025-05-09-at-2.29.54%E2%80%AFAM.png"
+  },
+  {
+    "name": "Fancy Pants Adventures",
+    "embed": "https://bull.nirbika.com.np/resources/semag/fancypantsadventures/index.html",
+    "slug": "fancypantsadventures",
+    "image": "/assets/semag-images/fancypantsadventures.jpg",
+    "sourceImage": "https://preview.redd.it/whats-your-favorite-cover-art-from-any-game-v0-r8bzgpsetv9e1.jpeg?auto=webp&s=8b9fbb157716c5cbf287107b891bfd564f12d389"
+  },
+  {
+    "name": "Fancy Pants Adventures 2",
+    "embed": "https://bull.nirbika.com.np/resources/semag/fancypantsadventures2/index.html",
+    "slug": "fancypantsadventures2",
+    "image": "/assets/semag-images/fancypantsadventures2.jpg",
+    "sourceImage": "https://b.thumbs.redditmedia.com/zune5VHr1Z_WbxHfTVDqx9emzEN5B_C24nm2OV3llDA.jpg"
+  },
+  {
+    "name": "Fireboy and Watergirl",
+    "embed": "https://bull.nirbika.com.np/resources/semag/fireboyandwatergirl/index.html",
+    "slug": "fireboyandwatergirl",
+    "image": "/assets/semag-images/fireboyandwatergirl.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/3c/d3/13/3cd3137513ca398b4f3706106b758252.jpg"
+  },
+  {
+    "name": "Fireboy and Watergirl 2",
+    "embed": "https://bull.nirbika.com.np/resources/semag/fireboyandwatergirl2/index.html",
+    "slug": "fireboyandwatergirl2",
+    "image": "/assets/semag-images/fireboyandwatergirl2.jpg",
+    "sourceImage": "https://preview.redd.it/whats-your-favorite-cover-art-from-any-game-v0-r8bzgpsetv9e1.jpeg?auto=webp&s=8b9fbb157716c5cbf287107b891bfd564f12d389"
+  },
+  {
+    "name": "Fireboy and Watergirl 3",
+    "embed": "https://bull.nirbika.com.np/resources/semag/fireboyandwatergirl3/index.html",
+    "slug": "fireboyandwatergirl3",
+    "image": "/assets/semag-images/fireboyandwatergirl3.jpg",
+    "sourceImage": "https://preview.redd.it/whats-your-favorite-cover-art-from-any-game-v0-r8bzgpsetv9e1.jpeg?auto=webp&s=8b9fbb157716c5cbf287107b891bfd564f12d389"
+  },
+  {
+    "name": "Fireboy and Watergirl 4",
+    "embed": "https://bull.nirbika.com.np/resources/semag/fireboyandwatergirl4/index.html",
+    "slug": "fireboyandwatergirl4",
+    "image": "/assets/semag-images/fireboyandwatergirl4.jpg",
+    "sourceImage": "https://www.speedrun.com/static/game/m1zv8260/cover.png?v=035effc"
+  },
+  {
+    "name": "Flappy Bird",
+    "embed": "https://bull.nirbika.com.np/resources/semag/flappybird/index.html",
+    "slug": "flappybird",
+    "image": "/assets/semag-images/flappybird.jpg",
+    "sourceImage": "https://market-resized.envatousercontent.com/previews/files/400426034/graphicsriver-cover-art.jpg?w=590&h=590&cf_fit=crop&crop=top&format=auto&q=85&s=b559e98d6c450d7eaa8e4a7d346879a776f8b6b9ba992d479e2364ee5b7a9549"
+  },
+  {
+    "name": "Flappy Plane",
+    "embed": "https://bull.nirbika.com.np/resources/semag/flappyplane/index.html",
+    "slug": "flappyplane",
+    "image": "/assets/semag-images/flappyplane.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/e3/53/c8/e353c8582b9108b732d41c329d3108a7.jpg"
+  },
+  {
+    "name": "Fleeing the Complex",
+    "embed": "https://bull.nirbika.com.np/resources/semag/fleeingthecomplex/index.html",
+    "slug": "fleeingthecomplex",
+    "image": "/assets/semag-images/fleeingthecomplex.jpg",
+    "sourceImage": "https://s3.crackedcdn.com/phpimages/article/9/8/4/329984.jpg?v=1"
+  },
+  {
+    "name": "Flippy Fish",
+    "embed": "https://bull.nirbika.com.np/resources/semag/flippyfish/index.html",
+    "slug": "flippyfish",
+    "image": "/assets/semag-images/flippyfish.jpg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Fez_(video_game)_cover_art.png"
+  },
+  {
+    "name": "Fluid Simulation",
+    "embed": "https://bull.nirbika.com.np/resources/semag/fluidsimulation/index.html",
+    "slug": "fluidsimulation",
+    "image": "/assets/semag-images/fluidsimulation.jpg",
+    "sourceImage": "https://s3.crackedcdn.com/phpimages/article/9/8/4/329984.jpg?v=1"
+  },
+  {
+    "name": "Web Dash",
+    "embed": "https://bull.nirbika.com.np/resources/semag/webdash/index.html",
+    "slug": "webdash",
+    "image": "/assets/semag-images/webdash.jpg",
+    "sourceImage": "https://preview.redd.it/geometry-dash-animated-cover-600-x-900-made-in-photomosh-v0-2msubcyd8nga1.jpg?auto=webp&s=aed63c03eb950bc83be19ff128011517bfb99689"
+  },
+  {
+    "name": "Hollow Knight",
+    "embed": "https://selenite.cc/resources/semag/hollowknight/index.html",
+    "slug": "hollowknight",
+    "image": "/assets/semag-images/hollowknight.jpg",
+    "sourceImage": "https://cdn.displate.com/artwork/270x380/2026-01-13/e3e47655-8868-48d9-ac1b-91c8e3502e25.jpg"
+  },
+  {
+    "name": "Friday Night Funkin'",
+    "embed": "https://selenite.cc/resources/semag/fridaynightfunkin/index.html",
+    "slug": "fridaynightfunkin",
+    "image": "/assets/semag-images/fridaynightfunkin.jpg",
+    "sourceImage": "https://preview.redd.it/official-cover-art-for-the-friday-night-funkin-vol-1-cd-by-v0-xqlvnf73c8j81.jpg?width=640&crop=smart&auto=webp&s=539299467a8ecf143f27984341f9e40f33de798b"
+  },
+  {
+    "name": "Undertale",
+    "embed": "https://selenite.cc/resources/semag/undertale/index.html",
+    "slug": "undertale",
+    "image": "/assets/semag-images/undertale.jpg",
+    "sourceImage": "https://undertale.wiki/images/thumb/UNDERTALE_Art_Book_cover.png/300px-UNDERTALE_Art_Book_cover.png.webp?cb=d5meza&h=thumb.php&f=UNDERTALE_Art_Book_cover.png"
+  },
+  {
+    "name": "Terraria",
+    "embed": "https://selenite.cc/resources/semag/terraria/terraria.html",
+    "slug": "terraria",
+    "image": "/assets/semag-images/terraria.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/c7/ed/f3/c7edf35d0c0ff8ad8e4122dfd3454878.jpg"
+  },
+  {
+    "name": "FNAE",
+    "embed": "https://selenite.cc/resources/semag/fnae/index.html",
+    "slug": "fnae",
+    "image": "/assets/semag-images/fnae.jpg",
+    "sourceImage": "https://b.thumbs.redditmedia.com/MXSvcFV-tHSX7skyhEdmvId-vLRpoojyr0a62UwLMDQ.jpg"
+  }
+]

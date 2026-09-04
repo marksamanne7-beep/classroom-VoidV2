@@ -1,0 +1,9 @@
+- [School-network game thumbnails](school-network-game-thumbnails.md) — serve exact game posters through the app’s own origin; client-side RocketGames image URLs may be blocked.
+- [Proxy worker readiness](proxy-worker-readiness.md) — do not await global serviceWorker.ready when the proxy worker’s scope does not control the main page.
+- [Background defaults](background-defaults.md) — use the bundled neon-wave video with Flowing Stars at minimum intensity and pointer interaction enabled.
+- [Exact game artwork](exact-game-artwork.md) — prefer provider posters; web-search matches require canonical titles and visual review before local import.
+- [Large stash launchers](large-stash-launchers.md) — allowlist and serve large linked HTML launchers on demand instead of copying thousands of potentially huge files locally.
+- [Proxy frame compatibility](proxy-content-isolation.md) — proxied pages require same-origin iframe mode and unmodified worker responses; CSP/opaque sandboxing breaks sites.
+- [Anonymous Motif chat context](anonymous-motif-chat-context.md) — conversation IDs alone may not preserve anonymous multi-turn context; send a bounded local transcript.
+- [Preview-proxy origin checks](preview-proxy-origin-checks.md) — trust browser same-origin fetch metadata when Replit’s proxy presents a different internal Host.
+- [Large Unity stash wrappers](large-unity-stash-wrappers.md) — large split-archive games need a visible unpacking stage and must not register CDN-relative service workers.

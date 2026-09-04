@@ -1,0 +1,11 @@
+*.zip
+*.tar.gz
+*.rar
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.config/
+.backup/
+.cache/

@@ -1,0 +1,3739 @@
+[
+  {
+    "name": "1",
+    "embed": "https://assets.hbmc.net/1/",
+    "slug": "1",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/1/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/1.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "10 Minutes Till Dawn",
+    "embed": "https://assets.hbmc.net/10-minutes-till-dawn/",
+    "slug": "10-minutes-till-dawn",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/10-minutes-till-dawn/icon.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/10-minutes-till-dawn.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "100ng",
+    "embed": "https://assets.hbmc.net/100ng/",
+    "slug": "100ng",
+    "image": "/assets/exact-game-images/100ng.jpg",
+    "sourceImage": "https://images2.1games.io/cache/game/100-player-pong/100-players-pong-m200x130.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Play 100 Player Pong now!"
+  },
+  {
+    "name": "1v1.LOL",
+    "embed": "https://assets.hbmc.net/1v1lol/",
+    "slug": "1v1lol",
+    "image": "/assets/exact-game-images/1v1lol.jpg",
+    "sourceImage": "https://gamulo.com/wp-content/uploads/2025/11/Capture-decran-2025-11-03-083959.png",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "1v1 Lol game poster"
+  },
+  {
+    "name": "1v1 Space",
+    "embed": "https://assets.hbmc.net/1v1space/",
+    "slug": "1v1space",
+    "image": "/assets/exact-game-images/1v1space.jpg",
+    "sourceImage": "https://online.fuxien.com/images/thumb/330x330xc/uploads/products/19711/1v1space-mobile.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "1v1.space — Free Online Game"
+  },
+  {
+    "name": "2048 Multitask",
+    "embed": "https://assets.hbmc.net/2048-multitask/",
+    "slug": "2048-multitask",
+    "image": "/assets/exact-game-images/2048-multitask.jpg",
+    "sourceImage": "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/302c38b2-1c43-4714-8482-2eaa74bb9694/3161208327/2048-multitasking-game-screenshot.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "2048 Multitasking Game"
+  },
+  {
+    "name": "2048",
+    "embed": "https://assets.hbmc.net/2048/",
+    "slug": "2048",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/2048/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/2048.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "9007199254740992",
+    "embed": "https://assets.hbmc.net/9007199254740992/",
+    "slug": "9007199254740992",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/9007199254740992/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/9007199254740992.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "99 Balls",
+    "embed": "https://assets.hbmc.net/99balls/",
+    "slug": "99balls",
+    "image": "/assets/exact-game-images/99balls.jpg",
+    "sourceImage": "https://nargames.com/storage/uploads/thumbs/99-balls.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "99 balls Thumbnail"
+  },
+  {
+    "name": "A Dance of Fire and Ice",
+    "embed": "https://assets.hbmc.net/a-dance-of-fire-and-ice/",
+    "slug": "a-dance-of-fire-and-ice",
+    "image": "/assets/semag-images/adanceoffireandice.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Achievement Unlocked",
+    "embed": "https://assets.hbmc.net/achievementunlocked/",
+    "slug": "achievementunlocked",
+    "image": "/assets/hbmc-games/images/achievementunlocked.png",
+    "sourceImage": "https://assets.hbmc.net/achievementunlocked/achievementunlocked.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "A Dark Room",
+    "embed": "https://assets.hbmc.net/adarkroom/",
+    "slug": "adarkroom",
+    "image": "/assets/exact-game-images/adarkroom.jpg",
+    "sourceImage": "https://cf.geekdo-images.com/pOESP6sjpsEnVFKXfFhZHw__square275/img/hLxykhpvEbCZxDe8wO_eOn8Nxg8=/275x275/filters:no_upscale():strip_icc()/pic2084363.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Final sequence. From A Dark Room. Browser game version."
+  },
+  {
+    "name": "Adrenaline Challenge",
+    "embed": "https://assets.hbmc.net/adrenalinechallenge/",
+    "slug": "adrenalinechallenge",
+    "image": "/assets/hbmc-games/images/adrenalinechallenge.jpg",
+    "sourceImage": "https://assets.hbmc.net/adrenalinechallenge/adrenalinechallenge.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Adventure Drivers",
+    "embed": "https://assets.hbmc.net/adventure-drivers/",
+    "slug": "adventure-drivers",
+    "image": "/assets/exact-game-images/adventure-drivers.jpg",
+    "sourceImage": "https://www.contezero.com/user/pages/03.games/09.racing/adventure-drivers/screenshot-2019-05-16.12.36.48.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Adventure Drivers 🕹️ 🏁 | Free Racing Arcade Browser Game - Image 1"
+  },
+  {
+    "name": "Ages of Conflict",
+    "embed": "https://assets.hbmc.net/ages-of-conflict/",
+    "slug": "ages-of-conflict",
+    "image": "/assets/exact-game-images/ages-of-conflict.jpg",
+    "sourceImage": "https://agesofconflict.org/assets/screenshots/ages-of-conflict-god-mode.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Ages of Conflict Asia simulation with the God Mode tools panel open"
+  },
+  {
+    "name": "Alien Hominid",
+    "embed": "https://assets.hbmc.net/alienhominid/",
+    "slug": "alienhominid",
+    "image": "/assets/hbmc-games/images/alienhominid.jpg",
+    "sourceImage": "https://assets.hbmc.net/alienhominid/alienhominid.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Align 4",
+    "embed": "https://assets.hbmc.net/align-4/",
+    "slug": "align-4",
+    "image": "/assets/hbmc-games/images/align-4.png",
+    "sourceImage": "https://assets.hbmc.net/align-4/board.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Amaze",
+    "embed": "https://assets.hbmc.net/amaze/",
+    "slug": "amaze",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Amazing Rope Police",
+    "embed": "https://assets.hbmc.net/amazing-rope-police/",
+    "slug": "amazing-rope-police",
+    "image": "/assets/semag-images/amazingropepolice.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Amidst the Clouds",
+    "embed": "https://assets.hbmc.net/amidst-the-clouds/",
+    "slug": "amidst-the-clouds",
+    "image": "/assets/hbmc-games/images/amidst-the-clouds.png",
+    "sourceImage": "https://assets.hbmc.net/amidst-the-clouds/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Among Us",
+    "embed": "https://assets.hbmc.net/among-us/",
+    "slug": "among-us",
+    "image": "/assets/semag-images/amongus.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Angel Under",
+    "embed": "https://assets.hbmc.net/angelunder/",
+    "slug": "angelunder",
+    "image": "/assets/exact-game-images/angelunder.jpg",
+    "sourceImage": "https://apkmodjoy.net/wp-content/uploads/2025/03/angel-under-apk-for-android.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Angel Under screenshot 3"
+  },
+  {
+    "name": "Angry Sharks",
+    "embed": "https://assets.hbmc.net/angry-sharks/",
+    "slug": "angry-sharks",
+    "image": "/assets/exact-game-images/angry-sharks.jpg",
+    "sourceImage": "https://www.addictinggames.com/_next/image?url=https://prod.addictinggames.com/sites/default/files/ANGRYSHARKSGAMES.jpg&w=3840&q=100",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Angry Sharks Thumbnail"
+  },
+  {
+    "name": "AquaPark Slides",
+    "embed": "https://assets.hbmc.net/aquapark-slides/",
+    "slug": "aquapark-slides",
+    "image": "/assets/hbmc-games/images/aquapark-slides.png",
+    "sourceImage": "https://assets.hbmc.net/aquapark-slides/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Astray",
+    "embed": "https://assets.hbmc.net/astray/",
+    "slug": "astray",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Avalanche",
+    "embed": "https://assets.hbmc.net/avalanche/",
+    "slug": "avalanche",
+    "image": "/assets/hbmc-games/images/avalanche.png",
+    "sourceImage": "https://assets.hbmc.net/avalanche/avalanche.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Awesome Tanks 2",
+    "embed": "https://assets.hbmc.net/awesometanks2/",
+    "slug": "awesometanks2",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Backrooms 2D",
+    "embed": "https://assets.hbmc.net/backrooms-2d/",
+    "slug": "backrooms-2d",
+    "image": "/assets/exact-game-images/backrooms-2d.jpg",
+    "sourceImage": "https://static.playgama.com/p-img/ph/backrooms-2d-online/preview/d410fd4445ef46c8a67c3c17e2d1f351?width=448",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "BACKROOMS 2d online cover art"
+  },
+  {
+    "name": "Backrooms",
+    "embed": "https://assets.hbmc.net/backrooms/",
+    "slug": "backrooms",
+    "image": "/assets/exact-game-images/backrooms.jpg",
+    "sourceImage": "https://arcadino.com/wp-content/uploads/2026/04/Backrooms-300x300.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Backrooms"
+  },
+  {
+    "name": "Backrooms2D",
+    "embed": "https://assets.hbmc.net/backrooms2d/",
+    "slug": "backrooms2d",
+    "image": "/assets/exact-game-images/backrooms2d.jpg",
+    "sourceImage": "https://static.playgama.com/p-img/ph/backrooms-2d-online/preview/d410fd4445ef46c8a67c3c17e2d1f351?width=448",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "BACKROOMS 2d online cover art"
+  },
+  {
+    "name": "Bacon May Die",
+    "embed": "https://assets.hbmc.net/bacon-may-die/",
+    "slug": "bacon-may-die",
+    "image": "/assets/exact-game-images/bacon-may-die.jpg",
+    "sourceImage": "https://nargames.com/storage/uploads/thumbs/bacon-may-die.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Bacon may die Thumbnail"
+  },
+  {
+    "name": "Bad Ice Cream 2",
+    "embed": "https://assets.hbmc.net/bad-ice-cream-2/",
+    "slug": "bad-ice-cream-2",
+    "image": "/assets/semag-images/badicecream2.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Bad Ice Cream 3",
+    "embed": "https://assets.hbmc.net/bad-ice-cream-3/",
+    "slug": "bad-ice-cream-3",
+    "image": "/assets/semag-images/badicecream3.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Bad Ice Cream",
+    "embed": "https://assets.hbmc.net/bad-ice-cream/",
+    "slug": "bad-ice-cream",
+    "image": "/assets/semag-images/badicecream.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Baldi's Basics",
+    "embed": "https://assets.hbmc.net/baldis-basics/",
+    "slug": "baldis-basics",
+    "image": "/assets/semag-images/baldisbasics.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Ball Dodge",
+    "embed": "https://assets.hbmc.net/balldodge/",
+    "slug": "balldodge",
+    "image": "/assets/hbmc-games/images/balldodge.jpg",
+    "sourceImage": "https://assets.hbmc.net/balldodge/1D9A05FA-1D29-40D3-8DA3-F9A30AD7470E.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Ballistic Chickens",
+    "embed": "https://assets.hbmc.net/ballistic-chickens/",
+    "slug": "ballistic-chickens",
+    "image": "/assets/semag-images/ballisticchickens.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Basket Random",
+    "embed": "https://assets.hbmc.net/basket-random/",
+    "slug": "basket-random",
+    "image": "/assets/hbmc-games/images/basket-random.jpg",
+    "sourceImage": "https://assets.hbmc.net/basket-random/splash.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Basketball Stars",
+    "embed": "https://assets.hbmc.net/basketball-stars/",
+    "slug": "basketball-stars",
+    "image": "/assets/semag-images/basketballstars.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Basketbros.io",
+    "embed": "https://assets.hbmc.net/basketbros-io/",
+    "slug": "basketbros-io",
+    "image": "/assets/exact-game-images/basketbros-io.jpg",
+    "sourceImage": "https://popcorngames.io/_next/image?url=https://media.popcorngames.io/basket_bros_wp_97f5837319.webp&w=256&q=75",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "basket bros wp"
+  },
+  {
+    "name": "Battle for Gondor",
+    "embed": "https://assets.hbmc.net/battleforgondor/",
+    "slug": "battleforgondor",
+    "image": "/assets/hbmc-games/images/battleforgondor.jpg",
+    "sourceImage": "https://assets.hbmc.net/battleforgondor/battleforgondor.JPG",
+    "source": "hbmc"
+  },
+  {
+    "name": "Big Red Button",
+    "embed": "https://assets.hbmc.net/bigredbutton/",
+    "slug": "bigredbutton",
+    "image": "/assets/hbmc-games/images/bigredbutton.png",
+    "sourceImage": "https://assets.hbmc.net/bigredbutton/bigredbutton.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "BitLife",
+    "embed": "https://assets.hbmc.net/bitlife/",
+    "slug": "bitlife",
+    "image": "/assets/hbmc-games/images/bitlife.png",
+    "sourceImage": "https://assets.hbmc.net/bitlife/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Black Hole Square",
+    "embed": "https://assets.hbmc.net/blacholesquare/",
+    "slug": "blacholesquare",
+    "image": "/assets/hbmc-games/images/blacholesquare.png",
+    "sourceImage": "https://assets.hbmc.net/blacholesquare/icon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Black Knight",
+    "embed": "https://assets.hbmc.net/blackknight/",
+    "slug": "blackknight",
+    "image": "/assets/hbmc-games/images/blackknight.png",
+    "sourceImage": "https://assets.hbmc.net/blackknight/blackknight.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Blockpost",
+    "embed": "https://assets.hbmc.net/blockpost/",
+    "slug": "blockpost",
+    "image": "/assets/exact-game-images/blockpost.jpg",
+    "sourceImage": "https://www.zgames.io/_next/image?url=/thumbnails/icons/play-blockpost-online-icon-1777462578449.webp&w=1080&q=75",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Blockpost"
+  },
+  {
+    "name": "Bloons TD",
+    "embed": "https://assets.hbmc.net/bloonstd/",
+    "slug": "bloonstd",
+    "image": "/assets/hbmc-games/images/bloonstd.jpg",
+    "sourceImage": "https://assets.hbmc.net/bloonstd/bloonstd.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Bloons TD 2",
+    "embed": "https://assets.hbmc.net/bloonstd2/",
+    "slug": "bloonstd2",
+    "image": "/assets/hbmc-games/images/bloonstd2.png",
+    "sourceImage": "https://assets.hbmc.net/bloonstd2/bloonstd2.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Bloxorz",
+    "embed": "https://assets.hbmc.net/bloxors/",
+    "slug": "bloxors",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/bloxors/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/bloxors.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "BNTTS",
+    "embed": "https://assets.hbmc.net/bntts/",
+    "slug": "bntts",
+    "image": "/assets/hbmc-games/images/bntts.png",
+    "sourceImage": "https://assets.hbmc.net/bntts/icons/icon-128.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Bob the Robber 2",
+    "embed": "https://assets.hbmc.net/bobtherobber2/",
+    "slug": "bobtherobber2",
+    "image": "/assets/hbmc-games/images/bobtherobber2.jpg",
+    "sourceImage": "https://assets.hbmc.net/bobtherobber2/splash.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Bonk.io",
+    "embed": "https://assets.hbmc.net/bonkio/",
+    "slug": "bonkio",
+    "image": "/assets/hbmc-games/images/bonkio.png",
+    "sourceImage": "https://assets.hbmc.net/bonkio/image.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Boxhead 2Play",
+    "embed": "https://assets.hbmc.net/boxhead2play/",
+    "slug": "boxhead2play",
+    "image": "/assets/hbmc-games/images/boxhead2play.jpg",
+    "sourceImage": "https://assets.hbmc.net/boxhead2play/boxhead2play.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Boxing Random",
+    "embed": "https://assets.hbmc.net/boxing-random/",
+    "slug": "boxing-random",
+    "image": "/assets/semag-images/boxingrandom.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Breaking the Bank",
+    "embed": "https://assets.hbmc.net/breakingthebank/",
+    "slug": "breakingthebank",
+    "image": "/assets/hbmc-games/images/breakingthebank.png",
+    "sourceImage": "https://assets.hbmc.net/breakingthebank/breakingthebank.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "BTD4",
+    "embed": "https://assets.hbmc.net/btd4/",
+    "slug": "btd4",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "BTD5",
+    "embed": "https://assets.hbmc.net/btd5/",
+    "slug": "btd5",
+    "image": "/assets/exact-game-images/btd5.jpg",
+    "sourceImage": "https://static.wikia.nocookie.net/b__/images/b/bf/Bloons_TD_5_-_First_20_Levels/revision/latest/scale-to-width-down/300?cb=20120406050302&path-prefix=bloons",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Bloons_TD_5_-_First_20_Levels"
+  },
+  {
+    "name": "BTTS",
+    "embed": "https://assets.hbmc.net/btts/",
+    "slug": "btts",
+    "image": "/assets/hbmc-games/images/btts.png",
+    "sourceImage": "https://assets.hbmc.net/btts/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Burger and Frights",
+    "embed": "https://assets.hbmc.net/burger-and-frights/",
+    "slug": "burger-and-frights",
+    "image": "/assets/hbmc-games/images/burger-and-frights.png",
+    "sourceImage": "https://assets.hbmc.net/burger-and-frights/images/title.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Bus and Subway",
+    "embed": "https://assets.hbmc.net/bus%20and%20subway/",
+    "slug": "bus-and-subway",
+    "image": "/assets/exact-game-images/bus-and-subway.jpg",
+    "sourceImage": "https://arcadino.com/wp-content/uploads/2026/04/Bus-and-Subway-Runner-Online-for-Free.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Play Bus and Subway Runner Online for Free"
+  },
+  {
+    "name": "Cannon Basketball 4",
+    "embed": "https://assets.hbmc.net/cannon-basketball-4/",
+    "slug": "cannon-basketball-4",
+    "image": "/assets/hbmc-games/images/cannon-basketball-4.png",
+    "sourceImage": "https://assets.hbmc.net/cannon-basketball-4/img/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Canyon Defense",
+    "embed": "https://assets.hbmc.net/canyondefense/",
+    "slug": "canyondefense",
+    "image": "/assets/hbmc-games/images/canyondefense.png",
+    "sourceImage": "https://assets.hbmc.net/canyondefense/canyondefense.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Cars Simulator",
+    "embed": "https://assets.hbmc.net/cars-simulator/",
+    "slug": "cars-simulator",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/cars-simulator/TemplateData/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/cars-simulator.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Cell Machine",
+    "embed": "https://assets.hbmc.net/cell-machine/",
+    "slug": "cell-machine",
+    "image": "/assets/hbmc-games/images/cell-machine.png",
+    "sourceImage": "https://assets.hbmc.net/cell-machine/img/icon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Champion Island",
+    "embed": "https://assets.hbmc.net/champion-island/",
+    "slug": "champion-island",
+    "image": "/assets/exact-game-images/champion-island.jpg",
+    "sourceImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoKa0gEicMc1g0UJe5xoJfzHWryxyYY8p0aM1w_hTbgw&s",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Doodle Champion Island Games (July 24)"
+  },
+  {
+    "name": "Champion Archer",
+    "embed": "https://assets.hbmc.net/championarcher/",
+    "slug": "championarcher",
+    "image": "/assets/hbmc-games/images/championarcher.png",
+    "sourceImage": "https://assets.hbmc.net/championarcher/championarcher.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Checkers",
+    "embed": "https://assets.hbmc.net/checkers/",
+    "slug": "checkers",
+    "image": "/assets/hbmc-games/images/checkers.png",
+    "sourceImage": "https://assets.hbmc.net/checkers/image.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Chess",
+    "embed": "https://assets.hbmc.net/chess/",
+    "slug": "chess",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/chess/84391856-3910-4B44-AF7E-ACF1056658C2.jpeg",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/chess.jpg",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Chill Radio",
+    "embed": "https://assets.hbmc.net/chill-radio/",
+    "slug": "chill-radio",
+    "image": "/assets/hbmc-games/images/chill-radio.png",
+    "sourceImage": "https://assets.hbmc.net/chill-radio/img/chill-icon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Chrome Dino",
+    "embed": "https://assets.hbmc.net/chrome-dino/",
+    "slug": "chrome-dino",
+    "image": "/assets/hbmc-games/images/chrome-dino.png",
+    "sourceImage": "https://assets.hbmc.net/chrome-dino/icons/icon-128.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Circlo",
+    "embed": "https://assets.hbmc.net/circlo/",
+    "slug": "circlo",
+    "image": "/assets/exact-game-images/circlo.jpg",
+    "sourceImage": "https://minigamesville.com/wp-content/smush-avif/2025/08/CircloO.png.avif",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "CircloO browser game screenshot"
+  },
+  {
+    "name": "Classicube",
+    "embed": "https://assets.hbmc.net/classicube/",
+    "slug": "classicube",
+    "image": "/assets/exact-game-images/classicube.jpg",
+    "sourceImage": "https://arcadino.com/wp-content/uploads/2026/06/Classicube-300x300.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Classicube"
+  },
+  {
+    "name": "Cluster Rush",
+    "embed": "https://assets.hbmc.net/cluster-rush/",
+    "slug": "cluster-rush",
+    "image": "/assets/hbmc-games/images/cluster-rush.jpg",
+    "sourceImage": "https://assets.hbmc.net/cluster-rush/icon.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "CMM Client",
+    "embed": "https://assets.hbmc.net/CMM%20Client/",
+    "slug": "cmm-client",
+    "image": "/assets/hbmc-games/images/cmm-client.jpg",
+    "sourceImage": "https://assets.hbmc.net/CMM%20Client/EC4B216C-B637-41A3-A3D9-79D4048DD7A3.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "CN Ping Pong",
+    "embed": "https://assets.hbmc.net/cnpingpong/",
+    "slug": "cnpingpong",
+    "image": "/assets/exact-game-images/cnpingpong.jpg",
+    "sourceImage": "https://game-game.com/gamesimg/195249.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Game Table Tennis Ultimate Tournament"
+  },
+  {
+    "name": "Connect 3",
+    "embed": "https://assets.hbmc.net/connect3/",
+    "slug": "connect3",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Cookie Clicker",
+    "embed": "https://assets.hbmc.net/cookie-clicker/",
+    "slug": "cookie-clicker",
+    "image": "/assets/exact-game-images/cookie-clicker.jpg",
+    "sourceImage": "https://www.wikihow.com/images/thumb/c/cf/Get-Sugar-Lumps-in-Cookie-Clicker-Step-8.jpg/-crop-342-184-245px-Get-Sugar-Lumps-in-Cookie-Clicker-Step-8.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Get Sugar Lumps in Cookie Clicker"
+  },
+  {
+    "name": "Core Ball",
+    "embed": "https://assets.hbmc.net/core-ball/",
+    "slug": "core-ball",
+    "image": "/assets/exact-game-images/core-ball.jpg",
+    "sourceImage": "https://bunagames.com/wp-content/uploads/2026/05/CoreBall-300x300.webp?x82488",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "CoreBall - BunaGames: Play Free Online Browser Games"
+  },
+  {
+    "name": "CraftMine",
+    "embed": "https://assets.hbmc.net/craftmine/",
+    "slug": "craftmine",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Creative Kill Chamber",
+    "embed": "https://assets.hbmc.net/creativekillchamber/",
+    "slug": "creativekillchamber",
+    "image": "/assets/hbmc-games/images/creativekillchamber.jpg",
+    "sourceImage": "https://assets.hbmc.net/creativekillchamber/creativekillchamber.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Crossy Road",
+    "embed": "https://assets.hbmc.net/crossyroad/",
+    "slug": "crossyroad",
+    "image": "/assets/semag-images/crossyroad.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "CSGO Clicker",
+    "embed": "https://assets.hbmc.net/csgo-clicker/",
+    "slug": "csgo-clicker",
+    "image": "/assets/semag-images/csgoclicker.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "CTR Holiday",
+    "embed": "https://assets.hbmc.net/ctr-holiday/",
+    "slug": "ctr-holiday",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/ctr-holiday/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/ctr-holiday.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "CTR TR",
+    "embed": "https://assets.hbmc.net/ctr-tr/",
+    "slug": "ctr-tr",
+    "image": "/assets/exact-game-images/ctr-tr.jpg",
+    "sourceImage": "https://pdalife.com/app/59522b01b6a8d/th_img3.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Cut the Rope: Time Travel screenshot 3"
+  },
+  {
+    "name": "CTR",
+    "embed": "https://assets.hbmc.net/ctr/",
+    "slug": "ctr",
+    "image": "/assets/exact-game-images/ctr.jpg",
+    "sourceImage": "https://dl.memuplay.com/new_market/img/com.zeptolab.ctr.ads.sc1.2024-05-29-06-05-08.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Cut the Rope FULL FREE PC"
+  },
+  {
+    "name": "Cubefield",
+    "embed": "https://assets.hbmc.net/cubefield/",
+    "slug": "cubefield",
+    "image": "/assets/hbmc-games/images/cubefield.png",
+    "sourceImage": "https://assets.hbmc.net/cubefield/assets/unnamed.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Cupcake 2048",
+    "embed": "https://assets.hbmc.net/cupcake2048/",
+    "slug": "cupcake2048",
+    "image": "/assets/exact-game-images/cupcake2048.jpg",
+    "sourceImage": "https://quickgrade.us/wp-content/uploads/2025/05/2048-Cupcakes-Game-1024x566.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "2048 Cupcakes Game"
+  },
+  {
+    "name": "Dante",
+    "embed": "https://assets.hbmc.net/dante/",
+    "slug": "dante",
+    "image": "/assets/semag-images/dante.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Deal or No Deal",
+    "embed": "https://assets.hbmc.net/deal-or-no-deal/",
+    "slug": "deal-or-no-deal",
+    "image": "/assets/hbmc-games/images/deal-or-no-deal.jpg",
+    "sourceImage": "https://assets.hbmc.net/deal-or-no-deal/index.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Death Run 3D",
+    "embed": "https://assets.hbmc.net/death-run-3d/",
+    "slug": "death-run-3d",
+    "image": "/assets/exact-game-images/death-run-3d.jpg",
+    "sourceImage": "https://img.y8.com/cloud/v2-y8-thumbs-video-thumbnails-001/252622/s180x135_video_thumbnail.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Death Run 3D Walkthrough"
+  },
+  {
+    "name": "Deepest Sword",
+    "embed": "https://assets.hbmc.net/deepest-sword/",
+    "slug": "deepest-sword",
+    "image": "/assets/exact-game-images/deepest-sword.jpg",
+    "sourceImage": "https://gamulo.com/wp-content/uploads/2025/11/deepest-sword.jpeg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Deepest Sword"
+  },
+  {
+    "name": "Defend the Tank",
+    "embed": "https://assets.hbmc.net/defend-the-tank/",
+    "slug": "defend-the-tank",
+    "image": "/assets/hbmc-games/images/defend-the-tank.jpg",
+    "sourceImage": "https://assets.hbmc.net/defend-the-tank/images/logo.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Doctor Acorn 2",
+    "embed": "https://assets.hbmc.net/doctor-acorn2/",
+    "slug": "doctor-acorn2",
+    "image": "/assets/hbmc-games/images/doctor-acorn2.png",
+    "sourceImage": "https://assets.hbmc.net/doctor-acorn2/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Dodge",
+    "embed": "https://assets.hbmc.net/dodge/",
+    "slug": "dodge",
+    "image": "/assets/hbmc-games/images/dodge.jpg",
+    "sourceImage": "https://assets.hbmc.net/dodge/CEB64188-C91B-4FEE-95C1-3ACF6A8CA009.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Doge 2048",
+    "embed": "https://assets.hbmc.net/doge2048/",
+    "slug": "doge2048",
+    "image": "/assets/exact-game-images/doge2048.jpg",
+    "sourceImage": "https://static.wikia.nocookie.net/doge2048/images/1/16/Doge2048_Victory_Video_4/revision/latest/scale-to-width-down/214?cb=20161113171710",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Doge2048_Victory_Video_4"
+  },
+  {
+    "name": "Doge Miner",
+    "embed": "https://assets.hbmc.net/DogeMiner/",
+    "slug": "dogeminer",
+    "image": "/assets/exact-game-images/dogeminer.jpg",
+    "sourceImage": "https://www.yaw.gg/game-image?src=/game-assets/icons/11589-doge-miner.avif&w=224&q=86&fallback=https://w3admin.w3technic.com/uploads/game-icons/doge-miner.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Dogeminer"
+  },
+  {
+    "name": "Doge Miner 2",
+    "embed": "https://assets.hbmc.net/Dogeminer2/",
+    "slug": "dogeminer2",
+    "image": "/assets/exact-game-images/dogeminer2.jpg",
+    "sourceImage": "https://www.jopi.com/cdn-cgi/image/quality=55,width=92,height=92,fit=cover,f=auto/img/t/dogeminer-2.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Thumbnail of Dogeminer 2"
+  },
+  {
+    "name": "Doodle Jump",
+    "embed": "https://assets.hbmc.net/doodle-jump/",
+    "slug": "doodle-jump",
+    "image": "/assets/exact-game-images/doodle-jump.jpg",
+    "sourceImage": "https://i.pinimg.com/originals/79/ab/80/79ab80ffe15d9ae02f0fcc8f794227cd.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "an image of doodle jump game"
+  },
+  {
+    "name": "Doom",
+    "embed": "https://assets.hbmc.net/doom/",
+    "slug": "doom",
+    "image": "/assets/hbmc-games/images/doom.jpg",
+    "sourceImage": "https://assets.hbmc.net/doom/0B894474-D070-4E9C-B1C1-6908E344DA28.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "DOOMORI",
+    "embed": "https://assets.hbmc.net/DOOMORI/",
+    "slug": "doomori",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Double Wires",
+    "embed": "https://assets.hbmc.net/doublewires/",
+    "slug": "doublewires",
+    "image": "/assets/hbmc-games/images/doublewires.png",
+    "sourceImage": "https://assets.hbmc.net/doublewires/doublewires.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Dragon vs Bricks",
+    "embed": "https://assets.hbmc.net/dragon-vs-bricks/",
+    "slug": "dragon-vs-bricks",
+    "image": "/assets/hbmc-games/images/dragon-vs-bricks.jpg",
+    "sourceImage": "https://assets.hbmc.net/dragon-vs-bricks/icon.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Draw the Hill",
+    "embed": "https://assets.hbmc.net/draw-the-hill/",
+    "slug": "draw-the-hill",
+    "image": "/assets/hbmc-games/images/draw-the-hill.png",
+    "sourceImage": "https://assets.hbmc.net/draw-the-hill/icons/icon-512.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Drift Boss",
+    "embed": "https://assets.hbmc.net/drift-boss/",
+    "slug": "drift-boss",
+    "image": "/assets/hbmc-games/images/drift-boss.jpg",
+    "sourceImage": "https://assets.hbmc.net/drift-boss/media/graphics/orientate/landscape.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Drift Hunters",
+    "embed": "https://assets.hbmc.net/drift-hunters/",
+    "slug": "drift-hunters",
+    "image": "/assets/semag-images/drifthunters.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Drive Mad",
+    "embed": "https://assets.hbmc.net/drive-mad/",
+    "slug": "drive-mad",
+    "image": "/assets/hbmc-games/images/drive-mad.jpg",
+    "sourceImage": "https://assets.hbmc.net/drive-mad/webapp/cover.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Duck Life 1",
+    "embed": "https://assets.hbmc.net/ducklife1/",
+    "slug": "ducklife1",
+    "image": "/assets/hbmc-games/images/ducklife1.png",
+    "sourceImage": "https://assets.hbmc.net/ducklife1/ducklife.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Duck Life 2",
+    "embed": "https://assets.hbmc.net/ducklife2/",
+    "slug": "ducklife2",
+    "image": "/assets/hbmc-games/images/ducklife2.png",
+    "sourceImage": "https://assets.hbmc.net/ducklife2/ducklife2.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Duck Life 3",
+    "embed": "https://assets.hbmc.net/ducklife3/",
+    "slug": "ducklife3",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/ducklife3/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/ducklife3.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Duck Life 4",
+    "embed": "https://assets.hbmc.net/ducklife4/",
+    "slug": "ducklife4",
+    "image": "/assets/hbmc-games/images/ducklife4.jpg",
+    "sourceImage": "https://assets.hbmc.net/ducklife4/splash.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Duke Nukem 2",
+    "embed": "https://assets.hbmc.net/duke-nukem-2/",
+    "slug": "duke-nukem-2",
+    "image": "/assets/exact-game-images/duke-nukem-2.jpg",
+    "sourceImage": "https://classicreload.com/sites/default/files/DUKE2.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Cover image for Duke Nukem 2 Shareware"
+  },
+  {
+    "name": "Dumb Ways to Die",
+    "embed": "https://assets.hbmc.net/dumbwaystodie/",
+    "slug": "dumbwaystodie",
+    "image": "/assets/hbmc-games/images/dumbwaystodie.png",
+    "sourceImage": "https://assets.hbmc.net/dumbwaystodie/image.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Eagler Faithful",
+    "embed": "https://assets.hbmc.net/eaglerfaithful/",
+    "slug": "eaglerfaithful",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Eagler JP",
+    "embed": "https://assets.hbmc.net/eaglerjp/",
+    "slug": "eaglerjp",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/eaglerjp/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/eaglerjp.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Earn to Die",
+    "embed": "https://assets.hbmc.net/earntodie/",
+    "slug": "earntodie",
+    "image": "/assets/hbmc-games/images/earntodie.png",
+    "sourceImage": "https://assets.hbmc.net/earntodie/loading.png?v=1",
+    "source": "hbmc"
+  },
+  {
+    "name": "Edge Surf",
+    "embed": "https://assets.hbmc.net/edge-surf/",
+    "slug": "edge-surf",
+    "image": "/assets/exact-game-images/edge-surf.jpg",
+    "sourceImage": "https://d2cdo4blch85n8.cloudfront.net/wp-content/uploads/2021/04/Microsoft-Edge-Browser-Game-image-1024x565.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Microsoft Edge Surf Game"
+  },
+  {
+    "name": "Edge Not Found",
+    "embed": "https://assets.hbmc.net/edgenotfound/",
+    "slug": "edgenotfound",
+    "image": "/assets/exact-game-images/edgenotfound.jpg",
+    "sourceImage": "https://external-preview.redd.it/IInWpxjtPIjz-oiFIP9xyeHZGN_jpuY3qEIJL400zHM.jpg?auto=webp&s=7eea9b0a8c31d2dc5a165f430df52fda4b4e69e2",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "r/WebGames - Edge Not Found"
+  },
+  {
+    "name": "Eel Slap",
+    "embed": "https://assets.hbmc.net/eel-slap/",
+    "slug": "eel-slap",
+    "image": "/assets/exact-game-images/eel-slap.jpg",
+    "sourceImage": "https://webiano.digital/wp-content/uploads/2026/06/Eel-Slap-is-the-internet-reduced-to-one-perfect-bad-idea-1024x576.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Eel Slap is the internet reduced to one perfect bad idea"
+  },
+  {
+    "name": "Eggy Car",
+    "embed": "https://assets.hbmc.net/eggycar/",
+    "slug": "eggycar",
+    "image": "/assets/hbmc-games/images/eggycar.png",
+    "sourceImage": "https://assets.hbmc.net/eggycar/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Elastic Man",
+    "embed": "https://assets.hbmc.net/elasticman/",
+    "slug": "elasticman",
+    "image": "/assets/exact-game-images/elasticman.jpg",
+    "sourceImage": "https://lh3.googleusercontent.com/JhPbqierTtgkbR0cdqv0HQhZYpxMg_D2bnFQ_ee78jlDjtmdFMx8qiQFrxyyr249EuvDN83D6uPjaNSuPTCSRBZV=rw-w1400",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Elastic Man Game Unblocked marquee promo image"
+  },
+  {
+    "name": "Endless War 3",
+    "embed": "https://assets.hbmc.net/endlesswar3/",
+    "slug": "endlesswar3",
+    "image": "/assets/hbmc-games/images/endlesswar3.png",
+    "sourceImage": "https://assets.hbmc.net/endlesswar3/endlesswar3.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Escaping the Prison",
+    "embed": "https://assets.hbmc.net/escapingtheprison/",
+    "slug": "escapingtheprison",
+    "image": "/assets/hbmc-games/images/escapingtheprison.jpg",
+    "sourceImage": "https://assets.hbmc.net/escapingtheprison/escapingtheprison.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Evil Glitch",
+    "embed": "https://assets.hbmc.net/evil-glitch/",
+    "slug": "evil-glitch",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/evil-glitch/icon.jpeg",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/evil-glitch.jpg",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Evolution",
+    "embed": "https://assets.hbmc.net/evolution/",
+    "slug": "evolution",
+    "image": "/assets/exact-game-images/evolution.jpg",
+    "sourceImage": "https://classicreload.com/sites/default/files/evolution-screenshot.png",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Cover image for Evolution"
+  },
+  {
+    "name": "Exo",
+    "embed": "https://assets.hbmc.net/exo/",
+    "slug": "exo",
+    "image": "/assets/hbmc-games/images/exo.jpg",
+    "sourceImage": "https://assets.hbmc.net/exo/img/small.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Factory Balls",
+    "embed": "https://assets.hbmc.net/factoryballs/",
+    "slug": "factoryballs",
+    "image": "/assets/semag-images/factoryballs.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Fair Squares",
+    "embed": "https://assets.hbmc.net/fairsquares/",
+    "slug": "fairsquares",
+    "image": "/assets/exact-game-images/fairsquares.jpg",
+    "sourceImage": "https://cubes-2048.io/games/Fair-Squares/cover.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Fair Squares"
+  },
+  {
+    "name": "Fake Virus",
+    "embed": "https://assets.hbmc.net/fake-virus/",
+    "slug": "fake-virus",
+    "image": "/assets/hbmc-games/images/fake-virus.png",
+    "sourceImage": "https://assets.hbmc.net/fake-virus/fake-virus.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Fancy Pants Adventures",
+    "embed": "https://assets.hbmc.net/fancypantsadventures/",
+    "slug": "fancypantsadventures",
+    "image": "/assets/hbmc-games/images/fancypantsadventures.png",
+    "sourceImage": "https://assets.hbmc.net/fancypantsadventures/fancypantsadventure.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Fantasy Dash",
+    "embed": "https://assets.hbmc.net/fantasy-dash/",
+    "slug": "fantasy-dash",
+    "image": "/assets/hbmc-games/images/fantasy-dash.jpg",
+    "sourceImage": "https://assets.hbmc.net/fantasy-dash/DF24D85A-B7B5-4CF0-8194-DB6CD89C6975.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Fireboy and Watergirl Forest Temple",
+    "embed": "https://assets.hbmc.net/fireboywatergirlforesttemple/",
+    "slug": "fireboywatergirlforesttemple",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/fireboywatergirlforesttemple/icon-60x60.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/fireboywatergirlforesttemple.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Flappy Plane",
+    "embed": "https://assets.hbmc.net/flappy%20plane/",
+    "slug": "flappy-plane",
+    "image": "/assets/hbmc-games/images/flappy-plane.jpg",
+    "sourceImage": "https://assets.hbmc.net/flappy%20plane/E3A4179E-B8E4-4358-BDAD-45AA7637D4D7.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Flappy 2048",
+    "embed": "https://assets.hbmc.net/flappy-2048/",
+    "slug": "flappy-2048",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/flappy-2048/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/flappy-2048.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Flappy Bird",
+    "embed": "https://assets.hbmc.net/flappy-bird/",
+    "slug": "flappy-bird",
+    "image": "/assets/exact-game-images/flappy-bird.jpg",
+    "sourceImage": "https://imgcdn.stablediffusionweb.com/2024/3/4/48410486-e1a2-4ce9-a9c0-3577a8cad593.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Flappy Bird Game Cover Image"
+  },
+  {
+    "name": "Flappybird",
+    "embed": "https://assets.hbmc.net/flappybird/",
+    "slug": "flappybird",
+    "image": "/assets/semag-images/flappybird.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Flash Tetris",
+    "embed": "https://assets.hbmc.net/flashtetris/",
+    "slug": "flashtetris",
+    "image": "/assets/hbmc-games/images/flashtetris.png",
+    "sourceImage": "https://assets.hbmc.net/flashtetris/flashtetris.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Fleeing the Complex",
+    "embed": "https://assets.hbmc.net/fleeingthecomplex/",
+    "slug": "fleeingthecomplex",
+    "image": "/assets/semag-images/fleeingthecomplex.jpg",
+    "sourceImage": null,
+    "source": "hbmc"
+  },
+  {
+    "name": "Flippy Fish",
+    "embed": "https://assets.hbmc.net/flippy-fish/",
+    "slug": "flippy-fish",
+    "image": "/assets/exact-game-images/flippy-fish.jpg",
+    "sourceImage": "https://play-lh.googleusercontent.com/qc8xvckAUPMAgHLPLCTERh-NJXVS-_wjqr5XkJXKLEs2LGnRy2sqxAPTFx0Tweq8Khc=w236-rw",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Flippy Fish 3D - Screenshot 1"
+  },
+  {
+    "name": "FNAE 1.2.3",
+    "embed": "https://assets.hbmc.net/fnae-1.2.3/",
+    "slug": "fnae-1-2-3",
+    "image": "/assets/hbmc-games/images/fnae-1-2-3.png",
+    "sourceImage": "https://assets.hbmc.net/fnae-1.2.3/assets/images/fa3.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "FNAW",
+    "embed": "https://assets.hbmc.net/fnaw/",
+    "slug": "fnaw",
+    "image": "/assets/exact-game-images/fnaw.jpg",
+    "sourceImage": "https://fivenightsatfreddysgame.io/assets/upload/fnaf/webp/five-nights-at-winstons.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Five Nights at Winston's game thumbnail"
+  },
+  {
+    "name": "Friday Night Funkin'",
+    "embed": "https://assets.hbmc.net/fridaynightfunkin/",
+    "slug": "fridaynightfunkin",
+    "image": "/assets/hbmc-games/images/fridaynightfunkin.png",
+    "sourceImage": "https://assets.hbmc.net/fridaynightfunkin/favicon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Froggy's Battle",
+    "embed": "https://assets.hbmc.net/froggys-battle/",
+    "slug": "froggys-battle",
+    "image": "/assets/exact-game-images/froggys-battle.jpg",
+    "sourceImage": "https://www.gamegrin.com/assets/game/froggys-battle/_resampled/SetWidth280-froggys-battle-image.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Froggy's Battle Box Art"
+  },
+  {
+    "name": "Fruit Ninja",
+    "embed": "https://assets.hbmc.net/fruitninja/",
+    "slug": "fruitninja",
+    "image": "/assets/exact-game-images/fruitninja.jpg",
+    "sourceImage": "https://fruit-ninja.com/wp-content/uploads/thumbs/custom/F/Fruit-Ninja-icon-150x150.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Fruit Ninja"
+  },
+  {
+    "name": "Frying Nemo",
+    "embed": "https://assets.hbmc.net/frying-nemo/",
+    "slug": "frying-nemo",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/frying-nemo/icon.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/frying-nemo.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "FSU Craft",
+    "embed": "https://assets.hbmc.net/fsucraft/",
+    "slug": "fsucraft",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "FU Client",
+    "embed": "https://assets.hbmc.net/fuclient/",
+    "slug": "fuclient",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Gacha Life",
+    "embed": "https://assets.hbmc.net/gachalife/",
+    "slug": "gachalife",
+    "image": "/assets/exact-game-images/gachalife.jpg",
+    "sourceImage": "https://cdn.now.gg/assets-opt/_next/image?url=https://cdn.now.gg/nowgg-static/placeholder-image.jpg&w=1440&q=90",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Play Gacha Life online on now.gg"
+  },
+  {
+    "name": "Game Inside",
+    "embed": "https://assets.hbmc.net/game-inside/",
+    "slug": "game-inside",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/game-inside/img/icon.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/game-inside.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "GDTD",
+    "embed": "https://assets.hbmc.net/gdtd/",
+    "slug": "gdtd",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Gears of Babies",
+    "embed": "https://assets.hbmc.net/gearsofbabies/",
+    "slug": "gearsofbabies",
+    "image": "/assets/exact-game-images/gearsofbabies.jpg",
+    "sourceImage": "https://i.ytimg.com/vi/ts-8m3lLmkA/mqdefault.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Gears of Babies · Free Game · Walkthrough"
+  },
+  {
+    "name": "Generic Fishing Game",
+    "embed": "https://assets.hbmc.net/generic-fishing-game/",
+    "slug": "generic-fishing-game",
+    "image": "/assets/exact-game-images/generic-fishing-game.jpg",
+    "sourceImage": "https://kotaku.com/igdb/image/upload/t_720p/sctxii.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Generic Fishing Game"
+  },
+  {
+    "name": "GeoChallenge",
+    "embed": "https://assets.hbmc.net/geochallenge/",
+    "slug": "geochallenge",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "GeoDash",
+    "embed": "https://assets.hbmc.net/geodash/",
+    "slug": "geodash",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "GeoDash Lite",
+    "embed": "https://assets.hbmc.net/geodashlite/",
+    "slug": "geodashlite",
+    "image": "/assets/hbmc-games/images/geodashlite.png",
+    "sourceImage": "https://assets.hbmc.net/geodashlite/geodashlite.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "GeoGeo",
+    "embed": "https://assets.hbmc.net/geogeo/",
+    "slug": "geogeo",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/geogeo/TemplateData/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/geogeo.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "GeoJump",
+    "embed": "https://assets.hbmc.net/geojump/",
+    "slug": "geojump",
+    "image": "/assets/hbmc-games/images/geojump.png",
+    "sourceImage": "https://assets.hbmc.net/geojump/loading3860.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "GeoNeon Dash",
+    "embed": "https://assets.hbmc.net/geoneondash/",
+    "slug": "geoneondash",
+    "image": "/assets/hbmc-games/images/geoneondash.png",
+    "sourceImage": "https://assets.hbmc.net/geoneondash/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "GeoPS1",
+    "embed": "https://assets.hbmc.net/geops1/",
+    "slug": "geops1",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "GeoRash",
+    "embed": "https://assets.hbmc.net/georash/",
+    "slug": "georash",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "George and the Printer",
+    "embed": "https://assets.hbmc.net/georgeandtheprinter/",
+    "slug": "georgeandtheprinter",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/georgeandtheprinter/TemplateData/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/georgeandtheprinter.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "GeoTrash",
+    "embed": "https://assets.hbmc.net/geotrash/",
+    "slug": "geotrash",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Getaway Shootout",
+    "embed": "https://assets.hbmc.net/getaway-shootout/",
+    "slug": "getaway-shootout",
+    "image": "/assets/hbmc-games/images/getaway-shootout.jpg",
+    "sourceImage": "https://assets.hbmc.net/getaway-shootout/img/images.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Gimme the Airpod",
+    "embed": "https://assets.hbmc.net/gimme-the-airpod/",
+    "slug": "gimme-the-airpod",
+    "image": "/assets/exact-game-images/gimme-the-airpod.jpg",
+    "sourceImage": "https://media.rawg.io/media/resize/200/-/screenshots/89a/89a539718bb729fdf0351643404e1cab.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "gimme the airpod screenshot, image №2116216 - RAWG"
+  },
+  {
+    "name": "Glass City",
+    "embed": "https://assets.hbmc.net/glass-city/",
+    "slug": "glass-city",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/glass-city/TemplateData/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/glass-city.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "GMonster",
+    "embed": "https://assets.hbmc.net/gmonster/",
+    "slug": "gmonster",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Go Ball",
+    "embed": "https://assets.hbmc.net/go-ball/",
+    "slug": "go-ball",
+    "image": "/assets/hbmc-games/images/go-ball.png",
+    "sourceImage": "https://assets.hbmc.net/go-ball/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Goodnight Meowmie",
+    "embed": "https://assets.hbmc.net/goodnight-meowmie/",
+    "slug": "goodnight-meowmie",
+    "image": "/assets/exact-game-images/goodnight-meowmie.jpg",
+    "sourceImage": "https://i.ytimg.com/vi/4Qtzxo1SYAY/hqdefault.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Goodnight Meowmie screenshot"
+  },
+  {
+    "name": "Goodnight",
+    "embed": "https://assets.hbmc.net/goodnight/",
+    "slug": "goodnight",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Google Feud",
+    "embed": "https://assets.hbmc.net/google-feud/",
+    "slug": "google-feud",
+    "image": "/assets/exact-game-images/google-feud.jpg",
+    "sourceImage": "https://triviacrack.org/wp-content/uploads/2026/01/Play-Google-Feud-Unblocked-Online-For-Free.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Play Google Feud Unblocked Online For Free"
+  },
+  {
+    "name": "Google Snake",
+    "embed": "https://assets.hbmc.net/google-snake/",
+    "slug": "google-snake",
+    "image": "/assets/hbmc-games/images/google-snake.png",
+    "sourceImage": "https://assets.hbmc.net/google-snake/img/snake.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Gravity Soccer",
+    "embed": "https://assets.hbmc.net/gravity-soccer/",
+    "slug": "gravity-soccer",
+    "image": "/assets/hbmc-games/images/gravity-soccer.png",
+    "sourceImage": "https://assets.hbmc.net/gravity-soccer/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Greybox",
+    "embed": "https://assets.hbmc.net/greybox/",
+    "slug": "greybox",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "GrindCraft",
+    "embed": "https://assets.hbmc.net/grindcraft/",
+    "slug": "grindcraft",
+    "image": "/assets/hbmc-games/images/grindcraft.png",
+    "sourceImage": "https://assets.hbmc.net/grindcraft/img/pick-nobg.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Hacker Type",
+    "embed": "https://assets.hbmc.net/hackertype/",
+    "slug": "hackertype",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/hackertype/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/hackertype.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Handshakes",
+    "embed": "https://assets.hbmc.net/handshakes/",
+    "slug": "handshakes",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/handshakes/splash.jpg",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/handshakes.jpg",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Happy Hop",
+    "embed": "https://assets.hbmc.net/happy-hop/",
+    "slug": "happy-hop",
+    "image": "/assets/exact-game-images/happy-hop.jpg",
+    "sourceImage": "https://blockblasts.io/assets/upload/poki/webp/happy-hop.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Happy Hop game thumbnail"
+  },
+  {
+    "name": "Happy Wheels",
+    "embed": "https://assets.hbmc.net/happywheels/",
+    "slug": "happywheels",
+    "image": "/assets/exact-game-images/happywheels.jpg",
+    "sourceImage": "https://www.zgames.io/_next/image?url=/thumbnails/happy-wheels-1777224355328.webp&w=1080&q=75",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Happy Wheels Description Image"
+  },
+  {
+    "name": "Hardware Tycoon",
+    "embed": "https://assets.hbmc.net/hardware-tycoon/",
+    "slug": "hardware-tycoon",
+    "image": "/assets/hbmc-games/images/hardware-tycoon.png",
+    "sourceImage": "https://assets.hbmc.net/hardware-tycoon/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "HBA",
+    "embed": "https://assets.hbmc.net/hba/",
+    "slug": "hba",
+    "image": "/assets/exact-game-images/hba.jpg",
+    "sourceImage": "http://ahkong.net/wp-content/uploads/2009/09/hover-bot-arena-01.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Hover Bot Arena"
+  },
+  {
+    "name": "Helicopter",
+    "embed": "https://assets.hbmc.net/helicopter/",
+    "slug": "helicopter",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Hellscaper",
+    "embed": "https://assets.hbmc.net/hellscaper/",
+    "slug": "hellscaper",
+    "image": "/assets/exact-game-images/hellscaper.jpg",
+    "sourceImage": "https://www.speedrun.com/static/game/pd0nnq31/cover.png?v=c6bb352",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "HELLSCAPER"
+  },
+  {
+    "name": "Hex Empire",
+    "embed": "https://assets.hbmc.net/hexempire/",
+    "slug": "hexempire",
+    "image": "/assets/exact-game-images/hexempire.jpg",
+    "sourceImage": "https://gamexplains.com/uploads/games/hex-empire-thumbnail.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Hex Empire - Free online game"
+  },
+  {
+    "name": "HexGL",
+    "embed": "https://assets.hbmc.net/HexGL/",
+    "slug": "hexgl",
+    "image": "/assets/hbmc-games/images/hexgl.png",
+    "sourceImage": "https://assets.hbmc.net/HexGL/icon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Hextris",
+    "embed": "https://assets.hbmc.net/hextris/",
+    "slug": "hextris",
+    "image": "/assets/exact-game-images/hextris.jpg",
+    "sourceImage": "https://www.contezero.com/user/pages/03.games/08.puzzle/hextris/screenshot-2019-06-05.16.04.36.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Hextris 🕹️ 💡 | Free Puzzle Browser Game - Image 2"
+  },
+  {
+    "name": "Highrise Hop",
+    "embed": "https://assets.hbmc.net/highrisehop/",
+    "slug": "highrisehop",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Hill Climb Racing",
+    "embed": "https://assets.hbmc.net/hill-climb-racing/",
+    "slug": "hill-climb-racing",
+    "image": "/assets/exact-game-images/hill-climb-racing.jpg",
+    "sourceImage": "https://nargames.com/storage/uploads/thumbs/hill-climb-racing-lite.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Hill Climb Racing Lite Thumbnail"
+  },
+  {
+    "name": "Hungry Lamu",
+    "embed": "https://assets.hbmc.net/hungry-lamu/",
+    "slug": "hungry-lamu",
+    "image": "/assets/exact-game-images/hungry-lamu.jpg",
+    "sourceImage": "https://hugh.cdn.rumble.cloud/video/s8/1/h/Z/Q/-/hZQ-g.qR4e-small-Hes-a-VERY-HUNGRY-Lamu-Craz.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "He's a VERY HUNGRY Lamu! (Crazy Indie Horror Game)"
+  },
+  {
+    "name": "Ice Age Baby",
+    "embed": "https://assets.hbmc.net/iceagebaby/",
+    "slug": "iceagebaby",
+    "image": "/assets/exact-game-images/iceagebaby.jpg",
+    "sourceImage": "https://playminigames.net/content/gameimagecontent/html5_KillIceAgeBaby_9d4ebb251191481cb52e530a68f3579d.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Kill the Ice Age Baby Adventure - play free online"
+  },
+  {
+    "name": "Ice Age Baby 2",
+    "embed": "https://assets.hbmc.net/iceagebaby2/",
+    "slug": "iceagebaby2",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/iceagebaby2/TemplateData/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/iceagebaby2.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Idle Breakout",
+    "embed": "https://assets.hbmc.net/idle-breakout/",
+    "slug": "idle-breakout",
+    "image": "/assets/hbmc-games/images/idle-breakout.png",
+    "sourceImage": "https://assets.hbmc.net/idle-breakout/img/favicon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Idle Shark",
+    "embed": "https://assets.hbmc.net/idle-shark/",
+    "slug": "idle-shark",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/idle-shark/favicon.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/idle-shark.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Idle Dice",
+    "embed": "https://assets.hbmc.net/idledice/",
+    "slug": "idledice",
+    "image": "/assets/exact-game-images/idledice.jpg",
+    "sourceImage": "https://arcadino.com/wp-content/uploads/2026/04/Idle-Dice-300x300.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Idle Dice"
+  },
+  {
+    "name": "Idle Dices",
+    "embed": "https://assets.hbmc.net/idledices/",
+    "slug": "idledices",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/idledices/images/icon32.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/idledices.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Impossible Quiz",
+    "embed": "https://assets.hbmc.net/impossiblequiz/",
+    "slug": "impossiblequiz",
+    "image": "/assets/hbmc-games/images/impossiblequiz.png",
+    "sourceImage": "https://assets.hbmc.net/impossiblequiz/impossiblequiz.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Interactive Buddy",
+    "embed": "https://assets.hbmc.net/interactivebuddy/",
+    "slug": "interactivebuddy",
+    "image": "/assets/hbmc-games/images/interactivebuddy.jpg",
+    "sourceImage": "https://assets.hbmc.net/interactivebuddy/interactivebuddy.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Invite the Blackbird",
+    "embed": "https://assets.hbmc.net/invite-the-blackbird/",
+    "slug": "invite-the-blackbird",
+    "image": "/assets/exact-game-images/invite-the-blackbird.jpg",
+    "sourceImage": "https://img.itch.zone/aW1nLzc3NTUyOTIucG5n/original/Q6hjph.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Invite the blackbird"
+  },
+  {
+    "name": "Iron Dash",
+    "embed": "https://assets.hbmc.net/iron%20dash/",
+    "slug": "iron-dash",
+    "image": "/assets/hbmc-games/images/iron-dash.jpg",
+    "sourceImage": "https://assets.hbmc.net/iron%20dash/9FF39FCC-64B1-491C-97FC-A34357F9583A.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Jetpack Joyride",
+    "embed": "https://assets.hbmc.net/jetpack-joyride/",
+    "slug": "jetpack-joyride",
+    "image": "/assets/hbmc-games/images/jetpack-joyride.jpg",
+    "sourceImage": "https://assets.hbmc.net/jetpack-joyride/splash.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "JS",
+    "embed": "https://assets.hbmc.net/js/",
+    "slug": "js",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Just Fall",
+    "embed": "https://assets.hbmc.net/just-fall/",
+    "slug": "just-fall",
+    "image": "/assets/exact-game-images/just-fall.jpg",
+    "sourceImage": "https://just-fall-github.pages.dev/images/just-fall-github_edited.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "just-fall-github"
+  },
+  {
+    "name": "Just One Boss",
+    "embed": "https://assets.hbmc.net/just-one-boss/",
+    "slug": "just-one-boss",
+    "image": "/assets/hbmc-games/images/just-one-boss.png",
+    "sourceImage": "https://assets.hbmc.net/just-one-boss/pv1Gr5.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Kirka.io",
+    "embed": "https://assets.hbmc.net/kirkaio/",
+    "slug": "kirkaio",
+    "image": "/assets/hbmc-games/images/kirkaio.jpg",
+    "sourceImage": "https://assets.hbmc.net/kirkaio/C0DADB28-2750-4DF9-9499-4BB61119877D.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Kitchen Gun Game",
+    "embed": "https://assets.hbmc.net/kitchen-gun-game/",
+    "slug": "kitchen-gun-game",
+    "image": "/assets/exact-game-images/kitchen-gun-game.jpg",
+    "sourceImage": "https://cdn-0001.qstv.on.epicgames.com/HpQdYVFNorUBZtUtbB/image/landscape_comp_s.jpeg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Giant Kitchen - Gun Game"
+  },
+  {
+    "name": "Kitten Cannon",
+    "embed": "https://assets.hbmc.net/kittencannon/",
+    "slug": "kittencannon",
+    "image": "/assets/hbmc-games/images/kittencannon.png",
+    "sourceImage": "https://assets.hbmc.net/kittencannon/kittencannon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Knife Master",
+    "embed": "https://assets.hbmc.net/knife-master/",
+    "slug": "knife-master",
+    "image": "/assets/hbmc-games/images/knife-master.png",
+    "sourceImage": "https://assets.hbmc.net/knife-master/icons/icon-128.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Krunker",
+    "embed": "https://assets.hbmc.net/krunker/",
+    "slug": "krunker",
+    "image": "/assets/exact-game-images/krunker.jpg",
+    "sourceImage": "https://external-preview.redd.it/kpd0QauiGcxoFZys_wtGmbq-CdiMDiEyfJlANWGm9F4.jpeg?width=140&height=105&auto=webp&s=a3487770038c1d581db7662b071d22c3bd9662da",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "r/KrunkerIO - me and my friend discover you can mod krunker"
+  },
+  {
+    "name": "Learn to Fly 3",
+    "embed": "https://assets.hbmc.net/learn-to-fly-3/",
+    "slug": "learn-to-fly-3",
+    "image": "/assets/exact-game-images/learn-to-fly-3.jpg",
+    "sourceImage": "https://e.snmc.io/lk/lv/x/eed63439818a91f194e8e6bda9396d43/8063510",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Learn to Fly 3 - cover art"
+  },
+  {
+    "name": "Learn to Fly",
+    "embed": "https://assets.hbmc.net/learntofly/",
+    "slug": "learntofly",
+    "image": "/assets/hbmc-games/images/learntofly.png",
+    "sourceImage": "https://assets.hbmc.net/learntofly/learntofly.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Learn to Fly 2",
+    "embed": "https://assets.hbmc.net/learntofly2/",
+    "slug": "learntofly2",
+    "image": "/assets/hbmc-games/images/learntofly2.jpg",
+    "sourceImage": "https://assets.hbmc.net/learntofly2/learn-to-fly-2.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Legacy Flash Games",
+    "embed": "https://assets.hbmc.net/legacyflashgames/",
+    "slug": "legacyflashgames",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Level 13",
+    "embed": "https://assets.hbmc.net/level13/",
+    "slug": "level13",
+    "image": "/assets/exact-game-images/level13.jpg",
+    "sourceImage": "https://preview.redd.it/you-know-what-my-favorite-part-of-this-game-is-this-v0-6zezii1c79jg1.png?auto=webp&s=763e6e4ca0c5128ef8994b67898025928bff9622",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "r/level13 - You know what my favorite part of this game is.. this."
+  },
+  {
+    "name": "Line Rider",
+    "embed": "https://assets.hbmc.net/linerider/",
+    "slug": "linerider",
+    "image": "/assets/hbmc-games/images/linerider.jpg",
+    "sourceImage": "https://assets.hbmc.net/linerider/6954B825-C61C-41E0-BFD9-7EA4FC6D0FE1.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "LTF Idle",
+    "embed": "https://assets.hbmc.net/ltf-idle/",
+    "slug": "ltf-idle",
+    "image": "/assets/exact-game-images/ltf-idle.jpg",
+    "sourceImage": "https://e.snmc.io/lk/lv/x/0bf52844a1c8ce9f5f8257d698dcff05/8322686",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Learn to Fly Idle - cover art"
+  },
+  {
+    "name": "LTF3",
+    "embed": "https://assets.hbmc.net/ltf3/",
+    "slug": "ltf3",
+    "image": "/assets/exact-game-images/ltf3.jpg",
+    "sourceImage": "https://e.snmc.io/lk/lv/x/81b70ea194d8a44591f0befc1ed5d207/9441680",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Learn to Fly 3 - cover art"
+  },
+  {
+    "name": "Madalin Stunt Cars 2",
+    "embed": "https://assets.hbmc.net/madalin-stunt-cars-2/",
+    "slug": "madalin-stunt-cars-2",
+    "image": "/assets/hbmc-games/images/madalin-stunt-cars-2.jpg",
+    "sourceImage": "https://assets.hbmc.net/madalin-stunt-cars-2/img/logo.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Madalin Stunt Cars 3",
+    "embed": "https://assets.hbmc.net/madalin-stunt-cars-3/",
+    "slug": "madalin-stunt-cars-3",
+    "image": "/assets/hbmc-games/images/madalin-stunt-cars-3.jpg",
+    "sourceImage": "https://assets.hbmc.net/madalin-stunt-cars-3/img/index.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Mario",
+    "embed": "https://assets.hbmc.net/mario/",
+    "slug": "mario",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/mario/Theme/Mario.gif",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/mario.gif",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Mart",
+    "embed": "https://assets.hbmc.net/mart/",
+    "slug": "mart",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Marvin Spectrum",
+    "embed": "https://assets.hbmc.net/marvinspectrum/",
+    "slug": "marvinspectrum",
+    "image": "/assets/hbmc-games/images/marvinspectrum.png",
+    "sourceImage": "https://assets.hbmc.net/marvinspectrum/marvinspectrum.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Matrix Rampage",
+    "embed": "https://assets.hbmc.net/matrixrampage/",
+    "slug": "matrixrampage",
+    "image": "/assets/hbmc-games/images/matrixrampage.jpg",
+    "sourceImage": "https://assets.hbmc.net/matrixrampage/matrixrampage.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "MC2D",
+    "embed": "https://assets.hbmc.net/mc2d/",
+    "slug": "mc2d",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "MCJE",
+    "embed": "https://assets.hbmc.net/mcje/",
+    "slug": "mcje",
+    "image": "/assets/hbmc-games/images/mcje.jpg",
+    "sourceImage": "https://assets.hbmc.net/mcje/C1B5E635-A242-4D0F-8524-DE4B5164F534.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Meme 2048",
+    "embed": "https://assets.hbmc.net/meme2048/",
+    "slug": "meme2048",
+    "image": "/assets/exact-game-images/meme2048.jpg",
+    "sourceImage": "https://images.meme-arsenal.com/fe3d50f6ba3b814738734a1ffddf416c.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Create meme: 2048 all, 2048 video game, the brightest"
+  },
+  {
+    "name": "Merge Round Racers",
+    "embed": "https://assets.hbmc.net/merge-round-racers/",
+    "slug": "merge-round-racers",
+    "image": "/assets/hbmc-games/images/merge-round-racers.png",
+    "sourceImage": "https://assets.hbmc.net/merge-round-racers/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Mindustry",
+    "embed": "https://assets.hbmc.net/mindustry/",
+    "slug": "mindustry",
+    "image": "/assets/exact-game-images/mindustry.jpg",
+    "sourceImage": "https://b.thumbs.redditmedia.com/aJ3zz2yGMYWe9NENFmqstg96l3YRnzWKpHx1PYUZHlg.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "r/Mindustry - first time on this game"
+  },
+  {
+    "name": "MineBlocks",
+    "embed": "https://assets.hbmc.net/mineblocks/",
+    "slug": "mineblocks",
+    "image": "/assets/hbmc-games/images/mineblocks.png",
+    "sourceImage": "https://assets.hbmc.net/mineblocks/favicon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Minecraft 1.5",
+    "embed": "https://assets.hbmc.net/minecraft-15/",
+    "slug": "minecraft-15",
+    "image": "/assets/exact-game-images/minecraft-15.jpg",
+    "sourceImage": "https://eaglercraftweb.com/assets/upload/eaglercraft/webp/eaglercraft.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Eaglercraft game thumbnail"
+  },
+  {
+    "name": "Minecraft 1.8",
+    "embed": "https://assets.hbmc.net/minecraft-18/",
+    "slug": "minecraft-18",
+    "image": "/assets/exact-game-images/minecraft-18.jpg",
+    "sourceImage": "https://mineplay.io/_next/image?url=/images/versions/eaglercraft-1.8.8.png&w=3840&q=75",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Minecraft 1.8.8 running in a browser tab on MinePlay"
+  },
+  {
+    "name": "Minecraft Classic",
+    "embed": "https://assets.hbmc.net/minecraft-classic/",
+    "slug": "minecraft-classic",
+    "image": "/assets/exact-game-images/minecraft-classic.jpg",
+    "sourceImage": "https://staticg.sportskeeda.com/editor/2021/08/50eb3-16297472412273-800.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Gameplay in Minecraft Classic is severely limited when compared to the current version (Image via Mojang)"
+  },
+  {
+    "name": "Minecraft Beta",
+    "embed": "https://assets.hbmc.net/minecraftbeta/",
+    "slug": "minecraftbeta",
+    "image": "/assets/exact-game-images/minecraftbeta.jpg",
+    "sourceImage": "https://preview.redd.it/3lj6xv07q2rg1.png?width=140&height=85&auto=webp&s=e678330aa7e415321d66106cdc66401b9c13d812",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "r/GoldenAgeMinecraft - I made a Minecraft Beta inspired browser clone!"
+  },
+  {
+    "name": "Minecraft Tower Defence",
+    "embed": "https://assets.hbmc.net/minecrafttowerdefence/",
+    "slug": "minecrafttowerdefence",
+    "image": "/assets/exact-game-images/minecrafttowerdefence.jpg",
+    "sourceImage": "https://static.keygames.com/7/91047/49363/672x448/minecraft-tower-defence-final.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Minecraft Tower Defence Final"
+  },
+  {
+    "name": "Minesweeper",
+    "embed": "https://assets.hbmc.net/minesweeper/",
+    "slug": "minesweeper",
+    "image": "/assets/exact-game-images/minesweeper.jpg",
+    "sourceImage": "https://preview.redd.it/minesweeper-for-windows-98-web-browser-game-playable-online-v0-hps60gkcqecg1.png?width=1104&format=png&auto=webp&s=cda2721123ea035db0b0a3670a561e4099b448e6",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "r/nostalgia - Minesweeper for Windows 98 - Web Browser Game Playable Online"
+  },
+  {
+    "name": "Mini Putt",
+    "embed": "https://assets.hbmc.net/miniputt/",
+    "slug": "miniputt",
+    "image": "/assets/exact-game-images/miniputt.jpg",
+    "sourceImage": "https://www.addictinggames.com/_next/image?url=https://prod.addictinggames.com/sites/default/files/MiniPutt.png&w=3840&q=100",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Mini Putt Thumbnail"
+  },
+  {
+    "name": "Missiles",
+    "embed": "https://assets.hbmc.net/missiles/",
+    "slug": "missiles",
+    "image": "/assets/hbmc-games/images/missiles.png",
+    "sourceImage": "https://assets.hbmc.net/missiles/miss.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Monkey Mart",
+    "embed": "https://assets.hbmc.net/MonkeyMart/",
+    "slug": "monkeymart",
+    "image": "/assets/exact-game-images/monkeymart.jpg",
+    "sourceImage": "https://nargames.com/storage/uploads/thumbs/monkey-mart.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Monkey Mart Thumbnail"
+  },
+  {
+    "name": "Monster Tracks",
+    "embed": "https://assets.hbmc.net/monster-tracks/",
+    "slug": "monster-tracks",
+    "image": "/assets/hbmc-games/images/monster-tracks.jpg",
+    "sourceImage": "https://assets.hbmc.net/monster-tracks/webapp/cover.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Moto X3M Pool",
+    "embed": "https://assets.hbmc.net/motox3m-pool/",
+    "slug": "motox3m-pool",
+    "image": "/assets/hbmc-games/images/motox3m-pool.jpg",
+    "sourceImage": "https://assets.hbmc.net/motox3m-pool/splash.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Moto X3M Spooky",
+    "embed": "https://assets.hbmc.net/motox3m-spooky/",
+    "slug": "motox3m-spooky",
+    "image": "/assets/hbmc-games/images/motox3m-spooky.jpg",
+    "sourceImage": "https://assets.hbmc.net/motox3m-spooky/splash.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Moto X3M Winter",
+    "embed": "https://assets.hbmc.net/motox3m-winter/",
+    "slug": "motox3m-winter",
+    "image": "/assets/hbmc-games/images/motox3m-winter.jpg",
+    "sourceImage": "https://assets.hbmc.net/motox3m-winter/download.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Moto X3M",
+    "embed": "https://assets.hbmc.net/motox3m/",
+    "slug": "motox3m",
+    "image": "/assets/exact-game-images/motox3m.jpg",
+    "sourceImage": "https://www.contezero.com/user/pages/03.games/09.racing/moto-x3m/screenshot-2019-05-16.14.19.43.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Moto X3M 🕹️ 🏁 | Free Racing Physics Browser Game - Image 2"
+  },
+  {
+    "name": "Moto X3M 2",
+    "embed": "https://assets.hbmc.net/motox3m2/",
+    "slug": "motox3m2",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "My Rusty Submarine",
+    "embed": "https://assets.hbmc.net/my-rusty-submarine/",
+    "slug": "my-rusty-submarine",
+    "image": "/assets/exact-game-images/my-rusty-submarine.jpg",
+    "sourceImage": "https://img.tapimg.net/market/images/cbd82d170c98e519ec30956139606994.jpg?imageView2/2/w/360/h/360/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "My Rusty Submarine - New Waters Game Screenshot"
+  },
+  {
+    "name": "N-Gon",
+    "embed": "https://assets.hbmc.net/n-gon/",
+    "slug": "n-gon",
+    "image": "/assets/exact-game-images/n-gon.jpg",
+    "sourceImage": "https://online.fuxien.com/images/thumb/728x450xc/uploads/products/19753/n-gon-tablet.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "n-gon — Main Game Image"
+  },
+  {
+    "name": "Ninja",
+    "embed": "https://assets.hbmc.net/ninja/",
+    "slug": "ninja",
+    "image": "/assets/hbmc-games/images/ninja.png",
+    "sourceImage": "https://assets.hbmc.net/ninja/logo1.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Ninja vs Evil Corp",
+    "embed": "https://assets.hbmc.net/ninjavsevilcorp/",
+    "slug": "ninjavsevilcorp",
+    "image": "/assets/exact-game-images/ninjavsevilcorp.jpg",
+    "sourceImage": "https://www.rapidwebapp.com/wp-content/uploads/Ninja-VS-Evilcorp-Game.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Ninja VS Evil Corp Cover"
+  },
+  {
+    "name": "Noob Steve Parkour",
+    "embed": "https://assets.hbmc.net/noob-steve-parkour/",
+    "slug": "noob-steve-parkour",
+    "image": "/assets/exact-game-images/noob-steve-parkour.jpg",
+    "sourceImage": "https://image.yaksgames.com/v2/game/6/e/e/6ee98150da7623c4b730578bec380034.jpg?w=200",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Noob Steve Parkour"
+  },
+  {
+    "name": "NS-Shaft",
+    "embed": "https://assets.hbmc.net/ns-shaft/",
+    "slug": "ns-shaft",
+    "image": "/assets/exact-game-images/ns-shaft.jpg",
+    "sourceImage": "https://img.tapimg.net/market/images/480522d2033eeda98844619eeea005ae.png?imageView2/2/w/360/h/360/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "NS - Shaft Game Screenshot"
+  },
+  {
+    "name": "NS Resurgence",
+    "embed": "https://assets.hbmc.net/nsresurgence/",
+    "slug": "nsresurgence",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/nsresurgence/TemplateData/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/nsresurgence.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Offline Paradise",
+    "embed": "https://assets.hbmc.net/OfflineParadise/",
+    "slug": "offlineparadise",
+    "image": "/assets/exact-game-images/offlineparadise.jpg",
+    "sourceImage": "https://online.fuxien.com/images/thumb/728x450xc/uploads/products/19755/offline-paradise-tablet.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Offline Paradise — Main Game Image"
+  },
+  {
+    "name": "Om Bounce",
+    "embed": "https://assets.hbmc.net/om-bounce/",
+    "slug": "om-bounce",
+    "image": "/assets/exact-game-images/om-bounce.jpg",
+    "sourceImage": "https://www.contezero.com/user/pages/03.games/08.puzzle/om-nom-bounce/screenshot-2022-06-19.10.21.50.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Om Nom Bounce 🕹️ 💡 | Free Puzzle Arcade Browser Game - Image 3"
+  },
+  {
+    "name": "osu!",
+    "embed": "https://assets.hbmc.net/osu!/",
+    "slug": "osu",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/osu!/favicon.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/osu.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Out of Ctrl",
+    "embed": "https://assets.hbmc.net/out-of-ctrl/",
+    "slug": "out-of-ctrl",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Overwatch",
+    "embed": "https://assets.hbmc.net/overwatch/",
+    "slug": "overwatch",
+    "image": "/assets/hbmc-games/images/overwatch.jpg",
+    "sourceImage": "https://assets.hbmc.net/overwatch/98FBAD0A-F63A-46B5-81E7-0D3074D23365.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "OvO",
+    "embed": "https://assets.hbmc.net/ovo/",
+    "slug": "ovo",
+    "image": "/assets/hbmc-games/images/ovo.png",
+    "sourceImage": "https://assets.hbmc.net/ovo/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Pandemic 2",
+    "embed": "https://assets.hbmc.net/pandemic2/",
+    "slug": "pandemic2",
+    "image": "/assets/hbmc-games/images/pandemic2.png",
+    "sourceImage": "https://assets.hbmc.net/pandemic2/pandemic2.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Papa's Burgeria",
+    "embed": "https://assets.hbmc.net/papasburgeria/",
+    "slug": "papasburgeria",
+    "image": "/assets/exact-game-images/papasburgeria.jpg",
+    "sourceImage": "https://minigamesville.com/wp-content/uploads/2025/08/Papas-Burgeria.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Papa’s Burgeria - Game Icon"
+  },
+  {
+    "name": "Papa's Pizzaria",
+    "embed": "https://assets.hbmc.net/papaspizzaria/",
+    "slug": "papaspizzaria",
+    "image": "/assets/hbmc-games/images/papaspizzaria.jpg",
+    "sourceImage": "https://assets.hbmc.net/papaspizzaria/papaspizzaria.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Paper.io 2",
+    "embed": "https://assets.hbmc.net/paperio2/",
+    "slug": "paperio2",
+    "image": "/assets/hbmc-games/images/paperio2.png",
+    "sourceImage": "https://assets.hbmc.net/paperio2/images/icon192.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Papery Planes",
+    "embed": "https://assets.hbmc.net/papery-planes/",
+    "slug": "papery-planes",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/papery-planes/thumb.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/papery-planes.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Particle Clicker",
+    "embed": "https://assets.hbmc.net/particle-clicker/",
+    "slug": "particle-clicker",
+    "image": "/assets/exact-game-images/particle-clicker.jpg",
+    "sourceImage": "https://static.seeles.ai/media/prod/game/cover/970_fa64370f-484a-4615-bbb3-1fd6ab2aa5b1.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Particle Clicker is an educational physics-based incremental game that combines the addictive clicking mechanics of idle games with real scientific concepts. Click particles to run experiments and collect valuable research data."
+  },
+  {
+    "name": "ParticleClicker",
+    "embed": "https://assets.hbmc.net/particleclicker/",
+    "slug": "particleclicker",
+    "image": "/assets/exact-game-images/particleclicker.jpg",
+    "sourceImage": "https://static.seeles.ai/media/prod/game/cover/970_fa64370f-484a-4615-bbb3-1fd6ab2aa5b1.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Particle Clicker is an educational physics-based incremental game that combines the addictive clicking mechanics of idle games with real scientific concepts. Click particles to run experiments and collect valuable research data."
+  },
+  {
+    "name": "PI Client",
+    "embed": "https://assets.hbmc.net/piclient/",
+    "slug": "piclient",
+    "image": "/assets/hbmc-games/images/piclient.jpg",
+    "sourceImage": "https://assets.hbmc.net/piclient/B969467B-2495-4872-A739-B6ECA873FF5A.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Pigeon Ascent",
+    "embed": "https://assets.hbmc.net/pigeon-ascent/",
+    "slug": "pigeon-ascent",
+    "image": "/assets/exact-game-images/pigeon-ascent.jpg",
+    "sourceImage": "https://img.tapimg.net/market/images/367afa81371c58c199632f73d7a3cf8a.jpg?imageView2/2/w/360/h/360/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Pigeon Ascent Game Screenshot"
+  },
+  {
+    "name": "Pixel Gun Survival",
+    "embed": "https://assets.hbmc.net/pixel-gun-survival/",
+    "slug": "pixel-gun-survival",
+    "image": "/assets/exact-game-images/pixel-gun-survival.jpg",
+    "sourceImage": "https://meelfoygames.com/wp-content/uploads/2025/11/pixel-gun-survival-game-online.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Screenshot of Pixel Gun Survival showing gameplay, characters, and environment"
+  },
+  {
+    "name": "Planet Life",
+    "embed": "https://assets.hbmc.net/planetlife/",
+    "slug": "planetlife",
+    "image": "/assets/hbmc-games/images/planetlife.png",
+    "sourceImage": "https://assets.hbmc.net/planetlife/images/handling/coolMathSplash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Plants vs Zombies 1",
+    "embed": "https://assets.hbmc.net/plants%20vs%20zombies%201/",
+    "slug": "plants-vs-zombies-1",
+    "image": "/assets/hbmc-games/images/plants-vs-zombies-1.png",
+    "sourceImage": "https://assets.hbmc.net/plants%20vs%20zombies%201/image_proxy.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Polybranch",
+    "embed": "https://assets.hbmc.net/polybranch/",
+    "slug": "polybranch",
+    "image": "/assets/hbmc-games/images/polybranch.png",
+    "sourceImage": "https://assets.hbmc.net/polybranch/Arrow_keys.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Polytrack",
+    "embed": "https://assets.hbmc.net/polytrack/",
+    "slug": "polytrack",
+    "image": "/assets/exact-game-images/polytrack.jpg",
+    "sourceImage": "https://www.polytrackcodes.com/blog/editor-tutorial-cover.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "PolyTrack Track Editor Guide: Build Your First Good Track"
+  },
+  {
+    "name": "Poom",
+    "embed": "https://assets.hbmc.net/poom/",
+    "slug": "poom",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/poom/img/start.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/poom.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Popcat Classic",
+    "embed": "https://assets.hbmc.net/popcat-classic/",
+    "slug": "popcat-classic",
+    "image": "/assets/hbmc-games/images/popcat-classic.png",
+    "sourceImage": "https://assets.hbmc.net/popcat-classic/apple-touch-icon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Portal Flash",
+    "embed": "https://assets.hbmc.net/portalflash/",
+    "slug": "portalflash",
+    "image": "/assets/exact-game-images/portalflash.jpg",
+    "sourceImage": "https://www.addictinggames.com/_next/image?url=https://prod.addictinggames.com/sites/default/files/Portal-FlashVersion.jpg&w=3840&q=100",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Portal: Flash Version Thumbnail"
+  },
+  {
+    "name": "Precision Client",
+    "embed": "https://assets.hbmc.net/precision-client/",
+    "slug": "precision-client",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/precision-client/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/precision-client.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Protektor",
+    "embed": "https://assets.hbmc.net/protektor/",
+    "slug": "protektor",
+    "image": "/assets/hbmc-games/images/protektor.png",
+    "sourceImage": "https://assets.hbmc.net/protektor/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Push the Square",
+    "embed": "https://assets.hbmc.net/push-the-square/",
+    "slug": "push-the-square",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/push-the-square/img/icon.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/push-the-square.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Push Your Luck",
+    "embed": "https://assets.hbmc.net/push-your-luck/",
+    "slug": "push-your-luck",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/push-your-luck/assets/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/push-your-luck.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Rabbit Samurai",
+    "embed": "https://assets.hbmc.net/rabbit-samurai/",
+    "slug": "rabbit-samurai",
+    "image": "/assets/hbmc-games/images/rabbit-samurai.png",
+    "sourceImage": "https://assets.hbmc.net/rabbit-samurai/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Rabbit Samurai 2",
+    "embed": "https://assets.hbmc.net/rabbit-samurai2/",
+    "slug": "rabbit-samurai2",
+    "image": "/assets/hbmc-games/images/rabbit-samurai2.png",
+    "sourceImage": "https://assets.hbmc.net/rabbit-samurai2/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Resent Client",
+    "embed": "https://assets.hbmc.net/resent-client/",
+    "slug": "resent-client",
+    "image": "/assets/exact-game-images/resent-client.jpg",
+    "sourceImage": "https://eaglercraft.tools/uploads/resent-client-4-0-js.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Resent Client 4.0 - JS"
+  },
+  {
+    "name": "Retro Bowl",
+    "embed": "https://assets.hbmc.net/retro-bowl/",
+    "slug": "retro-bowl",
+    "image": "/assets/hbmc-games/images/retro-bowl.png",
+    "sourceImage": "https://assets.hbmc.net/retro-bowl/html5game/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Rhythm Doctor",
+    "embed": "https://assets.hbmc.net/rhythm-doctor/",
+    "slug": "rhythm-doctor",
+    "image": "/assets/exact-game-images/rhythm-doctor.jpg",
+    "sourceImage": "https://cdn4.kongcdn.com/game_icons/0043/5163/hia__Custom_.png?i10c=img.resize(width:250)",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Rhythm Doctor (Demo)"
+  },
+  {
+    "name": "Riddle School",
+    "embed": "https://assets.hbmc.net/riddleschool/",
+    "slug": "riddleschool",
+    "image": "/assets/hbmc-games/images/riddleschool.png",
+    "sourceImage": "https://assets.hbmc.net/riddleschool/riddleschool.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Riddle School 2",
+    "embed": "https://assets.hbmc.net/riddleschool2/",
+    "slug": "riddleschool2",
+    "image": "/assets/hbmc-games/images/riddleschool2.png",
+    "sourceImage": "https://assets.hbmc.net/riddleschool2/riddleschool2.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Riddle School 3",
+    "embed": "https://assets.hbmc.net/riddleschool3/",
+    "slug": "riddleschool3",
+    "image": "/assets/hbmc-games/images/riddleschool3.png",
+    "sourceImage": "https://assets.hbmc.net/riddleschool3/riddleschool3.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Riddle School 4",
+    "embed": "https://assets.hbmc.net/riddleschool4/",
+    "slug": "riddleschool4",
+    "image": "/assets/hbmc-games/images/riddleschool4.png",
+    "sourceImage": "https://assets.hbmc.net/riddleschool4/riddleschool4.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Riddle School 5",
+    "embed": "https://assets.hbmc.net/riddleschool5/",
+    "slug": "riddleschool5",
+    "image": "/assets/hbmc-games/images/riddleschool5.png",
+    "sourceImage": "https://assets.hbmc.net/riddleschool5/riddleschool5.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Riddle Transfer",
+    "embed": "https://assets.hbmc.net/riddletransfer/",
+    "slug": "riddletransfer",
+    "image": "/assets/hbmc-games/images/riddletransfer.png",
+    "sourceImage": "https://assets.hbmc.net/riddletransfer/riddletransfer.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Riddle Transfer 2",
+    "embed": "https://assets.hbmc.net/riddletransfer2/",
+    "slug": "riddletransfer2",
+    "image": "/assets/hbmc-games/images/riddletransfer2.png",
+    "sourceImage": "https://assets.hbmc.net/riddletransfer2/riddletransfer2.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Roblox Copy",
+    "embed": "https://assets.hbmc.net/roblox%20copy/",
+    "slug": "roblox-copy",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Roblox",
+    "embed": "https://assets.hbmc.net/roblox/",
+    "slug": "roblox",
+    "image": "/assets/exact-game-images/roblox.jpg",
+    "sourceImage": "https://images.wondershare.com/democreator/images2024/roblox-thumbnail-makers/roblox-thumbnail-makers-2.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "game-scene-from-roblox"
+  },
+  {
+    "name": "Robux Clicker",
+    "embed": "https://assets.hbmc.net/robuxclicker/",
+    "slug": "robuxclicker",
+    "image": "/assets/hbmc-games/images/robuxclicker.jpg",
+    "sourceImage": "https://assets.hbmc.net/robuxclicker/1517CE7D-1708-489E-9C51-E52887A13855.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Rocket League",
+    "embed": "https://assets.hbmc.net/Rocket-League/",
+    "slug": "rocket-league",
+    "image": "/assets/exact-game-images/rocket-league.jpg",
+    "sourceImage": "https://game-pluto.com/wp-content/uploads/2024/12/rocket-league-150x150.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Rocket League Unblocked - Chrome Online Games - Game Pluto"
+  },
+  {
+    "name": "Rolling Forests",
+    "embed": "https://assets.hbmc.net/rolling-forests/",
+    "slug": "rolling-forests",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Rolly Vortex",
+    "embed": "https://assets.hbmc.net/rolly-vortex/",
+    "slug": "rolly-vortex",
+    "image": "/assets/hbmc-games/images/rolly-vortex.png",
+    "sourceImage": "https://assets.hbmc.net/rolly-vortex/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Rooftop Snipers",
+    "embed": "https://assets.hbmc.net/rooftop-snipers/",
+    "slug": "rooftop-snipers",
+    "image": "/assets/hbmc-games/images/rooftop-snipers.png",
+    "sourceImage": "https://assets.hbmc.net/rooftop-snipers/img/thumb.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Roommate",
+    "embed": "https://assets.hbmc.net/roommate/",
+    "slug": "roommate",
+    "image": "/assets/exact-game-images/roommate.jpg",
+    "sourceImage": "https://www.winterwolves.com/assets/roommates/thumbs/mainmenu.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "roommates"
+  },
+  {
+    "name": "Ruffle",
+    "embed": "https://assets.hbmc.net/ruffle/",
+    "slug": "ruffle",
+    "image": "/assets/exact-game-images/ruffle.jpg",
+    "sourceImage": "https://a.fsdn.com/con/app/proj/ruffle.mirror/screenshots/1-83e1c91a.PNG/245/183/1",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Ruffle Screenshot 1"
+  },
+  {
+    "name": "Run 2",
+    "embed": "https://assets.hbmc.net/Run%202/",
+    "slug": "run-2",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "originalImage": "/assets/game-images/run-2.jpg",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Run 3",
+    "embed": "https://assets.hbmc.net/run%203/",
+    "slug": "run-3",
+    "image": "/assets/hbmc-games/images/run-3.jpg",
+    "sourceImage": "https://assets.hbmc.net/run%203/image_proxy.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Run",
+    "embed": "https://assets.hbmc.net/run/",
+    "slug": "run",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "originalImage": "/assets/game-images/run.jpg",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Run 4 Bootleg",
+    "embed": "https://assets.hbmc.net/run4bootleg/",
+    "slug": "run4bootleg",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/run4bootleg/55favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/run4bootleg.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Runner",
+    "embed": "https://assets.hbmc.net/runner/",
+    "slug": "runner",
+    "image": "/assets/hbmc-games/images/runner.png",
+    "sourceImage": "https://assets.hbmc.net/runner/loading3860.png?v=1",
+    "source": "hbmc"
+  },
+  {
+    "name": "Sand Game",
+    "embed": "https://assets.hbmc.net/sand-game/",
+    "slug": "sand-game",
+    "image": "/assets/exact-game-images/sand-game.jpg",
+    "sourceImage": "https://camo.githubusercontent.com/373795d7f6210e2ddb294380b87e088edaa16b22e42783608f4230efcb906c03/68747470733a2f2f66696c65732e68617261672e637a2f7777772f6170702f73616e642d67616d652d6a732f707265766965772d776974682d6775692e706e67",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Sand Game JS preview"
+  },
+  {
+    "name": "Sandboxels",
+    "embed": "https://assets.hbmc.net/sandboxels/",
+    "slug": "sandboxels",
+    "image": "/assets/exact-game-images/sandboxels.jpg",
+    "sourceImage": "https://browsercraft.com/images/games/covers/sandboxels.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Sandboxels cover image"
+  },
+  {
+    "name": "Santy Is Home",
+    "embed": "https://assets.hbmc.net/santy-is-home/",
+    "slug": "santy-is-home",
+    "image": "/assets/hbmc-games/images/santy-is-home.png",
+    "sourceImage": "https://assets.hbmc.net/santy-is-home/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Scooperia",
+    "embed": "https://assets.hbmc.net/scooperia/",
+    "slug": "scooperia",
+    "image": "/assets/exact-game-images/scooperia.jpg",
+    "sourceImage": "https://crossyroadfree.com/assets/upload/crossy-road/webp/scooperia.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Scooperia game thumbnail"
+  },
+  {
+    "name": "Scrap Metal",
+    "embed": "https://assets.hbmc.net/scrapmetal/",
+    "slug": "scrapmetal",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/scrapmetal/img/utka.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/scrapmetal.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Scratcharia",
+    "embed": "https://assets.hbmc.net/scratcharia/",
+    "slug": "scratcharia",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Shape Shootout",
+    "embed": "https://assets.hbmc.net/ShapeShootout/",
+    "slug": "shapeshootout",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Shell Shockers",
+    "embed": "https://assets.hbmc.net/shellshockers/",
+    "slug": "shellshockers",
+    "image": "/assets/exact-game-images/shellshockers.jpg",
+    "sourceImage": "https://external-preview.redd.it/P8DE-N-xf9wDmO-tVVkNs8pVpi6-h4Z9LONmdfpY8pA.jpg?width=640&crop=smart&auto=webp&s=d7c531c2113b5cc29c36bac66758e3372c81383a",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "r/gaming - A browser based, multiplayer egg shooter, Shell Shockers."
+  },
+  {
+    "name": "Shogun Showdown",
+    "embed": "https://assets.hbmc.net/shogunshowdown/",
+    "slug": "shogunshowdown",
+    "image": "/assets/hbmc-games/images/shogunshowdown.png",
+    "sourceImage": "https://assets.hbmc.net/shogunshowdown/19C0D9BB-86C1-4A65-B374-638BD25EE0FC.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Shot in the Dark",
+    "embed": "https://assets.hbmc.net/shotinthedark/",
+    "slug": "shotinthedark",
+    "image": "/assets/exact-game-images/shotinthedark.jpg",
+    "sourceImage": "https://gamefabrique.com/screenshots/pc/a-shot-in-the-dark-14.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "A Shot in the Dark PC Screenshot"
+  },
+  {
+    "name": "Shuttle Deck",
+    "embed": "https://assets.hbmc.net/shuttledeck/",
+    "slug": "shuttledeck",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Sky Car Stunt",
+    "embed": "https://assets.hbmc.net/sky-car-stunt/",
+    "slug": "sky-car-stunt",
+    "image": "/assets/exact-game-images/sky-car-stunt.jpg",
+    "sourceImage": "https://mir-s3-cdn-cf.behance.net/projects/404/60fb56136818307.Y3JvcCwxNTg3LDEyNDIsMzEwLDA.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Sky Car stunts game"
+  },
+  {
+    "name": "Sleeping Beauty",
+    "embed": "https://assets.hbmc.net/sleepingbeauty/",
+    "slug": "sleepingbeauty",
+    "image": "/assets/exact-game-images/sleepingbeauty.jpg",
+    "sourceImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1119630/header.jpg?t=1564041324",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "DarkFairyTales SleepingBeauty"
+  },
+  {
+    "name": "Slime Rush TD",
+    "embed": "https://assets.hbmc.net/slime-rush-td/",
+    "slug": "slime-rush-td",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/slime-rush-td/loading-logo.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/slime-rush-td.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Slither.io",
+    "embed": "https://assets.hbmc.net/slitherio/",
+    "slug": "slitherio",
+    "image": "/assets/hbmc-games/images/slitherio.jpg",
+    "sourceImage": "https://assets.hbmc.net/slitherio/7EDEF379-07A2-4604-B552-C0A3DB2D70BE.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Slope 2",
+    "embed": "https://assets.hbmc.net/slope-2/",
+    "slug": "slope-2",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Slope Ball",
+    "embed": "https://assets.hbmc.net/slope-ball/",
+    "slug": "slope-ball",
+    "image": "/assets/hbmc-games/images/slope-ball.png",
+    "sourceImage": "https://assets.hbmc.net/slope-ball/files/favicon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Slope",
+    "embed": "https://assets.hbmc.net/slope/",
+    "slug": "slope",
+    "image": "/assets/hbmc-games/images/slope.jpg",
+    "sourceImage": "https://assets.hbmc.net/slope/slope4.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Slow Roads",
+    "embed": "https://assets.hbmc.net/slowroads/",
+    "slug": "slowroads",
+    "image": "/assets/hbmc-games/images/slowroads.png",
+    "sourceImage": "https://assets.hbmc.net/slowroads/static/media/splash-logo-placeholder-7b.2d60164d.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "SM64",
+    "embed": "https://assets.hbmc.net/sm64/",
+    "slug": "sm64",
+    "image": "/assets/hbmc-games/images/sm64.png",
+    "sourceImage": "https://assets.hbmc.net/sm64/logo.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Smash Karts",
+    "embed": "https://assets.hbmc.net/smashkarts/",
+    "slug": "smashkarts",
+    "image": "/assets/exact-game-images/smashkarts.jpg",
+    "sourceImage": "https://smashkartsgame.online/game_images/smash-karts.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Gameplay preview of Smash Karts browser game from our arcade library collection showcase page"
+  },
+  {
+    "name": "Smoking Barrels",
+    "embed": "https://assets.hbmc.net/smokingbarrels/",
+    "slug": "smokingbarrels",
+    "image": "/assets/hbmc-games/images/smokingbarrels.jpg",
+    "sourceImage": "https://assets.hbmc.net/smokingbarrels/smokingbarrels.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Snow Battle",
+    "embed": "https://assets.hbmc.net/snowbattle/",
+    "slug": "snowbattle",
+    "image": "/assets/exact-game-images/snowbattle.jpg",
+    "sourceImage": "https://img.tapimg.net/market/images/ef5e6903713a10aecc503914b7de755c.png?imageView2/2/w/360/h/360/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Snowbattle.io Game Screenshot"
+  },
+  {
+    "name": "Snow Rider 3D",
+    "embed": "https://assets.hbmc.net/snowrider3d/",
+    "slug": "snowrider3d",
+    "image": "/assets/exact-game-images/snowrider3d.jpg",
+    "sourceImage": "https://snowriderx.github.io/images/The-Browser-Game-Everyone-is-Playing.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Snow Rider 3D gameplay screenshot"
+  },
+  {
+    "name": "Soccer Random",
+    "embed": "https://assets.hbmc.net/soccer-random/",
+    "slug": "soccer-random",
+    "image": "/assets/hbmc-games/images/soccer-random.png",
+    "sourceImage": "https://assets.hbmc.net/soccer-random/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Soccer Skills",
+    "embed": "https://assets.hbmc.net/soccer-skills/",
+    "slug": "soccer-skills",
+    "image": "/assets/hbmc-games/images/soccer-skills.png",
+    "sourceImage": "https://assets.hbmc.net/soccer-skills/android-icon-192x192.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Soldier Legend",
+    "embed": "https://assets.hbmc.net/soldier-legend/",
+    "slug": "soldier-legend",
+    "image": "/assets/hbmc-games/images/soldier-legend.jpg",
+    "sourceImage": "https://assets.hbmc.net/soldier-legend/images/logo.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Solitaire",
+    "embed": "https://assets.hbmc.net/solitaire/",
+    "slug": "solitaire",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/solitaire/img/solitaire-16x16.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/solitaire.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Sort the Court",
+    "embed": "https://assets.hbmc.net/sort-the-court/",
+    "slug": "sort-the-court",
+    "image": "/assets/exact-game-images/sort-the-court.jpg",
+    "sourceImage": "https://sortthecourtgame.online/game_images/sort-the-court.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Gameplay preview of Sort the Court! browser game from our arcade library collection showcase page"
+  },
+  {
+    "name": "Soundboard",
+    "embed": "https://assets.hbmc.net/soundboard/",
+    "slug": "soundboard",
+    "image": "/assets/hbmc-games/images/soundboard.png",
+    "sourceImage": "https://assets.hbmc.net/soundboard/img/mlg-favicon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Space Company",
+    "embed": "https://assets.hbmc.net/space-company/",
+    "slug": "space-company",
+    "image": "/assets/hbmc-games/images/space-company.png",
+    "sourceImage": "https://assets.hbmc.net/space-company/SpaceCompanyFavicon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Space Garden",
+    "embed": "https://assets.hbmc.net/spacegarden/",
+    "slug": "spacegarden",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Spelunky",
+    "embed": "https://assets.hbmc.net/spelunky/",
+    "slug": "spelunky",
+    "image": "/assets/exact-game-images/spelunky.jpg",
+    "sourceImage": "https://image.winudf.com/v2/image1/Y29tLnNwZWx1bmt5LnNwZWx1bmt5XzE3MzQ5ODcxMDhfMDA5/screen-2.jpg?h=200&fakeurl=1&type=.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Spelunky Classic HD screenshot 2"
+  },
+  {
+    "name": "Spinning Rat",
+    "embed": "https://assets.hbmc.net/spinningrat/",
+    "slug": "spinningrat",
+    "image": "/assets/hbmc-games/images/spinningrat.png",
+    "sourceImage": "https://assets.hbmc.net/spinningrat/apple-touch-icon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Square Dash",
+    "embed": "https://assets.hbmc.net/squaredash/",
+    "slug": "squaredash",
+    "image": "/assets/exact-game-images/squaredash.jpg",
+    "sourceImage": "https://plays.org/screenshots/square-dash-next-level.png?x89477",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Square Dash Game Next Level Screenshot."
+  },
+  {
+    "name": "Square Rush",
+    "embed": "https://assets.hbmc.net/squarerush/",
+    "slug": "squarerush",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Ssurfer Botleg",
+    "embed": "https://assets.hbmc.net/ssurferbotleg/",
+    "slug": "ssurferbotleg",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/ssurferbotleg/TemplateData/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/ssurferbotleg.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Stack Bump 3D",
+    "embed": "https://assets.hbmc.net/stack-bump-3d/",
+    "slug": "stack-bump-3d",
+    "image": "/assets/exact-game-images/stack-bump-3d.jpg",
+    "sourceImage": "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/4708a48e-7783-4fbf-a99c-e2345d98a6a4/1311528570/stack-bump-3d-unblocked-game-screenshot.png",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Stack Bump 3D Unblocked Game"
+  },
+  {
+    "name": "Stack",
+    "embed": "https://assets.hbmc.net/stack/",
+    "slug": "stack",
+    "image": "/assets/hbmc-games/images/stack.png",
+    "sourceImage": "https://assets.hbmc.net/stack/stack.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Starve",
+    "embed": "https://assets.hbmc.net/starve/",
+    "slug": "starve",
+    "image": "/assets/hbmc-games/images/starve.png",
+    "sourceImage": "https://assets.hbmc.net/starve/img/favicon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Station 141",
+    "embed": "https://assets.hbmc.net/station-141/",
+    "slug": "station-141",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/station-141/icon.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/station-141.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Station Meltdown",
+    "embed": "https://assets.hbmc.net/stationmeltdown/",
+    "slug": "stationmeltdown",
+    "image": "/assets/exact-game-images/stationmeltdown.jpg",
+    "sourceImage": "https://pixscrib.com/_next/image?url=https://pixscrib-games.s3.eu-central-1.amazonaws.com/game-images/K5uLBWMdLq5lCZVoANZjQZyzyYM7co9Sk1guHUgn.png&w=3840&q=75",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Station Meltdown screenshot 1"
+  },
+  {
+    "name": "Stealing the Diamond",
+    "embed": "https://assets.hbmc.net/stealingthediamond/",
+    "slug": "stealingthediamond",
+    "image": "/assets/hbmc-games/images/stealingthediamond.jpg",
+    "sourceImage": "https://assets.hbmc.net/stealingthediamond/stealingthediamond.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Stick Archers",
+    "embed": "https://assets.hbmc.net/stick-archers/",
+    "slug": "stick-archers",
+    "image": "/assets/hbmc-games/images/stick-archers.png",
+    "sourceImage": "https://assets.hbmc.net/stick-archers/icons/icon-128.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Stick Duel Battle",
+    "embed": "https://assets.hbmc.net/stick-duel-battle/",
+    "slug": "stick-duel-battle",
+    "image": "/assets/hbmc-games/images/stick-duel-battle.png",
+    "sourceImage": "https://assets.hbmc.net/stick-duel-battle/icons/icon-512.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Stick Merge",
+    "embed": "https://assets.hbmc.net/stick-merge/",
+    "slug": "stick-merge",
+    "image": "/assets/hbmc-games/images/stick-merge.png",
+    "sourceImage": "https://assets.hbmc.net/stick-merge/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Stickman Boost",
+    "embed": "https://assets.hbmc.net/stickman-boost/",
+    "slug": "stickman-boost",
+    "image": "/assets/hbmc-games/images/stickman-boost.png",
+    "sourceImage": "https://assets.hbmc.net/stickman-boost/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Stickman Golf",
+    "embed": "https://assets.hbmc.net/stickman-golf/",
+    "slug": "stickman-golf",
+    "image": "/assets/hbmc-games/images/stickman-golf.jpg",
+    "sourceImage": "https://assets.hbmc.net/stickman-golf/media/landscape.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Stickman Hook",
+    "embed": "https://assets.hbmc.net/stickman-hook/",
+    "slug": "stickman-hook",
+    "image": "/assets/exact-game-images/stickman-hook.jpg",
+    "sourceImage": "https://www.gameindustry.com/wp-content/uploads/2019/01/stickmanhook1-198x300.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Stickman Hook"
+  },
+  {
+    "name": "Stickman Survival",
+    "embed": "https://assets.hbmc.net/Stickman-Survival/",
+    "slug": "stickman-survival",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/Stickman-Survival/TemplateData/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/stickman-survival.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Stick War",
+    "embed": "https://assets.hbmc.net/stickwar/",
+    "slug": "stickwar",
+    "image": "/assets/hbmc-games/images/stickwar.jpg",
+    "sourceImage": "https://assets.hbmc.net/stickwar/stickwar.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Storm the House 2",
+    "embed": "https://assets.hbmc.net/stormthehouse2/",
+    "slug": "stormthehouse2",
+    "image": "/assets/hbmc-games/images/stormthehouse2.jpg",
+    "sourceImage": "https://assets.hbmc.net/stormthehouse2/stormthehouse2.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Subway Surfers NY",
+    "embed": "https://assets.hbmc.net/subway-surfers-ny/",
+    "slug": "subway-surfers-ny",
+    "image": "/assets/hbmc-games/images/subway-surfers-ny.png",
+    "sourceImage": "https://assets.hbmc.net/subway-surfers-ny/NewYorkIcon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Subway Surfers",
+    "embed": "https://assets.hbmc.net/subway-surfers/",
+    "slug": "subway-surfers",
+    "image": "/assets/hbmc-games/images/subway-surfers.png",
+    "sourceImage": "https://assets.hbmc.net/subway-surfers/img/FirstAvatar.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Super Auto Pets",
+    "embed": "https://assets.hbmc.net/superautopets/",
+    "slug": "superautopets",
+    "image": "/assets/exact-game-images/superautopets.jpg",
+    "sourceImage": "https://files.buffgames.net/146641_screenshot_9.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Super Auto Pets screenshot 10"
+  },
+  {
+    "name": "Super Fowlist",
+    "embed": "https://assets.hbmc.net/superfowlist/",
+    "slug": "superfowlist",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Superhot",
+    "embed": "https://assets.hbmc.net/superhot/",
+    "slug": "superhot",
+    "image": "/assets/hbmc-games/images/superhot.jpg",
+    "sourceImage": "https://assets.hbmc.net/superhot/hot.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Super Mario Construct",
+    "embed": "https://assets.hbmc.net/supermarioconstruct/",
+    "slug": "supermarioconstruct",
+    "image": "/assets/hbmc-games/images/supermarioconstruct.png",
+    "sourceImage": "https://assets.hbmc.net/supermarioconstruct/icons/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Surviv",
+    "embed": "https://assets.hbmc.net/surviv/",
+    "slug": "surviv",
+    "image": "/assets/hbmc-games/images/surviv.png",
+    "sourceImage": "https://assets.hbmc.net/surviv/img/favicon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Sushi Unroll",
+    "embed": "https://assets.hbmc.net/sushi-unroll/",
+    "slug": "sushi-unroll",
+    "image": "/assets/hbmc-games/images/sushi-unroll.png",
+    "sourceImage": "https://assets.hbmc.net/sushi-unroll/favicon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Swarm Simulator",
+    "embed": "https://assets.hbmc.net/swarmsimulator/",
+    "slug": "swarmsimulator",
+    "image": "/assets/exact-game-images/swarmsimulator.jpg",
+    "sourceImage": "https://playpokerogue.com/assets/upload/pokerogue/webp/swarmsimulator.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Swarm Simulator game thumbnail"
+  },
+  {
+    "name": "Swerve",
+    "embed": "https://assets.hbmc.net/swerve/",
+    "slug": "swerve",
+    "image": "/assets/hbmc-games/images/swerve.jpg",
+    "sourceImage": "https://assets.hbmc.net/swerve/img/favicon.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Synesthesia",
+    "embed": "https://assets.hbmc.net/synesthesia/",
+    "slug": "synesthesia",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/synesthesia/index.icon.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/synesthesia.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Tactical Weapon Pack 2",
+    "embed": "https://assets.hbmc.net/tactical-weapon-pack-2/",
+    "slug": "tactical-weapon-pack-2",
+    "image": "/assets/exact-game-images/tactical-weapon-pack-2.jpg",
+    "sourceImage": "https://img.pog.com/cloud/v2-y8-thumbs-big-thumbnails-001/144387/big.gif",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Tactical Weapon Pack 2"
+  },
+  {
+    "name": "Tactical Assassin 2",
+    "embed": "https://assets.hbmc.net/tacticalassasin2/",
+    "slug": "tacticalassasin2",
+    "image": "/assets/hbmc-games/images/tacticalassasin2.png",
+    "sourceImage": "https://assets.hbmc.net/tacticalassasin2/tacticalassassin2.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Tag",
+    "embed": "https://assets.hbmc.net/tag/",
+    "slug": "tag",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "originalImage": "/assets/game-images/tag.jpg",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Tank Trouble 2",
+    "embed": "https://assets.hbmc.net/tank-trouble-2/",
+    "slug": "tank-trouble-2",
+    "image": "/assets/hbmc-games/images/tank-trouble-2.png",
+    "sourceImage": "https://assets.hbmc.net/tank-trouble-2/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Tanuki Sunset",
+    "embed": "https://assets.hbmc.net/tanuki-sunset/",
+    "slug": "tanuki-sunset",
+    "image": "/assets/hbmc-games/images/tanuki-sunset.png",
+    "sourceImage": "https://assets.hbmc.net/tanuki-sunset/img/cover.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Temple Run 2",
+    "embed": "https://assets.hbmc.net/temple-run-2/",
+    "slug": "temple-run-2",
+    "image": "/assets/hbmc-games/images/temple-run-2.png",
+    "sourceImage": "https://assets.hbmc.net/temple-run-2/img/og-icon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "The Final Earth 2",
+    "embed": "https://assets.hbmc.net/the-final-earth-2/",
+    "slug": "the-final-earth-2",
+    "image": "/assets/hbmc-games/images/the-final-earth-2.png",
+    "sourceImage": "https://assets.hbmc.net/the-final-earth-2/icons/apple_touch_icon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "The Final Earth",
+    "embed": "https://assets.hbmc.net/the-final-earth/",
+    "slug": "the-final-earth",
+    "image": "/assets/hbmc-games/images/the-final-earth.png",
+    "sourceImage": "https://assets.hbmc.net/the-final-earth/images.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "The Hotel",
+    "embed": "https://assets.hbmc.net/the-hotel/",
+    "slug": "the-hotel",
+    "image": "/assets/hbmc-games/images/the-hotel.png",
+    "sourceImage": "https://assets.hbmc.net/the-hotel/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "The Battle",
+    "embed": "https://assets.hbmc.net/thebattle/",
+    "slug": "thebattle",
+    "image": "/assets/hbmc-games/images/thebattle.png",
+    "sourceImage": "https://assets.hbmc.net/thebattle/thebattle.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "The Heist",
+    "embed": "https://assets.hbmc.net/theheist/",
+    "slug": "theheist",
+    "image": "/assets/hbmc-games/images/theheist.jpg",
+    "sourceImage": "https://assets.hbmc.net/theheist/theheist.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "There Is No Game",
+    "embed": "https://assets.hbmc.net/there-is-no-game/",
+    "slug": "there-is-no-game",
+    "image": "/assets/hbmc-games/images/there-is-no-game.png",
+    "sourceImage": "https://assets.hbmc.net/there-is-no-game/logo.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "This Is the Only Level",
+    "embed": "https://assets.hbmc.net/thisistheonlylevel/",
+    "slug": "thisistheonlylevel",
+    "image": "/assets/hbmc-games/images/thisistheonlylevel.png",
+    "sourceImage": "https://assets.hbmc.net/thisistheonlylevel/thisistheonlylevel.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Throw Rocks",
+    "embed": "https://assets.hbmc.net/throwrocks/",
+    "slug": "throwrocks",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Tiny Fishing",
+    "embed": "https://assets.hbmc.net/tiny-fishing/",
+    "slug": "tiny-fishing",
+    "image": "/assets/exact-game-images/tiny-fishing.jpg",
+    "sourceImage": "https://thetinyfishing.com/Uploads/images/tiny-fishing-browser-vs-mobile.png",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Tiny Fishing browser game vs mobile clone comparison illustration"
+  },
+  {
+    "name": "Tiny Islands",
+    "embed": "https://assets.hbmc.net/tiny-islands/",
+    "slug": "tiny-islands",
+    "image": "/assets/exact-game-images/tiny-islands.jpg",
+    "sourceImage": "https://www.dlh.net/public/data/cache/250x130/75d9edf9cb41b4a3a9eb94242bd32307bc8481ea.jpeg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Tiny Island - Screenshots zum DLH.Net Review"
+  },
+  {
+    "name": "Toss the Turtle",
+    "embed": "https://assets.hbmc.net/tosstheturtle/",
+    "slug": "tosstheturtle",
+    "image": "/assets/hbmc-games/images/tosstheturtle.png",
+    "sourceImage": "https://assets.hbmc.net/tosstheturtle/tosstheturtle.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Townscaper",
+    "embed": "https://assets.hbmc.net/townscaper/",
+    "slug": "townscaper",
+    "image": "/assets/exact-game-images/townscaper.jpg",
+    "sourceImage": "https://assetsio.gnwcdn.com/townscaper.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Townscaper has a generous demo that runs in your browser"
+  },
+  {
+    "name": "Trimps",
+    "embed": "https://assets.hbmc.net/Trimps/",
+    "slug": "trimps",
+    "image": "/assets/exact-game-images/trimps.jpg",
+    "sourceImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1877960/header.jpg?t=1651517965",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Trimps"
+  },
+  {
+    "name": "Tube Jumpers",
+    "embed": "https://assets.hbmc.net/tube-jumpers/",
+    "slug": "tube-jumpers",
+    "image": "/assets/hbmc-games/images/tube-jumpers.jpg",
+    "sourceImage": "https://assets.hbmc.net/tube-jumpers/img/icon.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Tunnel Rush",
+    "embed": "https://assets.hbmc.net/tunnel-rush/",
+    "slug": "tunnel-rush",
+    "image": "/assets/hbmc-games/images/tunnel-rush.jpg",
+    "sourceImage": "https://assets.hbmc.net/tunnel-rush/img/tunnel.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "TV Static",
+    "embed": "https://assets.hbmc.net/tv-static/",
+    "slug": "tv-static",
+    "image": "/assets/hbmc-games/images/tv-static.png",
+    "sourceImage": "https://assets.hbmc.net/tv-static/static.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Twitch Tetris",
+    "embed": "https://assets.hbmc.net/twitch-tetris/",
+    "slug": "twitch-tetris",
+    "image": "/assets/exact-game-images/twitch-tetris.jpg",
+    "sourceImage": "https://b.thumbs.redditmedia.com/l3-dBHEVk2EQIQ6OAtgkhsXwz6P_nABdXluGVz81rtk.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "r/Tetris - Found this game called Twitch Tetris, I don't think I did horrible on it"
+  },
+  {
+    "name": "Unfair Mario",
+    "embed": "https://assets.hbmc.net/unfairmario/",
+    "slug": "unfairmario",
+    "image": "/assets/exact-game-images/unfairmario.jpg",
+    "sourceImage": "https://static.wikia.nocookie.net/jacksepticeye/images/0/05/Unfair-Mario-QQQQ-300x220.jpg/revision/latest/scale-to-width-down/268?cb=20151118013301",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Unfair-Mario-QQQQ-300x220"
+  },
+  {
+    "name": "Veloce",
+    "embed": "https://assets.hbmc.net/veloce/",
+    "slug": "veloce",
+    "image": "/assets/exact-game-images/veloce.jpg",
+    "sourceImage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2787100/header.jpg?t=1722878429",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Viva Veloce"
+  },
+  {
+    "name": "Vex 2",
+    "embed": "https://assets.hbmc.net/vex2/",
+    "slug": "vex2",
+    "image": "/assets/hbmc-games/images/vex2.jpg",
+    "sourceImage": "https://assets.hbmc.net/vex2/BC5ADE2D-5F7A-4352-A7FD-579517F823E4.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Vex 3",
+    "embed": "https://assets.hbmc.net/vex3/",
+    "slug": "vex3",
+    "image": "/assets/hbmc-games/images/vex3.png",
+    "sourceImage": "https://assets.hbmc.net/vex3/vex3.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Vex 4",
+    "embed": "https://assets.hbmc.net/vex4/",
+    "slug": "vex4",
+    "image": "/assets/hbmc-games/images/vex4.png",
+    "sourceImage": "https://assets.hbmc.net/vex4/vex4.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Vex 5",
+    "embed": "https://assets.hbmc.net/vex5/",
+    "slug": "vex5",
+    "image": "/assets/hbmc-games/images/vex5.jpg",
+    "sourceImage": "https://assets.hbmc.net/vex5/vex.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Vex 6",
+    "embed": "https://assets.hbmc.net/vex6/",
+    "slug": "vex6",
+    "image": "/assets/exact-game-images/vex6.jpg",
+    "sourceImage": "https://www.contezero.com/user/pages/03.games/01.action/vex-6/screenshot-2022-01-13.17.44.18.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "Vex 6 🕹️ 🏃 | Free Arcade Action Browser Game - Image 1"
+  },
+  {
+    "name": "Vex 7",
+    "embed": "https://assets.hbmc.net/vex7/",
+    "slug": "vex7",
+    "image": "/assets/hbmc-games/images/vex7.png",
+    "sourceImage": "https://assets.hbmc.net/vex7/assets/icon.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Volley Random",
+    "embed": "https://assets.hbmc.net/volley-random/",
+    "slug": "volley-random",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "originalImage": "/assets/game-images/volley-random.jpg",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Wall Smash",
+    "embed": "https://assets.hbmc.net/wallsmash/",
+    "slug": "wallsmash",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Waterworks",
+    "embed": "https://assets.hbmc.net/waterworks/",
+    "slug": "waterworks",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/waterworks/icon.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/waterworks.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "Weave Silk",
+    "embed": "https://assets.hbmc.net/weavesilk/",
+    "slug": "weavesilk",
+    "image": "/assets/hbmc-games/images/weavesilk.png",
+    "sourceImage": "https://assets.hbmc.net/weavesilk/img/orig_announcement.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Web Cleaner",
+    "embed": "https://assets.hbmc.net/webcleaner/",
+    "slug": "webcleaner",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/webcleaner/TemplateData/favicon.ico",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/webcleaner.ico",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "WebGL Fluid Simulation",
+    "embed": "https://assets.hbmc.net/webgl-fluid-simulation/",
+    "slug": "webgl-fluid-simulation",
+    "image": "/assets/hbmc-games/images/webgl-fluid-simulation.png",
+    "sourceImage": "https://assets.hbmc.net/webgl-fluid-simulation/logo.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "WebRetro",
+    "embed": "https://assets.hbmc.net/webretro/",
+    "slug": "webretro",
+    "image": "/assets/hbmc-games/images/webretro.png",
+    "sourceImage": "https://assets.hbmc.net/webretro/assets/icons/icon204.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "WebXash",
+    "embed": "https://assets.hbmc.net/webxash/",
+    "slug": "webxash",
+    "image": null,
+    "sourceImage": null,
+    "source": "hbmc",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "WiiCraft",
+    "embed": "https://assets.hbmc.net/wiicraft/",
+    "slug": "wiicraft",
+    "image": "/assets/exact-game-images/wiicraft.jpg",
+    "sourceImage": "https://dlhb.gamebrew.org/wiihomebrews/wiicraft3.png",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "wiicraft3.png"
+  },
+  {
+    "name": "Win the White House",
+    "embed": "https://assets.hbmc.net/win-the-whitehouse/",
+    "slug": "win-the-whitehouse",
+    "image": "/assets/hbmc-games/images/win-the-whitehouse.png",
+    "sourceImage": "https://assets.hbmc.net/win-the-whitehouse/splash.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Wolf 2D",
+    "embed": "https://assets.hbmc.net/wolf2d/",
+    "slug": "wolf2d",
+    "image": "/assets/hbmc-games/images/wolf2d.png",
+    "sourceImage": "https://assets.hbmc.net/wolf2d/icons/%5bicon-128%5d.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Wolf 3D",
+    "embed": "https://assets.hbmc.net/wolf3d/",
+    "slug": "wolf3d",
+    "image": "/assets/hbmc-games/images/wolf3d.png",
+    "sourceImage": "https://assets.hbmc.net/wolf3d/art/wolf3d.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Wordle",
+    "embed": "https://assets.hbmc.net/wordle/",
+    "slug": "wordle",
+    "image": "/assets/exact-game-images/wordle.jpg",
+    "sourceImage": "https://cdn.gamertweak.com/wp-content/uploads/2022/01/wordle-free-alternatives.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-exact-title-search",
+    "imageSearchTitle": "wordle free alternatives unblocked"
+  },
+  {
+    "name": "World's Hardest Game 2",
+    "embed": "https://assets.hbmc.net/worlds-hardest-game-2/",
+    "slug": "worlds-hardest-game-2",
+    "image": "/assets/hbmc-games/images/worlds-hardest-game-2.jpg",
+    "sourceImage": "https://assets.hbmc.net/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "World's Hardest Game",
+    "embed": "https://assets.hbmc.net/worlds-hardest-game/",
+    "slug": "worlds-hardest-game",
+    "image": "/assets/hbmc-games/images/worlds-hardest-game.jpg",
+    "sourceImage": "https://assets.hbmc.net/worlds-hardest-game/images/splash.jpg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Wounded Summer Baby Edition",
+    "embed": "https://assets.hbmc.net/wounded-summer-baby-edition/",
+    "slug": "wounded-summer-baby-edition",
+    "image": "/assets/exact-game-images/wounded-summer-baby-edition.jpg",
+    "sourceImage": "https://cybersouls.io/img/game/cover-not-found-x614-min.webp",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "Wounded Summer Baby cover"
+  },
+  {
+    "name": "X-Trial Racing",
+    "embed": "https://assets.hbmc.net/x-trial-racing/",
+    "slug": "x-trial-racing",
+    "image": "/assets/hbmc-games/images/x-trial-racing.png",
+    "sourceImage": "https://assets.hbmc.net/x-trial-racing/icon-256.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "XX142-B2EXE",
+    "embed": "https://assets.hbmc.net/xx142-b2exe/",
+    "slug": "xx142-b2exe",
+    "image": "/assets/exact-game-images/xx142-b2exe.jpg",
+    "sourceImage": "https://media.rawg.io/media/resize/200/-/screenshots/837/837d9f7a912d3c647a07a280d59d0056.jpg",
+    "source": "hbmc",
+    "imageSource": "vetted-canonical-title-search",
+    "imageSearchTitle": "xx142-b2.exe screenshot, image №2539531 - RAWG"
+  },
+  {
+    "name": "Yohoho",
+    "embed": "https://assets.hbmc.net/yohoho/",
+    "slug": "yohoho",
+    "image": "/assets/hbmc-games/images/yohoho.png",
+    "sourceImage": "https://assets.hbmc.net/yohoho/img/coins_m.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "Yoshi Fabrication",
+    "embed": "https://assets.hbmc.net/yoshifabrication/",
+    "slug": "yoshifabrication",
+    "image": "/assets/hbmc-games/images/yoshifabrication.png",
+    "sourceImage": "https://assets.hbmc.net/yoshifabrication/icons/icon-512.png",
+    "source": "hbmc"
+  },
+  {
+    "name": "You Are Bezos",
+    "embed": "https://assets.hbmc.net/you-are-bezos/",
+    "slug": "you-are-bezos",
+    "image": null,
+    "sourceImage": "https://assets.hbmc.net/you-are-bezos/img/icon.png",
+    "source": "hbmc",
+    "originalImage": "/assets/hbmc-games/images/you-are-bezos.png",
+    "imageSource": "exact-title-fallback"
+  },
+  {
+    "name": "ZigZag",
+    "embed": "https://assets.hbmc.net/zigzag/",
+    "slug": "zigzag",
+    "image": "/assets/hbmc-games/images/zigzag.jpg",
+    "sourceImage": "https://assets.hbmc.net/zigzag/4EEE71BF-A06E-478D-B1E0-F67600291BDC.jpeg",
+    "source": "hbmc"
+  },
+  {
+    "name": "Zombs Royale",
+    "embed": "https://assets.hbmc.net/zombs-royale/",
+    "slug": "zombs-royale",
+    "image": "/assets/hbmc-games/images/zombs-royale.png",
+    "sourceImage": "https://assets.hbmc.net/zombs-royale/zomb.png",
+    "source": "hbmc"
+  }
+]
