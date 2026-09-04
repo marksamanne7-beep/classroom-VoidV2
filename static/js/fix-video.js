@@ -1,26 +1,29 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // Locate any background video tags on the platform
-    const videos = document.querySelectorAll("video");
-    
-    videos.forEach(video => {
-        // Force the absolute requirements needed to bypass browser media locks
-        video.setAttribute("autoplay", "");
-        video.setAttribute("muted", "");
-        video.setAttribute("loop", "");
-        video.setAttribute("playsinline", "");
-        video.muted = true; // Hardcode the mute bridge state
-        
-        // Attempt an immediate forced play thread
-        const playPromise = video.play();
-        
-        if (playPromise !== undefined) {
-            playPromise.catch(error => {
-                console.log("Browser blocked video auto-start. Retrying on first user click input...");
-                // Backup option: Play the live background the split second they tap anywhere
-                document.body.addEventListener("click", () => {
+    const startVideoEngine = () => {
+        const videos = document.querySelectorAll("video");
+        videos.forEach(video => {
+            // Apply standard bypass filters
+            video.setAttribute("autoplay", "");
+            video.setAttribute("muted", "");
+            video.setAttribute("loop", "");
+            video.setAttribute("playsinline", "");
+            video.muted = true;
+            
+            // Aggressively attempt to trigger video playback loop
+            video.play().catch(() => {
+                // If browser refuses, try again on the very first touch interaction
+                const backupTrigger = () => {
                     video.play();
-                }, { once: true });
+                    window.removeEventListener("click", backupTrigger);
+                    window.removeEventListener("touchstart", backupTrigger);
+                };
+                window.addEventListener("click", backupTrigger);
+                window.addEventListener("touchstart", backupTrigger);
             });
-        }
-    });
+        });
+    };
+
+    // Run immediately and re-verify after 1 second for dynamic components
+    startVideoEngine();
+    setTimeout(startVideoEngine, 1000);
 });
