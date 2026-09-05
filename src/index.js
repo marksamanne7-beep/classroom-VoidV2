@@ -7,6 +7,7 @@ import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
 import serveStatic from "serve-static";
 import { handleFriendsRequest } from "./friends-store.js";
+import { getMusicHome, searchMusic, fetchMusicStream, getMusicLyrics } from "./music-source.js";
 
 const bare = createBareServer("/bare/");
 
@@ -18,17 +19,11 @@ const serve = serveStatic(
 let gamesCatalogCache = null;
 let gamesCatalogCacheTime = 0;
 const gameImageCache = new Map();
-const musicUpstream = "https://venom-music.vercel.app";
 const movieUpstream = "https://www.chillflix.lol";
 const movieCatalogUpstream = "https://mappl.tv/api/tmdb";
 const aiUpstream = "https://chat.motiftech.io/api/v1/instruct/chat";
 const imageUpstream = "https://api.freeimggen.com";
 const imageAnonymousId = `void-v2-${process.pid}-${Date.now().toString(36)}`;
-const musicRequestHeaders = {
-  "Accept": "application/json,audio/*,*/*",
-  "Referer": "https://venom-music.vercel.app/play",
-  "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36",
-};
 let movieCategoriesCache = null;
 const movieItemsCache = new Map();
 const aiRequestHeaders = {
@@ -316,26 +311,17 @@ async function serveMexiGameImage(slug, res) {
   }
 }
 
-async function proxyMusicJson(pathname, response) {
+async function sendMusicJson(loader, response, cacheControl = "no-store") {
   try {
-    const upstreamResponse = await fetch(`${musicUpstream}${pathname}`, {
-      headers: musicRequestHeaders,
-      signal: AbortSignal.timeout(15_000),
-    });
-    const contentType = upstreamResponse.headers.get("content-type") || "";
-    if (!upstreamResponse.ok || !contentType.includes("application/json")) {
-      throw new Error(`Music source returned ${upstreamResponse.status}`);
-    }
-    const body = await upstreamResponse.text();
+    const body = await loader();
     response.writeHead(200, {
       "Content-Type": "application/json; charset=utf-8",
-      "Cache-Control": pathname === "/api/home"
-        ? "public, max-age=300, stale-while-revalidate=600"
-        : "no-store",
+      "Cache-Control": cacheControl,
       "X-Content-Type-Options": "nosniff",
     });
-    response.end(body);
-  } catch {
+    response.end(JSON.stringify(body));
+  } catch (error) {
+    console.error("[music]", error?.message || error);
     response.writeHead(502, {
       "Content-Type": "application/json; charset=utf-8",
       "Cache-Control": "no-store",
@@ -346,14 +332,7 @@ async function proxyMusicJson(pathname, response) {
 
 async function proxyMusicStream(id, quality, request, response) {
   try {
-    const headers = {
-      ...musicRequestHeaders,
-      ...(request.headers.range ? { Range: request.headers.range } : {}),
-    };
-    const upstreamResponse = await fetch(
-      `${musicUpstream}/api/stream/${encodeURIComponent(id)}?q=${quality}`,
-      { headers, signal: AbortSignal.timeout(20_000) },
-    );
+    const upstreamResponse = await fetchMusicStream(id, quality, request.headers.range);
     const contentType = upstreamResponse.headers.get("content-type") || "";
     if (!upstreamResponse.ok || (!contentType.startsWith("audio/") && !contentType.startsWith("video/"))) {
       throw new Error(`Music stream returned ${upstreamResponse.status}`);
@@ -818,7 +797,7 @@ server.on("request", async (req, res) => {
   }
 
   if (urlObj.pathname === "/api/music/home") {
-    await proxyMusicJson("/api/home", res);
+    await sendMusicJson(getMusicHome, res, "public, max-age=300, stale-while-revalidate=600");
     return;
   }
 
@@ -830,7 +809,7 @@ server.on("request", async (req, res) => {
       res.end(JSON.stringify({ error: "Enter at least two characters." }));
       return;
     }
-    await proxyMusicJson(`/api/search/songs?q=${encodeURIComponent(query)}&page=${page}`, res);
+    await sendMusicJson(() => searchMusic(query, page), res);
     return;
   }
 
@@ -842,10 +821,7 @@ server.on("request", async (req, res) => {
       res.end(JSON.stringify({ error: "A song title is required." }));
       return;
     }
-    await proxyMusicJson(
-      `/api/lyrics?title=${encodeURIComponent(title)}${artist ? `&artist=${encodeURIComponent(artist)}` : ""}`,
-      res,
-    );
+    await sendMusicJson(() => getMusicLyrics(title, artist), res, "public, max-age=86400");
     return;
   }
 
