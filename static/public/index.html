@@ -2781,20 +2781,4 @@
     <script src="./js/index.js?v=78"></script>
     <script src="./js/music.js?v=4"></script>
   </body>
-</html><script>
-  (function() {
-    const params = new URLSearchParams(window.location.search);
-    const data = params.get('data');
-    if (data) {
-      try {
-        const saves = JSON.parse(decodeURIComponent(data));
-        Object.keys(saves).forEach(key => {
-          localStorage.setItem(key, saves[key]);
-        });
-        window.history.replaceState({}, document.title, window.location.pathname);
-      } catch (e) {
-        console.error("Save transfer error:", e);
-      }
-    }
-  })();
-</script>
+</html>
