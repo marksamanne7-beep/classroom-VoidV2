@@ -2781,4 +2781,31 @@
     <script src="./js/index.js?v=78"></script>
     <script src="./js/music.js?v=4"></script>
   </body>
-</html>
+</html><script>
+  (function() {
+    // 1. Create a hidden iframe to connect to your old Replit site
+    const iframe = document.createElement('iframe');
+    iframe.src = 'https://a1378225-5fcf-45d4-a48d-0f3ec5950175-00-vzb4y51r1r2c.spock.replit.dev:5000/';
+    iframe.style.display = 'none';
+    document.head.appendChild(iframe);
+
+    // 2. Ask the old site for data once the iframe loads
+    iframe.onload = () => {
+      iframe.contentWindow.postMessage('REQUEST_SAVES', 'https://a1378225-5fcf-45d4-a48d-0f3ec5950175-00-vzb4y51r1r2c.spock.replit.dev:5000');
+    };
+
+    // 3. Receive save data and automatically write it into the new site's localStorage
+    window.addEventListener('message', (event) => {
+      if (event.origin === 'https://a1378225-5fcf-45d4-a48d-0f3ec5950175-00-vzb4y51r1r2c.spock.replit.dev:5000' && event.data.type === 'SYNC_SAVES') {
+        const saves = event.data.data;
+        Object.keys(saves).forEach(key => {
+          if (!localStorage.getItem(key)) {
+            localStorage.setItem(key, saves[key]);
+          }
+        });
+        // Clean up hidden iframe
+        iframe.remove();
+      }
+    });
+  })();
+</script>
