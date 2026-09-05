@@ -6,6 +6,7 @@ import { readFileSync, existsSync } from "node:fs";
 import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
 import serveStatic from "serve-static";
+import des from "des.js";
 import { handleFriendsRequest } from "./friends-store.js";
 
 const bare = createBareServer("/bare/");
@@ -18,7 +19,13 @@ const serve = serveStatic(
 let gamesCatalogCache = null;
 let gamesCatalogCacheTime = 0;
 const gameImageCache = new Map();
-const musicUpstream = "https://venom-music.vercel.app";
+const musicUpstream = "https://www.jiosaavn.com/api.php?_format=json&_marker=0&api_version=4&ctx=web6dot0";
+const lyricsUpstream = "https://lrclib.net/api/get";
+// Well-known static DES key JioSaavn uses for encrypted_media_url.
+const musicMediaKey = Buffer.from("38346591");
+let musicHomeCache = null;
+let musicHomeCacheTime = 0;
+const musicStreamUrlCache = new Map();
 const movieUpstream = "https://www.chillflix.lol";
 const movieCatalogUpstream = "https://mappl.tv/api/tmdb";
 const aiUpstream = "https://chat.motiftech.io/api/v1/instruct/chat";
@@ -26,7 +33,6 @@ const imageUpstream = "https://api.freeimggen.com";
 const imageAnonymousId = `void-v2-${process.pid}-${Date.now().toString(36)}`;
 const musicRequestHeaders = {
   "Accept": "application/json,audio/*,*/*",
-  "Referer": "https://venom-music.vercel.app/play",
   "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36",
 };
 let movieCategoriesCache = null;
@@ -316,31 +322,161 @@ async function serveMexiGameImage(slug, res) {
   }
 }
 
-async function proxyMusicJson(pathname, response) {
+async function fetchMusicJson(query) {
+  const upstreamResponse = await fetch(`${musicUpstream}&${query}`, {
+    headers: musicRequestHeaders,
+    signal: AbortSignal.timeout(15_000),
+  });
+  if (!upstreamResponse.ok) throw new Error(`Music source returned ${upstreamResponse.status}`);
+  // JioSaavn labels its JSON as text/html, so parse the body instead of trusting content-type.
+  return JSON.parse(await upstreamResponse.text());
+}
+
+function decodeMusicText(value) {
+  return String(value ?? "")
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, "&")
+    .replace(/&#039;/g, "'")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">");
+}
+
+function normalizeMusicSong(song) {
+  if (!song?.id || song.type !== "song") return null;
+  const info = song.more_info || {};
+  const artistMap = info.artistMap || {};
+  const artists = (artistMap.primary_artists?.length ? artistMap.primary_artists : artistMap.artists || [])
+    .map(artist => ({ name: decodeMusicText(artist?.name) }))
+    .filter(artist => artist.name);
+  if (!artists.length && song.subtitle) {
+    artists.push({ name: decodeMusicText(song.subtitle).split(" - ")[0] });
+  }
+  const image = String(song.image || "");
+  return {
+    id: String(song.id),
+    title: decodeMusicText(song.title),
+    album: decodeMusicText(info.album || ""),
+    artists,
+    image,
+    imageLarge: image.replace(/-150x150\./, "-500x500."),
+    duration: Number(info.duration) || 0,
+    streams: true,
+  };
+}
+
+function decryptMusicMediaUrl(encrypted) {
+  const decipher = des.DES.create({ type: "decrypt", key: musicMediaKey });
+  let bytes = Buffer.from(decipher.update(Buffer.from(encrypted, "base64")).concat(decipher.final()));
+  const padding = bytes[bytes.length - 1];
+  if (padding > 0 && padding <= 8) bytes = bytes.subarray(0, bytes.length - padding);
+  const url = bytes.toString("utf8").trim();
+  if (!/^https?:\/\/[a-z0-9.-]+\.saavncdn\.com\//i.test(url)) throw new Error("Unexpected media url");
+  return url.replace(/^http:/, "https:");
+}
+
+async function resolveMusicStreamUrl(id, quality) {
+  const cached = musicStreamUrlCache.get(id);
+  let baseUrl = cached && Date.now() - cached.time < 30 * 60_000 ? cached.url : null;
+  if (!baseUrl) {
+    const data = await fetchMusicJson(`__call=song.getDetails&pids=${encodeURIComponent(id)}`);
+    const song = Array.isArray(data?.songs) ? data.songs[0] : data?.[id];
+    const encrypted = song?.more_info?.encrypted_media_url || song?.encrypted_media_url;
+    if (!encrypted) throw new Error("Track has no media url");
+    baseUrl = decryptMusicMediaUrl(encrypted);
+    musicStreamUrlCache.set(id, { url: baseUrl, time: Date.now() });
+    if (musicStreamUrlCache.size > 500) {
+      musicStreamUrlCache.delete(musicStreamUrlCache.keys().next().value);
+    }
+  }
+  return baseUrl.replace(/_\d+\.mp4(\?.*)?$/, `_${quality}.mp4`);
+}
+
+function sendMusicJson(response, payload, cacheControl = "no-store") {
+  response.writeHead(200, {
+    "Content-Type": "application/json; charset=utf-8",
+    "Cache-Control": cacheControl,
+    "X-Content-Type-Options": "nosniff",
+  });
+  response.end(JSON.stringify(payload));
+}
+
+function sendMusicError(response, status, message) {
+  response.writeHead(status, {
+    "Content-Type": "application/json; charset=utf-8",
+    "Cache-Control": "no-store",
+  });
+  response.end(JSON.stringify({ error: message }));
+}
+
+async function getMusicHome() {
+  if (musicHomeCache && Date.now() - musicHomeCacheTime < 10 * 60_000) return musicHomeCache;
+  const languages = ["english", "hindi"];
+  const results = await Promise.allSettled(
+    languages.map(language =>
+      fetchMusicJson(`__call=content.getTrending&entity_type=song&entity_language=${language}`),
+    ),
+  );
+  const seen = new Set();
+  const songs = [];
+  for (const result of results) {
+    if (result.status !== "fulfilled" || !Array.isArray(result.value)) continue;
+    for (const item of result.value) {
+      const song = normalizeMusicSong(item);
+      if (song && !seen.has(song.id)) {
+        seen.add(song.id);
+        songs.push(song);
+      }
+    }
+  }
+  if (!songs.length) throw new Error("No trending songs");
+  musicHomeCache = { songs };
+  musicHomeCacheTime = Date.now();
+  return musicHomeCache;
+}
+
+async function handleMusicHome(response) {
   try {
-    const upstreamResponse = await fetch(`${musicUpstream}${pathname}`, {
-      headers: musicRequestHeaders,
+    sendMusicJson(response, await getMusicHome(), "public, max-age=300, stale-while-revalidate=600");
+  } catch {
+    sendMusicError(response, 502, "Music source is temporarily unavailable.");
+  }
+}
+
+async function handleMusicSearch(query, page, response) {
+  try {
+    const data = await fetchMusicJson(
+      `__call=search.getResults&q=${encodeURIComponent(query)}&p=${page}&n=30`,
+    );
+    const songs = (Array.isArray(data?.results) ? data.results : [])
+      .map(normalizeMusicSong)
+      .filter(Boolean);
+    sendMusicJson(response, { songs, total: Number(data?.total) || songs.length });
+  } catch {
+    sendMusicError(response, 502, "Music search is temporarily unavailable.");
+  }
+}
+
+async function handleMusicLyrics(title, artist, response) {
+  try {
+    const params = new URLSearchParams({ track_name: title });
+    if (artist) params.set("artist_name", artist.split(",")[0].trim());
+    const upstreamResponse = await fetch(`${lyricsUpstream}?${params}`, {
+      headers: { ...musicRequestHeaders, Accept: "application/json" },
       signal: AbortSignal.timeout(15_000),
     });
-    const contentType = upstreamResponse.headers.get("content-type") || "";
-    if (!upstreamResponse.ok || !contentType.includes("application/json")) {
-      throw new Error(`Music source returned ${upstreamResponse.status}`);
+    if (upstreamResponse.status === 404) {
+      sendMusicJson(response, { plainLyrics: "", syncedLyrics: "" }, "public, max-age=3600");
+      return;
     }
-    const body = await upstreamResponse.text();
-    response.writeHead(200, {
-      "Content-Type": "application/json; charset=utf-8",
-      "Cache-Control": pathname === "/api/home"
-        ? "public, max-age=300, stale-while-revalidate=600"
-        : "no-store",
-      "X-Content-Type-Options": "nosniff",
-    });
-    response.end(body);
+    if (!upstreamResponse.ok) throw new Error(`Lyrics source returned ${upstreamResponse.status}`);
+    const data = await upstreamResponse.json();
+    sendMusicJson(
+      response,
+      { plainLyrics: data?.plainLyrics || "", syncedLyrics: data?.syncedLyrics || "" },
+      "public, max-age=3600",
+    );
   } catch {
-    response.writeHead(502, {
-      "Content-Type": "application/json; charset=utf-8",
-      "Cache-Control": "no-store",
-    });
-    response.end(JSON.stringify({ error: "Music source is temporarily unavailable." }));
+    sendMusicError(response, 502, "Lyrics are temporarily unavailable.");
   }
 }
 
@@ -350,10 +486,8 @@ async function proxyMusicStream(id, quality, request, response) {
       ...musicRequestHeaders,
       ...(request.headers.range ? { Range: request.headers.range } : {}),
     };
-    const upstreamResponse = await fetch(
-      `${musicUpstream}/api/stream/${encodeURIComponent(id)}?q=${quality}`,
-      { headers, signal: AbortSignal.timeout(20_000) },
-    );
+    const streamUrl = await resolveMusicStreamUrl(id, quality);
+    const upstreamResponse = await fetch(streamUrl, { headers, signal: AbortSignal.timeout(20_000) });
     const contentType = upstreamResponse.headers.get("content-type") || "";
     if (!upstreamResponse.ok || (!contentType.startsWith("audio/") && !contentType.startsWith("video/"))) {
       throw new Error(`Music stream returned ${upstreamResponse.status}`);
@@ -818,7 +952,7 @@ server.on("request", async (req, res) => {
   }
 
   if (urlObj.pathname === "/api/music/home") {
-    await proxyMusicJson("/api/home", res);
+    await handleMusicHome(res);
     return;
   }
 
@@ -830,7 +964,7 @@ server.on("request", async (req, res) => {
       res.end(JSON.stringify({ error: "Enter at least two characters." }));
       return;
     }
-    await proxyMusicJson(`/api/search/songs?q=${encodeURIComponent(query)}&page=${page}`, res);
+    await handleMusicSearch(query, page, res);
     return;
   }
 
@@ -842,10 +976,7 @@ server.on("request", async (req, res) => {
       res.end(JSON.stringify({ error: "A song title is required." }));
       return;
     }
-    await proxyMusicJson(
-      `/api/lyrics?title=${encodeURIComponent(title)}${artist ? `&artist=${encodeURIComponent(artist)}` : ""}`,
-      res,
-    );
+    await handleMusicLyrics(title, artist, res);
     return;
   }
 

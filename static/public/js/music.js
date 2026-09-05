@@ -182,7 +182,7 @@ function musicViewTracks() {
 
 function renderMusicView() {
   const headings = {
-    discover: ['Discover', 'Fresh music from the Venom catalog, presented by Void.'],
+    discover: ['Discover', 'Trending songs right now, presented by Void.'],
     search: ['Search results', 'Songs matching your search.'],
     liked: ['Liked songs', 'The tracks you saved on this device.'],
     playlist: ['My playlist', 'Your personal play queue, stored on this device.'],
