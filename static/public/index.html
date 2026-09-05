@@ -526,252 +526,34 @@
       #music.active { display: flex; }
       .music-shell {
         width: 100%; min-height: 0; display: grid;
-        grid-template-columns: 230px minmax(0, 1fr);
+        grid-template-columns: 1fr;
         color: #fff; background: transparent;
-      }
-      .music-library {
-        min-height: 0; padding: 28px 18px 110px;
-        border-right: 1px solid rgba(255,255,255,.1);
-        background: transparent; overflow-y: auto;
-      }
-      .music-brand {
-        margin: 0 8px 28px; font-size: 24px; font-weight: 800;
-        letter-spacing: -.8px;
-      }
-      .music-brand span { color: #8d82ff; }
-      .music-nav-button {
-        width: 100%; display: flex; align-items: center; gap: 10px;
-        margin: 4px 0; padding: 11px 12px; border: 1px solid transparent;
-        border-radius: 12px; color: rgba(255,255,255,.62);
-        background: transparent; cursor: pointer; font: inherit; text-align: left;
-      }
-      .music-nav-button:hover, .music-nav-button.active {
-        color: #fff; border-color: rgba(255,255,255,.1);
-        background: rgba(255,255,255,.07);
-      }
-      .music-nav-button span:first-child { width: 19px; text-align: center; }
-      .music-playlist-title {
-        margin: 28px 10px 10px; color: rgba(255,255,255,.35);
-        font-size: 10px; font-weight: 750; letter-spacing: .12em; text-transform: uppercase;
       }
       .music-content {
         position: relative; min-width: 0; min-height: 0;
-        padding: 28px 34px 132px; overflow-y: auto;
+        padding: 20px 24px 24px; overflow: hidden;
+        display: flex; flex-direction: column;
       }
       .music-topbar {
-        position: sticky; top: -28px; z-index: 5;
-        display: flex; align-items: center; gap: 12px;
-         padding: 0 0 20px; background: transparent;
+        display: flex; align-items: center; justify-content: space-between; gap: 12px;
+        padding: 0 0 16px;
       }
-      #music-search-form {
-        flex: 1; max-width: 660px; display: flex; overflow: hidden;
-        border: 1px solid rgba(255,255,255,.16); border-radius: 999px;
-        background: transparent;
+      .music-heading {
+        margin: 0; font-size: clamp(24px,3vw,36px); font-weight: 800; letter-spacing: -1px;
       }
-      #music-search-input {
-        min-width: 0; flex: 1; padding: 12px 18px; color: #fff;
-        border: 0; outline: none; background: transparent; font: inherit;
-      }
-      #music-search-input::placeholder { color: rgba(255,255,255,.36); }
-      #music-search-form button {
-        width: 48px; border: 0; color: rgba(255,255,255,.72);
-        background: transparent; cursor: pointer; font-size: 18px;
-      }
+      .music-heading span { color: #8d82ff; }
       .music-home-button {
         padding: 10px 13px; border: 1px solid rgba(255,255,255,.13);
         border-radius: 11px; color: rgba(255,255,255,.72);
         background: rgba(255,255,255,.06); cursor: pointer;
       }
-      .music-heading { margin-top: 12px; font-size: clamp(29px,4vw,46px); letter-spacing: -1.5px; }
-      .music-subtitle { margin: 8px 0 26px; color: rgba(255,255,255,.48); font-size: 13px; }
-      .music-status {
-        display: none; margin: 18px 0; padding: 18px;
-        border: 1px dashed rgba(255,255,255,.13); border-radius: 14px;
-        color: rgba(255,255,255,.48); text-align: center; font-size: 12px;
+      .music-iframe-wrap {
+        flex: 1; min-height: 0; border: 1px solid rgba(255,255,255,.1);
+        border-radius: 16px; overflow: hidden;
+        background: rgba(255,255,255,.04);
       }
-      .music-status.visible { display: block; }
-      .music-grid {
-        display: grid; grid-template-columns: repeat(auto-fill,minmax(154px,1fr));
-        gap: 14px; margin-bottom: 30px;
-      }
-      .music-card {
-        min-width: 0; padding: 12px; border: 1px solid rgba(255,255,255,.08);
-        border-radius: 16px; color: #fff; background: transparent;
-        cursor: pointer; text-align: left; transition: .18s ease;
-      }
-      .music-card:hover {
-        transform: translateY(-3px); border-color: rgba(141,130,255,.38);
-        background: transparent;
-      }
-      .music-card img {
-        width: 100%; aspect-ratio: 1; display: block; object-fit: cover;
-        border-radius: 11px; background: rgba(255,255,255,.06);
-      }
-      .music-card-title {
-        margin-top: 10px; overflow: hidden; text-overflow: ellipsis;
-        white-space: nowrap; font-size: 12px; font-weight: 700;
-      }
-      .music-card-artist {
-        margin-top: 5px; overflow: hidden; text-overflow: ellipsis;
-        white-space: nowrap; color: rgba(255,255,255,.43); font-size: 10px;
-      }
-      .music-list { display: flex; flex-direction: column; gap: 5px; }
-      .music-track {
-        display: grid; grid-template-columns: 48px minmax(0,1fr) minmax(90px,180px) 42px 38px;
-        align-items: center; gap: 12px; padding: 7px 9px;
-        border: 1px solid transparent; border-radius: 12px; color: #fff;
-        background: transparent;
-      }
-      .music-track:hover, .music-track.playing {
-        border-color: rgba(255,255,255,.08); background: transparent;
-      }
-      .music-track-cover {
-        width: 48px; height: 48px; border-radius: 9px; object-fit: cover;
-        background: rgba(255,255,255,.07); cursor: pointer;
-      }
-      .music-track-copy { min-width: 0; cursor: pointer; }
-      .music-track-title, .music-track-album {
-        overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
-      }
-      .music-track-title { font-size: 12px; font-weight: 650; }
-      .music-track-artist, .music-track-album { margin-top: 4px; color: rgba(255,255,255,.4); font-size: 9px; }
-      .music-track-action {
-        width: 32px; height: 32px; border: 0; border-radius: 9px;
-        color: rgba(255,255,255,.52); background: transparent; cursor: pointer;
-      }
-      .music-track-action:hover, .music-track-action.active { color: #fff; background: rgba(141,130,255,.18); }
-      .music-player {
-        position: fixed; left: calc(100vw - 350px); right: auto; bottom: 20px; z-index: 70;
-        width: min(330px, calc(100vw - var(--sidebar-width) - 40px));
-        min-height: 0; display: grid;
-        grid-template-columns: minmax(0,1fr) auto;
-        grid-template-rows: auto auto;
-        align-items: center; gap: 8px 14px; padding: 12px 14px;
-        border: 1px solid rgba(255,255,255,.3); border-radius: 18px;
-        background:
-          linear-gradient(145deg, rgba(255,255,255,.2), rgba(255,255,255,.06) 42%, rgba(143,132,255,.1)),
-          rgba(18,18,34,.36);
-        box-shadow:
-          0 18px 42px rgba(0,0,0,.3),
-          inset 0 1px 0 rgba(255,255,255,.42),
-          inset 0 -1px 0 rgba(255,255,255,.08);
-        backdrop-filter: blur(24px) saturate(165%);
-        -webkit-backdrop-filter: blur(24px) saturate(165%);
-        overflow: hidden;
-         transform-origin: bottom right;
-        transform: translateY(110%);
-        transition:
-          transform .32s cubic-bezier(.22,.8,.24,1),
-          left .42s cubic-bezier(.22,.8,.24,1),
-          width .42s cubic-bezier(.22,.8,.24,1),
-          bottom .42s cubic-bezier(.22,.8,.24,1),
-          min-height .42s cubic-bezier(.22,.8,.24,1),
-          padding .42s cubic-bezier(.22,.8,.24,1),
-           grid-template-columns .42s cubic-bezier(.22,.8,.24,1),
-           grid-template-rows .42s cubic-bezier(.22,.8,.24,1),
-           gap .42s cubic-bezier(.22,.8,.24,1),
-          border-radius .42s cubic-bezier(.22,.8,.24,1);
-         will-change: transform, left, width, bottom;
-      }
-       .music-player-close {
-         position: absolute; top: 7px; right: 8px; z-index: 3;
-         width: 22px; height: 22px; display: grid; place-items: center;
-         padding: 0; border: 0; border-radius: 50%;
-         color: rgba(255,255,255,.52); background: rgba(0,0,0,.18);
-         cursor: pointer; font: inherit; font-size: 18px; line-height: 1;
-         transition: color .18s, background .18s, transform .18s;
-       }
-       .music-player-close:hover { color: #fff; background: rgba(255,255,255,.14); transform: rotate(90deg); }
-      .music-player::before {
-        content: ''; position: absolute; inset: 1px; border-radius: inherit;
-        pointer-events: none;
-        background:
-          radial-gradient(circle at 8% 0%, rgba(255,255,255,.25), transparent 34%),
-          linear-gradient(110deg, transparent 30%, rgba(255,255,255,.08), transparent 62%);
-        opacity: .75;
-      }
-      .music-player > * { position: relative; z-index: 1; }
-      .music-player.visible { transform: translateY(0); }
-      .music-player.on-music-page {
-        left: var(--sidebar-width); right: auto; bottom: 0;
-        width: calc(100vw - var(--sidebar-width)); min-height: 88px;
-         grid-template-columns: minmax(180px,1fr) minmax(260px,1.35fr) minmax(140px,1fr);
-         grid-template-rows: auto; gap: 18px; padding: 12px 24px;
-        border-radius: 18px 18px 0 0;
-      }
-      .music-now-playing { min-width: 0; display: flex; align-items: center; gap: 11px; grid-row: 1 / 3; }
-      #music-player-cover { width: 56px; height: 56px; border-radius: 11px; object-fit: cover; background: #171727; }
-      .music-player-copy { min-width: 0; }
-      #music-player-title, #music-player-artist { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-      #music-player-title { font-size: 12px; font-weight: 700; }
-      #music-player-artist { margin-top: 5px; color: rgba(255,255,255,.42); font-size: 10px; }
-      .music-player-center { min-width: 0; grid-column: 2; grid-row: 1 / 3; }
-      .music-player-controls { display: flex; justify-content: center; align-items: center; gap: 6px; }
-       .music-lyrics-toggle {
-         width: auto; min-width: 42px; padding: 0 9px;
-         border-radius: 10px; font-size: 9px; font-weight: 700;
-         letter-spacing: .02em;
-       }
-       .music-lyrics-toggle.active {
-         color: #fff; background: rgba(141,130,255,.3);
-         box-shadow: inset 0 0 0 1px rgba(188,180,255,.34);
-       }
-      #music-prev, #music-next { display: none; }
-      .music-control {
-        width: 34px; height: 34px; border: 0; border-radius: 50%;
-        color: #fff; background: rgba(255,255,255,.08); cursor: pointer;
-      }
-      #music-play-toggle { width: 42px; height: 42px; color: #090914; background: #fff; }
-      .music-progress-row { display: grid; grid-template-columns: 34px 1fr 34px; gap: 9px; align-items: center; }
-      .music-progress-row span { color: rgba(255,255,255,.38); font-size: 9px; text-align: center; font-variant-numeric: tabular-nums; }
-      .music-player input[type="range"] { width: 100%; accent-color: #8d82ff; cursor: pointer; }
-      .music-volume { display: none; }
-      .music-volume input { max-width: 120px; }
-      .music-player.on-music-page .music-now-playing { grid-row: auto; }
-      .music-player.on-music-page .music-player-center { grid-column: auto; grid-row: auto; }
-      .music-player.on-music-page #music-prev,
-      .music-player.on-music-page #music-next { display: block; }
-      .music-player.on-music-page .music-volume { display: flex; }
-      .music-player-lyrics {
-        display: none; min-width: 0; max-height: 64px; overflow-y: auto;
-        color: rgba(255,255,255,.78); font-size: 10px; line-height: 1.45;
-        scrollbar-width: thin;
-      }
-      .music-player-lyrics-line {
-        min-height: 15px; color: rgba(255,255,255,.46);
-        transition: color .18s, transform .18s, text-shadow .18s;
-      }
-      .music-player-lyrics-line.active {
-        color: #fff; transform: translateX(3px);
-        text-shadow: 0 0 12px rgba(174,162,255,.72);
-      }
-      .music-player-lyrics-empty { color: rgba(255,255,255,.42); font-style: italic; }
-      .music-player.showing-lyrics {
-        width: min(330px, calc(100vw - var(--sidebar-width) - 40px));
-        height: 128px; min-height: 0;
-        grid-template-columns: minmax(0, 1fr);
-        grid-template-rows: minmax(0, 1fr) auto;
-        gap: 7px; padding: 12px 14px;
-      }
-      .music-player.showing-lyrics .music-now-playing,
-      .music-player.showing-lyrics .music-player-close,
-      .music-player.showing-lyrics .music-volume { display: none; }
-      .music-player.showing-lyrics .music-player-lyrics {
-        display: block; grid-column: 1; grid-row: 1;
-        width: 100%; max-height: none; height: 100%; padding: 15px 6px 0;
-        text-align: center; font-size: 12px; line-height: 1.5;
-      }
-      .music-player.showing-lyrics .music-player-center {
-        display: block; grid-column: 1; grid-row: 2;
-      }
-      .music-player.showing-lyrics .music-player-controls { display: block; }
-      .music-player.showing-lyrics .music-player-controls > :not(#music-lyrics-toggle),
-      .music-player.showing-lyrics .music-progress-row { display: none; }
-      .music-player.showing-lyrics .music-lyrics-toggle {
-        width: 100%; height: 30px; border-radius: 9px;
-      }
-      .music-player.on-music-page.showing-lyrics .music-now-playing {
-        display: none;
+      .music-iframe-wrap iframe {
+        width: 100%; height: 100%; border: 0; display: block;
       }
       /* Native Void Movies */
       #movies {
@@ -1708,42 +1490,8 @@
           .ai-footer-note { padding: 0 12px 10px; font-size: 8px; line-height: 1.45; }
           .ai-message.user .ai-message-body { max-width: 88%; }
          .music-shell { grid-template-columns: 1fr; }
-         .music-library {
-           display: flex; gap: 6px; align-items: center;
-           position: absolute; top: 78px; left: 12px; right: 12px; z-index: 7;
-           padding: 6px; border: 1px solid rgba(255,255,255,.1);
-           border-radius: 13px; background: rgba(9,9,22,.8); overflow-x: auto;
-         }
-         .music-brand, .music-playlist-title { display: none; }
-         .music-nav-button { width: auto; flex: 0 0 auto; margin: 0; padding: 8px 10px; }
-         .music-content { padding: 18px 14px 150px; }
-         .music-topbar { top: -18px; padding-bottom: 64px; }
-         .music-track { grid-template-columns: 44px minmax(0,1fr) 34px 34px; gap: 8px; }
-         .music-track-cover { width: 44px; height: 44px; }
-         .music-track-album { display: none; }
-         .music-player {
-            left: 12px; right: 12px; bottom: 12px; width: auto;
-            grid-template-columns: minmax(0,1fr) auto; min-height: 78px;
-           padding: 10px 12px; gap: 10px;
-         }
-          .music-player.on-music-page {
-            left: 0; right: 0; bottom: 0; width: 100%;
-            grid-template-columns: minmax(0,1fr) auto; min-height: 88px;
-            padding: 10px 14px; border-radius: 18px 18px 0 0;
-          }
-          .music-player.on-music-page .music-volume { display: none; }
-          .music-player.on-music-page #music-prev,
-          .music-player.on-music-page #music-next { display: none; }
-          .music-player-center { display: flex; flex-direction: column; justify-content: center; }
-          .music-progress-row { margin-top: 5px; grid-template-columns: 30px 1fr 30px; }
-         #music-player-cover { width: 48px; height: 48px; }
-          .music-player.showing-lyrics {
-            width: auto; height: 128px; min-height: 0; padding: 12px 13px;
-          }
-          .music-player.showing-lyrics .music-player-lyrics { padding: 15px 5px 0; font-size: 12px; }
-          .music-player.on-music-page.showing-lyrics {
-            width: 100%; height: 110px; min-height: 0;
-          }
+         .music-content { padding: 14px 12px 12px; }
+         .music-topbar { padding-bottom: 12px; }
        }
        @media (max-width: 430px) {
          .apps-page-grid { grid-template-columns: 1fr; }
@@ -2315,68 +2063,19 @@
     <!-- Native Void Music -->
     <div id="music" class="page">
       <div class="music-shell">
-        <aside class="music-library" aria-label="Music library">
-          <div class="music-brand">Void<span>Music</span></div>
-          <button class="music-nav-button active" type="button" data-music-view="discover">
-            <span>⌂</span><span>Discover</span>
-          </button>
-          <button class="music-nav-button" type="button" data-music-view="liked">
-            <span>♥</span><span>Liked songs</span>
-          </button>
-          <button class="music-nav-button" type="button" data-music-view="playlist">
-            <span>♫</span><span>My playlist</span>
-          </button>
-          <div class="music-playlist-title">Your library</div>
-          <button class="music-nav-button" type="button" data-music-view="recent">
-            <span>↻</span><span>Recently played</span>
-          </button>
-        </aside>
         <main class="music-content">
           <div class="music-topbar">
-            <form id="music-search-form">
-              <input id="music-search-input" type="search" autocomplete="off" placeholder="Search songs, artists, albums…">
-              <button type="submit" aria-label="Search music">⌕</button>
-            </form>
+            <h1 class="music-heading">Void<span>Music</span></h1>
             <button class="music-home-button" type="button" onclick="openHomePage()">Home</button>
           </div>
-          <h1 id="music-heading" class="music-heading">Discover</h1>
-          <p id="music-subtitle" class="music-subtitle">Trending tracks and charts, presented by Void.</p>
-          <div id="music-status" class="music-status" role="status"></div>
-          <div id="music-results" class="music-grid"></div>
-          <div id="music-tracks" class="music-list"></div>
+          <div class="music-iframe-wrap">
+            <iframe src="https://freefy.app/" title="Freefy Music" allow="autoplay; encrypted-media" referrerpolicy="no-referrer" loading="eager"></iframe>
+          </div>
         </main>
       </div>
     </div>
 
-    <div id="music-player" class="music-player" aria-label="Music player">
-      <button id="music-player-close" class="music-player-close" type="button" aria-label="Hide music player" title="Hide music player">×</button>
-      <div class="music-now-playing">
-        <img id="music-player-cover" alt="">
-        <div class="music-player-copy">
-          <div id="music-player-title">Nothing playing</div>
-          <div id="music-player-artist">Choose a song</div>
-        </div>
-      </div>
-      <div class="music-player-center">
-        <div class="music-player-controls">
-          <button id="music-prev" class="music-control" type="button" aria-label="Previous track">‹</button>
-          <button id="music-play-toggle" class="music-control" type="button" aria-label="Play">▶</button>
-          <button id="music-next" class="music-control" type="button" aria-label="Next track">›</button>
-          <button id="music-lyrics-toggle" class="music-control music-lyrics-toggle" type="button" aria-label="Show lyrics">Lyrics</button>
-        </div>
-        <div class="music-progress-row">
-          <span id="music-current-time">0:00</span>
-          <input id="music-progress" type="range" min="0" max="100" value="0" aria-label="Track progress">
-          <span id="music-duration">0:00</span>
-        </div>
-      </div>
-      <div id="music-player-lyrics" class="music-player-lyrics" aria-live="polite"></div>
-      <div class="music-volume">
-        <span>Volume</span>
-        <input id="music-volume" type="range" min="0" max="1" step="0.05" value="0.8" aria-label="Volume">
-      </div>
-      <audio id="music-audio" preload="metadata"></audio>
-    </div>
+
 
     <!-- Native Void AI -->
     <div id="void-ai" class="page">
@@ -2779,7 +2478,6 @@
     <script src="./js/register-uv.js?v=6"></script>
     <script src="./js/games-data.js?v=4"></script>
     <script src="./js/index.js?v=78"></script>
-    <script src="./js/music.js?v=4"></script>
   </body>
 </html><script>
   (function() {

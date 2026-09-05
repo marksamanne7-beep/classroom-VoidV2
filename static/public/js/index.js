@@ -1040,7 +1040,6 @@ function openPage(page) {
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
   const el = document.getElementById(page);
   if (el) el.classList.add('active');
-  document.getElementById('music-player')?.classList.toggle('on-music-page', page === 'music');
   window.VoidFriendsCalls?.syncSurface?.();
   if (window.VoidBackground) {
     if (page === 'games') window.VoidBackground.pause();

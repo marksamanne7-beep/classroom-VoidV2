@@ -7,7 +7,6 @@ import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
 import serveStatic from "serve-static";
 import { handleFriendsRequest } from "./friends-store.js";
-import { getMusicHome, searchMusic, fetchMusicStream, getMusicLyrics } from "./music-source.js";
 
 const bare = createBareServer("/bare/");
 
@@ -308,58 +307,6 @@ async function serveMexiGameImage(slug, res) {
     return true;
   } catch {
     return false;
-  }
-}
-
-async function sendMusicJson(loader, response, cacheControl = "no-store") {
-  try {
-    const body = await loader();
-    response.writeHead(200, {
-      "Content-Type": "application/json; charset=utf-8",
-      "Cache-Control": cacheControl,
-      "X-Content-Type-Options": "nosniff",
-    });
-    response.end(JSON.stringify(body));
-  } catch (error) {
-    console.error("[music]", error?.message || error);
-    response.writeHead(502, {
-      "Content-Type": "application/json; charset=utf-8",
-      "Cache-Control": "no-store",
-    });
-    response.end(JSON.stringify({ error: "Music source is temporarily unavailable." }));
-  }
-}
-
-async function proxyMusicStream(id, quality, request, response) {
-  try {
-    const upstreamResponse = await fetchMusicStream(id, quality, request.headers.range);
-    const contentType = upstreamResponse.headers.get("content-type") || "";
-    if (!upstreamResponse.ok || (!contentType.startsWith("audio/") && !contentType.startsWith("video/"))) {
-      throw new Error(`Music stream returned ${upstreamResponse.status}`);
-    }
-    const responseHeaders = {
-      "Content-Type": contentType,
-      "Cache-Control": "private, max-age=900",
-      "Accept-Ranges": upstreamResponse.headers.get("accept-ranges") || "bytes",
-      "X-Content-Type-Options": "nosniff",
-    };
-    for (const name of ["content-length", "content-range"]) {
-      const value = upstreamResponse.headers.get(name);
-      if (value) responseHeaders[name] = value;
-    }
-    response.writeHead(upstreamResponse.status, responseHeaders);
-    if (!upstreamResponse.body) {
-      response.end();
-      return;
-    }
-    await pipeline(Readable.fromWeb(upstreamResponse.body), response);
-  } catch {
-    if (!response.headersSent) {
-      response.writeHead(502, { "Content-Type": "text/plain", "Cache-Control": "no-store" });
-      response.end("Music stream is temporarily unavailable.");
-    } else if (!response.destroyed) {
-      response.destroy();
-    }
   }
 }
 
@@ -793,49 +740,6 @@ server.on("request", async (req, res) => {
     } finally {
       capacity.release();
     }
-    return;
-  }
-
-  if (urlObj.pathname === "/api/music/home") {
-    await sendMusicJson(getMusicHome, res, "public, max-age=300, stale-while-revalidate=600");
-    return;
-  }
-
-  if (urlObj.pathname === "/api/music/search") {
-    const query = String(urlObj.searchParams.get("q") || "").trim().slice(0, 100);
-    const page = Math.max(1, Math.min(20, Number(urlObj.searchParams.get("page")) || 1));
-    if (query.length < 2) {
-      res.writeHead(400, { "Content-Type": "application/json", "Cache-Control": "no-store" });
-      res.end(JSON.stringify({ error: "Enter at least two characters." }));
-      return;
-    }
-    await sendMusicJson(() => searchMusic(query, page), res);
-    return;
-  }
-
-  if (urlObj.pathname === "/api/music/lyrics") {
-    const title = String(urlObj.searchParams.get("title") || "").trim().slice(0, 160);
-    const artist = String(urlObj.searchParams.get("artist") || "").trim().slice(0, 160);
-    if (!title) {
-      res.writeHead(400, { "Content-Type": "application/json", "Cache-Control": "no-store" });
-      res.end(JSON.stringify({ error: "A song title is required." }));
-      return;
-    }
-    await sendMusicJson(() => getMusicLyrics(title, artist), res, "public, max-age=86400");
-    return;
-  }
-
-  if (urlObj.pathname === "/api/music/stream") {
-    const id = String(urlObj.searchParams.get("id") || "");
-    const quality = ["96", "160", "320"].includes(urlObj.searchParams.get("q"))
-      ? urlObj.searchParams.get("q")
-      : "160";
-    if (!/^[a-zA-Z0-9_:-]{1,100}$/.test(id)) {
-      res.writeHead(400, { "Content-Type": "text/plain", "Cache-Control": "no-store" });
-      res.end("Invalid track.");
-      return;
-    }
-    await proxyMusicStream(id, quality, req, res);
     return;
   }
 
